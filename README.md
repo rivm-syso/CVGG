@@ -1,5 +1,7 @@
-# Informatiemodel Geluid
+# CVGG - documentatie
+Op deze github pagina's  wordt (technische) documentatie beschikbaar gesteld. De informatie is ingedeeld naar onderstaande onderdelen. Deze pagina's zijn nog in ontwikkeling. 
 
+## Informatiemodel Geluid
 De laatst vastgestelde versie van IMGeluid vind je steeds:
 - [IMgeluid Catalogus](https://docs.geostandaarden.nl/cvgg/img/ "IMgeluid Catalogus")
 - [IMgeluid applicatieschema (xsd)](https://register.geostandaarden.nl/?url=img/index.html "IMgeluid applicatieschema (xsd)")
@@ -18,9 +20,3 @@ Nadere toelichting over de inhoud van aanlever- en uitleverbestanden vind je in 
 Per geluidbron en per type aanlevering zijn voorbeelbeeld beschikbaar. We beginnen met het beschikbaar stellen van Rijkswegen, Hoofdspoor, en luchtvaart. Gaandeweg worden andere geluidbronnen toegevoegd. Dat geld zowel voor de aanlever- als uitleverbestanden. 
 
 **LET OP.** Doel van de voorbeeldbestanden is om te laten zien hoe een GML er conform uitwisselstandaard en IMgeluid uit moet zien. De inhoud van de voorbeeldbestanden is fictief, en komt niet overeen met de akoestische werkelijkheid.
-
-- [Voorbeeldbestanden aanleveren (IMGeluid 1.1)](https://github.com/rivm-syso/CVGG/tree/main/voorbeeldbestanden "Voorbeeldbestanden aanleveren (IMGeluid 1.1)")
-- Voorbeeldbestanden uitleveren
-
-## Feedback
-De voorbeeldbestanden zijn me zorg samengesteld. Mochten jullie nog fouten tegen komen, of suggesties tot verbetering horen we dat heel graag! Dan kunnen we dit verbeteren. Dat geldt voor zowel het IMgeluid, de uitwisselstaandaard, en de voorbeelbestanden. Jullie ervaringen en terugkoppling zijn dan ook van harte welkom! Graag via cvgg@rivm.nl
