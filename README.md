@@ -1,7 +1,3 @@
-# Centrale Voorziening Geluidgevevens - CVGG
-
-Op deze GitHub-pagina's wordt (technische) documentatie gepubliceerd over het uitwisselen van geluidgegevens met de CVGG. 
-
 # Informatiemodel Geluid
 
 De laatst vastgestelde versie van IMGeluid vind je steeds:
@@ -18,12 +14,12 @@ Nadere toelichting over de inhoud van aanlever- en uitleverbestanden vind je in 
 - Handreiking aanleveren bronhouders
 - CVGG uitwisselstandaard
 
-##  Voorbeeldbestanden
+## Voorbeeldbestanden
 Per geluidbron en per type aanlevering zijn voorbeelbeeld beschikbaar. We beginnen met het beschikbaar stellen van Rijkswegen, Hoofdspoor, en luchtvaart. Gaandeweg worden andere geluidbronnen toegevoegd. Dat geld zowel voor de aanlever- als uitleverbestanden. 
 
 **LET OP.** Doel van de voorbeeldbestanden is om te laten zien hoe een GML er conform uitwisselstandaard en IMgeluid uit moet zien. De inhoud van de voorbeeldbestanden is fictief, en komt niet overeen met de akoestische werkelijkheid.
 
-- Voorbeeldbestanden aanleveren (IMGeluid 1.1)
+- [Voorbeeldbestanden aanleveren (IMGeluid 1.1)](https://github.com/rivm-syso/CVGG/blob/Voorbeeldbestanden/Test_Aanleverbestanden_IMGeluid_1.1RC2.zip "Voorbeeldbestanden aanleveren (IMGeluid 1.1)")
 - Voorbeeldbestanden uitleveren
 
 ## Feedback
