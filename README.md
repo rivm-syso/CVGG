@@ -21,7 +21,7 @@ Per geluidbron en per type aanlevering zijn voorbeelbeeld beschikbaar. We beginn
 
 **LET OP.** Doel van de voorbeeldbestanden is om te laten zien hoe een GML er conform uitwisselstandaard en IMgeluid uit moet zien. De inhoud van de voorbeeldbestanden is fictief, en komt niet overeen met de akoestische werkelijkheid.
 
-- [Voorbeeldbestanden aanleveren (IMGeluid 1.1)](https://github.com/rivm-syso/CVGG/tree/main/voorbeeldbestanden "Voorbeeldbestanden aanleveren (IMGeluid 1.1)")
+- [Voorbeeldbestanden aanleveren (IMGeluid 1.1)](https://github.com/rivm-syso/CVGG/blob/main/voorbeeldbestanden/IMGeluid%201.1 "Voorbeeldbestanden aanleveren (IMGeluid 1.1)")
 - Voorbeeldbestanden uitleveren
 
 ## Feedback
