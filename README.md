@@ -13,7 +13,7 @@ Aanlever- en uitleverbestanden moeten voldoen aan de [uitwisselstandaard](https:
 ## Inhoud bestanden
 Nadere toelichting over de inhoud van aanlever- en uitleverbestanden vind je in volgende documenten. In de handreiking aanleveren staat o.a beschreven welke onderdelen van IMgeluid je moet aanleveren per geluidbron en per type aanlevering. 
 
-- Handreiking aanleveren bronhouders
+- [Handreiking aanleveren bronhouders](https://github.com/rivm-syso/CVGG/blob/main/documenten/Uitwisselstandaard%20Centrale%20Voorziening%20Geluidgegevens%200.4.pdf "Handreiking aanleveren bronhouders")
 - CVGG uitwisselstandaard
 
 ## Voorbeeldbestanden
