@@ -17,9 +17,9 @@ Nadere toelichting over de inhoud van aanlever- en uitleverbestanden vind je in 
 - [CVGG uitwisselstandaard](https://github.com/rivm-syso/CVGG/blob/main/documenten/Uitwisselstandaard%20Centrale%20Voorziening%20Geluidgegevens%200.4.pdf "CVGG uitwisselstandaard")
 
 ## Voorbeeldbestanden
-Per geluidbron en per type aanlevering (aanlever- of uitleverbestand) zijn voorbeelden beschikbaar. We beginnen met het beschikbaar stellen van de geluidbronnen rijksweg, hoofdspoor, luchtvaart, en gemeenteweg. Gaandeweg worden andere geluidbronnen toegevoegd. Dat geldt zowel voor de aanlever- als uitleverbestanden.
+Per geluidbron en per type aan- of uitlevering zijn voorbeelden beschikbaar. We beginnen met het beschikbaar stellen van de geluidbronnen rijksweg, hoofdspoor, luchtvaart, en gemeenteweg. Gaandeweg worden andere geluidbronnen toegevoegd. Dat geldt zowel voor de aanlever- als uitleverbestanden.
 
-LET OP. Doel van de voorbeeldbestanden is om te laten zien hoe een GML-bestand er uit moet komen te zien volgens de structuur van het IMGeluid, en conform de uitwisselstandaard. De inhoud is dan ook fictief, en komt NIET overeen met de akoestische werkelijkheid.
+LET OP. Doel van de voorbeeldbestanden is om te laten zien hoe een GML-bestand er uit moet komen te zien volgens de structuur van het IMGeluid, en conform de uitwisselstandaard. De inhoud is dan ook **fictief**, en komt **NIET** overeen met de akoestische werkelijkheid.
 
 - [Voorbeeldbestanden aanleveren (IMGeluid 1.1)](https://github.com/rivm-syso/CVGG/blob/main/voorbeeldbestanden/IMGeluid%201.1 "Voorbeeldbestanden aanleveren (IMGeluid 1.1)")
 - Voorbeeldbestanden uitleveren
