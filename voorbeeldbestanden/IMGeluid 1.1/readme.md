@@ -1,10 +1,10 @@
 # Voorbeeldbestanden
 
-Hier vind je steeds de meeste recente versie van voorbeeldbestanden.
+Hier vind je steeds de meeste recente versie van voorbeeldbestanden.  
 
-Per geluidbron en per type aanlevering zijn voorbeelden beschikbaar. We beginnen met het beschikbaar stellen van Rijkswegen, Hoofdspoor, en luchtvaart. Gaandeweg worden andere geluidbronnen toegevoegd. Dat geldt zowel voor de aanlever- als uitleverbestanden.
+Per geluidbron en per type aanlevering (aanlever- of uitleverbestand) zijn voorbeelden beschikbaar. We beginnen met het beschikbaar stellen van de geluidbronnen rijksweg, hoofdspoor, luchtvaart, en gemeenteweg. Gaandeweg worden andere geluidbronnen toegevoegd. Dat geldt zowel voor de aanlever- als uitleverbestanden.
 
-**LET OP.** Doel van de voorbeeldbestanden is om te laten zien hoe een GML-bestand er uit moet komen te zien volgens de structuur van het IMGeluid, en conform de uitwisselstandaard. De inhoud is dan ook fictief, en komt niet overeen met de akoestische werkelijkheid.
+**LET OP.** Doel van de voorbeeldbestanden is om te laten zien hoe een GML-bestand er uit moet komen te zien volgens de structuur van het IMGeluid, en conform de uitwisselstandaard. De inhoud is dan ook fictief, en komt **NIET** overeen met de akoestische werkelijkheid.
 
 # Feedback
 
