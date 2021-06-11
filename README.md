@@ -13,8 +13,8 @@ Aanlever- en uitleverbestanden moeten voldoen aan de [Uitwisselstandaard CVGG](h
 ## Inhoud bestanden
 Nadere toelichting over de inhoud van aanlever- en uitleverbestanden vind je in volgende documenten. In de handreiking aanleveren gegevens CVGG staat o.a beschreven welke onderdelen van IMgeluid je moet aanleveren per geluidbron en per type aanlevering.
 
-- Handreiking Uitwisselen gegevens CVGG
-- [CVGG uitwisselstandaard](https://github.com/rivm-syso/CVGG/blob/main/documenten/Uitwisselstandaard%20Centrale%20Voorziening%20Geluidgegevens%200.4.pdf "CVGG uitwisselstandaard")
+- [Handreiking Uitwisselen gegevens CVGG](https://github.com/rivm-syso/CVGG/tree/main/documenten "Handreiking Uitwisselen gegevens CVGG")
+- [Uitwisselstandaard CVGG](https://github.com/rivm-syso/CVGG/tree/main/documenten/Uitwisselstandaard%20Centrale%20Voorziening%20Geluidgegevens%200.4.pdf "CVGG uitwisselstandaard")
 
 ## Voorbeeldbestanden
 Per geluidbron en per type aan- of uitlevering zijn voorbeelden beschikbaar. We beginnen met het beschikbaar stellen van de geluidbronnen rijksweg, hoofdspoor, luchtvaart, en gemeenteweg. Gaandeweg worden andere geluidbronnen toegevoegd. Dat geldt zowel voor de aanlever- als uitleverbestanden.
