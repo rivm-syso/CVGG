@@ -1,4 +1,4 @@
-# CVGG - documentatie
+# CVGG - documentatie -bla
 Op deze github pagina's  wordt (technische) documentatie beschikbaar gesteld. De informatie is ingedeeld naar onderstaande onderdelen. Deze pagina's zijn nog in ontwikkeling. 
 
 ## Informatiemodel Geluid
