@@ -7,7 +7,7 @@ De laatst vastgestelde versie van IMGeluid vind je steeds:
 - [IMgeluid applicatieschema (xsd)](https://register.geostandaarden.nl/?url=img/index.html "IMgeluid applicatieschema (xsd)")
 
 # Uitwisselen gegevens
-Aanlever- en uitleverbestanden moeten voldoen aan de [Uitwisselstandaard CVGG](https://github.com/rivm-syso/CVGG/blob/main/documenten/Uitwisselstandaard%20Centrale%20Voorziening%20Geluidgegevens%200.4.pdf) en het [IMGeluid](https://docs.geostandaarden.nl/cvgg/img/ "IMGeluid"). De inhoud van een aanleverbestand wordt bepaald door de geluidbron en het type aanlevering. De inhoud van het uitleverbestand (download) door het type uitlevering. 
+Aanlever- en uitleverbestanden moeten voldoen aan de [Uitwisselstandaard CVGG](https://github.com/rivm-syso/CVGG/blob/main/documenten/Uitwisselstandaard%20Centrale%20Voorziening%20Geluidgegevens%200.5.pdf "[Uitwisselstandaard CVGG]") en het [IMGeluid](https://docs.geostandaarden.nl/cvgg/img/ "IMGeluid"). De inhoud van een aanleverbestand wordt bepaald door de geluidbron en het type aanlevering. De inhoud van het uitleverbestand (download) door het type uitlevering. 
 
 ## Inhoud bestanden
 Nadere toelichting over de inhoud van aanlever- en uitleverbestanden vind je in volgende documenten. In de handreiking uitwisselen gegevens CVGG staat o.a beschreven welke onderdelen van IMGeluid je moet aanleveren per geluidbron en per type aanlevering.
