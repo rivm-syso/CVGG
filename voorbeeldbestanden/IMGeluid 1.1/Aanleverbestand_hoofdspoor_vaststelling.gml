@@ -711,19 +711,19 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       <img:omschrijving>Omschrijving emplacement bron</img:omschrijving>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>0</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>0.0</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>avond</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>0</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>0.0</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>dag</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>0</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>0.0</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>nacht</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
@@ -767,19 +767,19 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       <img:omschrijving>Omschrijving emplacement bron</img:omschrijving>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>0</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>0.0</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>avond</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>0</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>0.0</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>dag</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>0</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>0.0</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>nacht</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
@@ -823,19 +823,19 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       <img:omschrijving>Omschrijving emplacement bron</img:omschrijving>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>0</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>0.0</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>avond</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>0</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>0.0</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>dag</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>0</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>0.0</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>nacht</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
@@ -879,19 +879,19 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       <img:omschrijving>Omschrijving emplacement bron</img:omschrijving>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>0</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>0.0</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>avond</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>0</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>0.0</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>dag</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>0</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>0.0</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>nacht</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
@@ -935,7 +935,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       <img:omschrijving>Omschrijving emplacement bron</img:omschrijving>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>6</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>6.0</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>avond</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
@@ -947,7 +947,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:bedrijfsduurcorrectie>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>6</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>6.0</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>nacht</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
@@ -991,7 +991,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       <img:omschrijving>Omschrijving emplacement bron</img:omschrijving>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>6</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>6.0</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>avond</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
@@ -1003,7 +1003,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:bedrijfsduurcorrectie>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>6</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>6.0</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>nacht</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
@@ -1047,7 +1047,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       <img:omschrijving>Omschrijving emplacement bron</img:omschrijving>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>6</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>6.0</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>avond</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
@@ -1059,7 +1059,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:bedrijfsduurcorrectie>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>6</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>6.0</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>nacht</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
@@ -1103,7 +1103,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       <img:omschrijving>Omschrijving emplacement bron</img:omschrijving>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>6</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>6.0</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>avond</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
@@ -1115,7 +1115,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:bedrijfsduurcorrectie>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>6</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>6.0</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>nacht</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
@@ -1159,7 +1159,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       <img:omschrijving>Omschrijving emplacement bron</img:omschrijving>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>6</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>6.0</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>avond</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
@@ -1171,7 +1171,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:bedrijfsduurcorrectie>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>6</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>6.0</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>nacht</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
@@ -1215,7 +1215,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       <img:omschrijving>Omschrijving emplacement bron</img:omschrijving>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>6</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>6.0</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>avond</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
@@ -1227,7 +1227,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:bedrijfsduurcorrectie>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>6</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>6.0</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>nacht</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
@@ -1271,7 +1271,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       <img:omschrijving>Omschrijving emplacement bron</img:omschrijving>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>6</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>6.0</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>avond</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
@@ -1283,7 +1283,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:bedrijfsduurcorrectie>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>6</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>6.0</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>nacht</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
@@ -1327,7 +1327,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       <img:omschrijving>Omschrijving emplacement bron</img:omschrijving>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>6</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>6.0</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>avond</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
@@ -1339,7 +1339,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:bedrijfsduurcorrectie>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>6</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>6.0</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>nacht</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
@@ -1383,19 +1383,19 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       <img:omschrijving>Omschrijving emplacement bron</img:omschrijving>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>0</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>0.0</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>avond</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>0</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>0.0</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>dag</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>0</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>0.0</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>nacht</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
@@ -1439,19 +1439,19 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       <img:omschrijving>Omschrijving emplacement bron</img:omschrijving>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>0</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>0.0</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>avond</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>0</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>0.0</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>dag</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>0</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>0.0</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>nacht</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
@@ -1999,7 +1999,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       <img:omschrijving>Omschrijving emplacement bron</img:omschrijving>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>10</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>10.0</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>avond</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
@@ -2011,7 +2011,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:bedrijfsduurcorrectie>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>13</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>13.0</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>nacht</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
@@ -2055,7 +2055,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       <img:omschrijving>Omschrijving emplacement bron</img:omschrijving>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>10</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>10.0</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>avond</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
@@ -2067,7 +2067,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:bedrijfsduurcorrectie>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>13</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>13.0</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>nacht</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
@@ -2111,7 +2111,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       <img:omschrijving>Omschrijving emplacement bron</img:omschrijving>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>10</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>10.0</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>avond</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
@@ -2123,7 +2123,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:bedrijfsduurcorrectie>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>13</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>13.0</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>nacht</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
@@ -2167,7 +2167,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       <img:omschrijving>Omschrijving emplacement bron</img:omschrijving>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>10</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>10.0</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>avond</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
@@ -2179,7 +2179,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:bedrijfsduurcorrectie>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>13</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>13.0</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>nacht</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
@@ -2223,7 +2223,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       <img:omschrijving>Omschrijving emplacement bron</img:omschrijving>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>10</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>10.0</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>avond</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
@@ -2235,7 +2235,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:bedrijfsduurcorrectie>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>13</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>13.0</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>nacht</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
@@ -2279,7 +2279,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       <img:omschrijving>Omschrijving emplacement bron</img:omschrijving>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>10</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>10.0</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>avond</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
@@ -2291,7 +2291,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:bedrijfsduurcorrectie>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>13</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>13.0</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>nacht</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
@@ -2335,7 +2335,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       <img:omschrijving>Omschrijving emplacement bron</img:omschrijving>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>10</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>10.0</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>avond</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
@@ -2347,7 +2347,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:bedrijfsduurcorrectie>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>13</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>13.0</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>nacht</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
@@ -2391,7 +2391,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       <img:omschrijving>Omschrijving emplacement bron</img:omschrijving>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>10</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>10.0</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>avond</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
@@ -2403,7 +2403,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:bedrijfsduurcorrectie>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>13</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>13.0</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>nacht</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
@@ -2447,7 +2447,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       <img:omschrijving>Omschrijving emplacement bron</img:omschrijving>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>10</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>10.0</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>avond</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
@@ -2459,7 +2459,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:bedrijfsduurcorrectie>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>13</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>13.0</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>nacht</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
@@ -2503,7 +2503,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       <img:omschrijving>Omschrijving emplacement bron</img:omschrijving>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>10</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>10.0</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>avond</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
@@ -2515,7 +2515,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:bedrijfsduurcorrectie>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>13</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>13.0</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>nacht</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
@@ -2559,7 +2559,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       <img:omschrijving>Omschrijving emplacement bron</img:omschrijving>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>10</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>10.0</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>avond</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
@@ -2571,7 +2571,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:bedrijfsduurcorrectie>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>13</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>13.0</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>nacht</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
@@ -2615,7 +2615,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       <img:omschrijving>Omschrijving emplacement bron</img:omschrijving>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>10</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>10.0</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>avond</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
@@ -2627,7 +2627,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:bedrijfsduurcorrectie>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>13</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>13.0</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>nacht</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
@@ -2671,7 +2671,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       <img:omschrijving>Omschrijving emplacement bron</img:omschrijving>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>10</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>10.0</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>avond</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
@@ -2683,7 +2683,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:bedrijfsduurcorrectie>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>13</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>13.0</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>nacht</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
@@ -2727,7 +2727,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       <img:omschrijving>Omschrijving emplacement bron</img:omschrijving>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>10</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>10.0</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>avond</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
@@ -2739,7 +2739,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:bedrijfsduurcorrectie>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>13</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>13.0</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>nacht</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
@@ -2783,7 +2783,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       <img:omschrijving>Omschrijving emplacement bron</img:omschrijving>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>200</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>200.0</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>avond</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
@@ -2795,7 +2795,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:bedrijfsduurcorrectie>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>200</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>200.0</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>nacht</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
@@ -2839,7 +2839,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       <img:omschrijving>Omschrijving emplacement bron</img:omschrijving>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>200</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>200.0</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>avond</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
@@ -2851,7 +2851,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:bedrijfsduurcorrectie>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>200</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>200.0</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>nacht</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
@@ -2895,7 +2895,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       <img:omschrijving>Omschrijving emplacement bron</img:omschrijving>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>200</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>200.0</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>avond</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
@@ -2907,7 +2907,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:bedrijfsduurcorrectie>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>200</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>200.0</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>nacht</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
@@ -2951,7 +2951,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       <img:omschrijving>Omschrijving emplacement bron</img:omschrijving>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>200</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>200.0</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>avond</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
@@ -2963,7 +2963,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:bedrijfsduurcorrectie>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>200</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>200.0</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>nacht</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
@@ -3007,7 +3007,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       <img:omschrijving>Omschrijving emplacement bron</img:omschrijving>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>200</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>200.0</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>avond</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
@@ -3019,7 +3019,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:bedrijfsduurcorrectie>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>200</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>200.0</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>nacht</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
@@ -3063,7 +3063,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       <img:omschrijving>Omschrijving emplacement bron</img:omschrijving>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>200</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>200.0</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>avond</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
@@ -3075,7 +3075,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:bedrijfsduurcorrectie>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>200</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>200.0</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>nacht</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
@@ -3287,19 +3287,19 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       <img:omschrijving>Omschrijving emplacement bron</img:omschrijving>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>5</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>5.0</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>avond</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>0</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>0.0</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>dag</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>10</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>10.0</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>nacht</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
@@ -3343,19 +3343,19 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       <img:omschrijving>Omschrijving emplacement bron</img:omschrijving>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>24.96</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>24.9</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>avond</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>24.52</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>24.5</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>dag</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>24.86</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>24.8</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>nacht</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
@@ -3399,19 +3399,19 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       <img:omschrijving>Omschrijving emplacement bron</img:omschrijving>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>28.13</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>28.1</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>avond</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>26.26</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>26.2</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>dag</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>27.31</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>27.3</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>nacht</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
@@ -3455,7 +3455,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       <img:omschrijving>Omschrijving emplacement bron</img:omschrijving>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>25.44</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>25.4</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>avond</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
@@ -3467,7 +3467,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:bedrijfsduurcorrectie>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>25.92</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>25.9</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>nacht</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
@@ -3517,13 +3517,13 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:bedrijfsduurcorrectie>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>25.45</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>25.4</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>dag</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>26.01</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>26.0</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>nacht</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
