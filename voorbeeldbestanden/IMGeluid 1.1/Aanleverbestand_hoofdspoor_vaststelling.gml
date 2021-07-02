@@ -711,19 +711,19 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       <img:omschrijving>Omschrijving emplacement bron</img:omschrijving>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>0</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>0.0</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>avond</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>0</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>0.0</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>dag</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>0</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>0.0</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>nacht</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
@@ -767,19 +767,19 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       <img:omschrijving>Omschrijving emplacement bron</img:omschrijving>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>0</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>0.0</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>avond</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>0</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>0.0</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>dag</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>0</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>0.0</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>nacht</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
@@ -823,19 +823,19 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       <img:omschrijving>Omschrijving emplacement bron</img:omschrijving>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>0</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>0.0</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>avond</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>0</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>0.0</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>dag</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>0</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>0.0</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>nacht</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
@@ -879,19 +879,19 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       <img:omschrijving>Omschrijving emplacement bron</img:omschrijving>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>0</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>0.0</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>avond</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>0</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>0.0</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>dag</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>0</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>0.0</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>nacht</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
@@ -935,7 +935,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       <img:omschrijving>Omschrijving emplacement bron</img:omschrijving>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>6</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>6.0</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>avond</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
@@ -947,7 +947,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:bedrijfsduurcorrectie>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>6</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>6.0</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>nacht</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
@@ -991,7 +991,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       <img:omschrijving>Omschrijving emplacement bron</img:omschrijving>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>6</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>6.0</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>avond</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
@@ -1003,7 +1003,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:bedrijfsduurcorrectie>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>6</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>6.0</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>nacht</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
@@ -1047,7 +1047,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       <img:omschrijving>Omschrijving emplacement bron</img:omschrijving>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>6</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>6.0</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>avond</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
@@ -1059,7 +1059,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:bedrijfsduurcorrectie>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>6</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>6.0</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>nacht</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
@@ -1103,7 +1103,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       <img:omschrijving>Omschrijving emplacement bron</img:omschrijving>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>6</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>6.0</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>avond</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
@@ -1115,7 +1115,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:bedrijfsduurcorrectie>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>6</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>6.0</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>nacht</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
@@ -1159,7 +1159,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       <img:omschrijving>Omschrijving emplacement bron</img:omschrijving>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>6</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>6.0</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>avond</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
@@ -1171,7 +1171,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:bedrijfsduurcorrectie>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>6</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>6.0</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>nacht</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
@@ -1215,7 +1215,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       <img:omschrijving>Omschrijving emplacement bron</img:omschrijving>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>6</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>6.0</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>avond</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
@@ -1227,7 +1227,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:bedrijfsduurcorrectie>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>6</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>6.0</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>nacht</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
@@ -1271,7 +1271,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       <img:omschrijving>Omschrijving emplacement bron</img:omschrijving>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>6</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>6.0</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>avond</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
@@ -1283,7 +1283,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:bedrijfsduurcorrectie>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>6</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>6.0</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>nacht</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
@@ -1327,7 +1327,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       <img:omschrijving>Omschrijving emplacement bron</img:omschrijving>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>6</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>6.0</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>avond</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
@@ -1339,7 +1339,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:bedrijfsduurcorrectie>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>6</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>6.0</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>nacht</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
@@ -1383,19 +1383,19 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       <img:omschrijving>Omschrijving emplacement bron</img:omschrijving>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>0</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>0.0</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>avond</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>0</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>0.0</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>dag</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>0</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>0.0</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>nacht</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
@@ -1439,19 +1439,19 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       <img:omschrijving>Omschrijving emplacement bron</img:omschrijving>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>0</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>0.0</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>avond</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>0</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>0.0</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>dag</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>0</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>0.0</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>nacht</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
@@ -1999,7 +1999,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       <img:omschrijving>Omschrijving emplacement bron</img:omschrijving>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>10</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>10.0</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>avond</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
@@ -2011,7 +2011,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:bedrijfsduurcorrectie>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>13</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>13.0</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>nacht</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
@@ -2055,7 +2055,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       <img:omschrijving>Omschrijving emplacement bron</img:omschrijving>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>10</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>10.0</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>avond</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
@@ -2067,7 +2067,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:bedrijfsduurcorrectie>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>13</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>13.0</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>nacht</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
@@ -2111,7 +2111,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       <img:omschrijving>Omschrijving emplacement bron</img:omschrijving>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>10</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>10.0</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>avond</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
@@ -2123,7 +2123,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:bedrijfsduurcorrectie>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>13</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>13.0</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>nacht</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
@@ -2167,7 +2167,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       <img:omschrijving>Omschrijving emplacement bron</img:omschrijving>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>10</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>10.0</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>avond</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
@@ -2179,7 +2179,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:bedrijfsduurcorrectie>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>13</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>13.0</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>nacht</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
@@ -2223,7 +2223,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       <img:omschrijving>Omschrijving emplacement bron</img:omschrijving>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>10</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>10.0</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>avond</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
@@ -2235,7 +2235,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:bedrijfsduurcorrectie>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>13</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>13.0</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>nacht</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
@@ -2279,7 +2279,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       <img:omschrijving>Omschrijving emplacement bron</img:omschrijving>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>10</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>10.0</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>avond</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
@@ -2291,7 +2291,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:bedrijfsduurcorrectie>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>13</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>13.0</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>nacht</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
@@ -2335,7 +2335,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       <img:omschrijving>Omschrijving emplacement bron</img:omschrijving>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>10</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>10.0</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>avond</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
@@ -2347,7 +2347,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:bedrijfsduurcorrectie>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>13</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>13.0</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>nacht</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
@@ -2391,7 +2391,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       <img:omschrijving>Omschrijving emplacement bron</img:omschrijving>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>10</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>10.0</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>avond</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
@@ -2403,7 +2403,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:bedrijfsduurcorrectie>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>13</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>13.0</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>nacht</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
@@ -2447,7 +2447,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       <img:omschrijving>Omschrijving emplacement bron</img:omschrijving>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>10</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>10.0</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>avond</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
@@ -2459,7 +2459,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:bedrijfsduurcorrectie>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>13</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>13.0</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>nacht</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
@@ -2503,7 +2503,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       <img:omschrijving>Omschrijving emplacement bron</img:omschrijving>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>10</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>10.0</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>avond</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
@@ -2515,7 +2515,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:bedrijfsduurcorrectie>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>13</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>13.0</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>nacht</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
@@ -2559,7 +2559,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       <img:omschrijving>Omschrijving emplacement bron</img:omschrijving>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>10</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>10.0</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>avond</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
@@ -2571,7 +2571,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:bedrijfsduurcorrectie>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>13</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>13.0</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>nacht</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
@@ -2615,7 +2615,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       <img:omschrijving>Omschrijving emplacement bron</img:omschrijving>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>10</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>10.0</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>avond</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
@@ -2627,7 +2627,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:bedrijfsduurcorrectie>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>13</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>13.0</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>nacht</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
@@ -2671,7 +2671,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       <img:omschrijving>Omschrijving emplacement bron</img:omschrijving>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>10</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>10.0</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>avond</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
@@ -2683,7 +2683,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:bedrijfsduurcorrectie>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>13</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>13.0</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>nacht</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
@@ -2727,7 +2727,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       <img:omschrijving>Omschrijving emplacement bron</img:omschrijving>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>10</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>10.0</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>avond</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
@@ -2739,7 +2739,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:bedrijfsduurcorrectie>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>13</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>13.0</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>nacht</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
@@ -2783,7 +2783,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       <img:omschrijving>Omschrijving emplacement bron</img:omschrijving>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>200</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>200.0</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>avond</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
@@ -2795,7 +2795,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:bedrijfsduurcorrectie>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>200</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>200.0</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>nacht</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
@@ -2839,7 +2839,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       <img:omschrijving>Omschrijving emplacement bron</img:omschrijving>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>200</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>200.0</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>avond</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
@@ -2851,7 +2851,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:bedrijfsduurcorrectie>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>200</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>200.0</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>nacht</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
@@ -2895,7 +2895,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       <img:omschrijving>Omschrijving emplacement bron</img:omschrijving>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>200</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>200.0</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>avond</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
@@ -2907,7 +2907,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:bedrijfsduurcorrectie>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>200</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>200.0</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>nacht</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
@@ -2951,7 +2951,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       <img:omschrijving>Omschrijving emplacement bron</img:omschrijving>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>200</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>200.0</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>avond</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
@@ -2963,7 +2963,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:bedrijfsduurcorrectie>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>200</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>200.0</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>nacht</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
@@ -3007,7 +3007,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       <img:omschrijving>Omschrijving emplacement bron</img:omschrijving>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>200</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>200.0</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>avond</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
@@ -3019,7 +3019,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:bedrijfsduurcorrectie>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>200</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>200.0</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>nacht</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
@@ -3063,7 +3063,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       <img:omschrijving>Omschrijving emplacement bron</img:omschrijving>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>200</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>200.0</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>avond</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
@@ -3075,7 +3075,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:bedrijfsduurcorrectie>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>200</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>200.0</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>nacht</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
@@ -3287,19 +3287,19 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       <img:omschrijving>Omschrijving emplacement bron</img:omschrijving>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>5</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>5.0</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>avond</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>0</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>0.0</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>dag</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>10</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>10.0</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>nacht</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
@@ -3343,19 +3343,19 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       <img:omschrijving>Omschrijving emplacement bron</img:omschrijving>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>24.96</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>24.9</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>avond</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>24.52</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>24.5</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>dag</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>24.86</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>24.8</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>nacht</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
@@ -3399,19 +3399,19 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       <img:omschrijving>Omschrijving emplacement bron</img:omschrijving>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>28.13</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>28.1</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>avond</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>26.26</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>26.2</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>dag</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>27.31</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>27.3</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>nacht</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
@@ -3455,7 +3455,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       <img:omschrijving>Omschrijving emplacement bron</img:omschrijving>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>25.44</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>25.4</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>avond</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
@@ -3467,7 +3467,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:bedrijfsduurcorrectie>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>25.92</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>25.9</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>nacht</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
@@ -3517,13 +3517,13 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:bedrijfsduurcorrectie>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>25.45</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>25.4</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>dag</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
       <img:bedrijfsduurcorrectie>
         <img:BedrijfsduurcorrectieWaarde>
-          <img:bedrijfsduurcorrectiewaarde>26.01</img:bedrijfsduurcorrectiewaarde>
+          <img:bedrijfsduurcorrectiewaarde>26.0</img:bedrijfsduurcorrectiewaarde>
           <img:dagdeel>nacht</img:dagdeel>
         </img:BedrijfsduurcorrectieWaarde>
       </img:bedrijfsduurcorrectie>
@@ -6759,10 +6759,15 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:reflectiefactorRechts>
       <img:statusZwevend>false</img:statusZwevend>
       <img:geometrie>
-        <gml:Curve srsName="urn:ogc:def:crs:EPSG::28992" srsDimension="2">
+        <gml:Curve srsName="urn:ogc:def:crs:EPSG::7415" srsDimension="3">
           <gml:segments>
             <gml:LineStringSegment>
-              <gml:posList>144976.59 502919.57 144973.59 502921.45 144959.28 502930.42 144937.96 502943.78 144928.64 502949.77 144888.58 502975.52 144777.11 503047.95 144765.58 503055.47 144759.71 503060.15 144762.34 503064.32 144782.88 503050.95 144913.75 502966.01 144940.90 502948.66 144979.63 502924.41 144976.59 502919.57 </gml:posList>
+              <gml:posList>
+                144976.59 502919.57 3.50 144973.59 502921.45 3.50 144959.28 502930.42 3.50
+                144937.96 502943.78 3.50 144928.64 502949.77 3.50 144888.58 502975.52 3.50
+                144777.11 503047.95 3.50 144765.58 503055.47 3.50 144759.71 503060.15 3.50
+                144762.34 503064.32 3.50 144782.88 503050.95 3.50 144913.75 502966.01 3.50
+                144940.90 502948.66 3.50 144979.63 502924.41 3.50 144976.59 502919.57 3.50</gml:posList>
             </gml:LineStringSegment>
           </gml:segments>
         </gml:Curve>
@@ -7859,11 +7864,18 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>67</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
         <img:rijrichting>oplopend</img:rijrichting>
+      </img:snelheid>
+      <img:snelheid>
+        <img:snelheid>65</img:snelheid>
+        <img:treintype>reizigers</img:treintype>
+        <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
+        <img:remindicatie>false</img:remindicatie>
+        <img:rijrichting>aflopend</img:rijrichting>
       </img:snelheid>
     </img:SpoordeelGPP>
   </gml:featureMember>
@@ -7948,11 +7960,18 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>72</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
         <img:rijrichting>oplopend</img:rijrichting>
+      </img:snelheid>
+      <img:snelheid>
+        <img:snelheid>65</img:snelheid>
+        <img:treintype>reizigers</img:treintype>
+        <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
+        <img:remindicatie>false</img:remindicatie>
+        <img:rijrichting>aflopend</img:rijrichting>
       </img:snelheid>
     </img:SpoordeelGPP>
   </gml:featureMember>
@@ -8037,11 +8056,18 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>60</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
         <img:rijrichting>oplopend</img:rijrichting>
+      </img:snelheid>
+      <img:snelheid>
+        <img:snelheid>54</img:snelheid>
+        <img:treintype>reizigers</img:treintype>
+        <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
+        <img:remindicatie>false</img:remindicatie>
+        <img:rijrichting>aflopend</img:rijrichting>
       </img:snelheid>
     </img:SpoordeelGPP>
   </gml:featureMember>
@@ -8126,9 +8152,16 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>54</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>stoppend</img:profieltypeSnelheid>
+        <img:remindicatie>true</img:remindicatie>
+        <img:rijrichting>oplopend</img:rijrichting>
+      </img:snelheid>
+      <img:snelheid>
+        <img:snelheid>82</img:snelheid>
+        <img:treintype>reizigers</img:treintype>
+        <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>true</img:remindicatie>
         <img:rijrichting>oplopend</img:rijrichting>
       </img:snelheid>
@@ -8247,9 +8280,16 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>55</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>stoppend</img:profieltypeSnelheid>
+        <img:remindicatie>true</img:remindicatie>
+        <img:rijrichting>oplopend</img:rijrichting>
+      </img:snelheid>
+      <img:snelheid>
+        <img:snelheid>82</img:snelheid>
+        <img:treintype>reizigers</img:treintype>
+        <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>true</img:remindicatie>
         <img:rijrichting>oplopend</img:rijrichting>
       </img:snelheid>
@@ -8337,7 +8377,14 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>82</img:snelheid>
+        <img:treintype>reizigers</img:treintype>
+        <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
+        <img:remindicatie>true</img:remindicatie>
+        <img:rijrichting>oplopend</img:rijrichting>
+      </img:snelheid>
+      <img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>stoppend</img:profieltypeSnelheid>
         <img:remindicatie>true</img:remindicatie>
@@ -8426,7 +8473,14 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>48</img:snelheid>
+        <img:treintype>reizigers</img:treintype>
+        <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
+        <img:remindicatie>true</img:remindicatie>
+        <img:rijrichting>oplopend</img:rijrichting>
+      </img:snelheid>
+       <img:snelheid>
+        <img:snelheid>45</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>stoppend</img:profieltypeSnelheid>
         <img:remindicatie>true</img:remindicatie>
@@ -8515,7 +8569,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>54</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -8604,7 +8658,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>60</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -8693,7 +8747,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>goederen</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -8782,7 +8836,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -8871,7 +8925,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -8960,7 +9014,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>45</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>stoppend</img:profieltypeSnelheid>
         <img:remindicatie>true</img:remindicatie>
@@ -9049,7 +9103,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -9138,7 +9192,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -9227,7 +9281,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -9316,7 +9370,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -9405,7 +9459,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -9494,7 +9548,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -9583,7 +9637,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -9672,7 +9726,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -9761,7 +9815,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>stoppend</img:profieltypeSnelheid>
         <img:remindicatie>true</img:remindicatie>
@@ -9850,7 +9904,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>stoppend</img:profieltypeSnelheid>
         <img:remindicatie>true</img:remindicatie>
@@ -9939,7 +9993,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>stoppend</img:profieltypeSnelheid>
         <img:remindicatie>true</img:remindicatie>
@@ -10028,7 +10082,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>stoppend</img:profieltypeSnelheid>
         <img:remindicatie>true</img:remindicatie>
@@ -10117,7 +10171,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>stoppend</img:profieltypeSnelheid>
         <img:remindicatie>true</img:remindicatie>
@@ -10206,7 +10260,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>stoppend</img:profieltypeSnelheid>
         <img:remindicatie>true</img:remindicatie>
@@ -10295,7 +10349,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>stoppend</img:profieltypeSnelheid>
         <img:remindicatie>true</img:remindicatie>
@@ -10384,7 +10438,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>stoppend</img:profieltypeSnelheid>
         <img:remindicatie>true</img:remindicatie>
@@ -10473,7 +10527,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>stoppend</img:profieltypeSnelheid>
         <img:remindicatie>true</img:remindicatie>
@@ -10562,7 +10616,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>stoppend</img:profieltypeSnelheid>
         <img:remindicatie>true</img:remindicatie>
@@ -10651,7 +10705,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>stoppend</img:profieltypeSnelheid>
         <img:remindicatie>true</img:remindicatie>
@@ -10740,7 +10794,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>stoppend</img:profieltypeSnelheid>
         <img:remindicatie>true</img:remindicatie>
@@ -10829,7 +10883,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>stoppend</img:profieltypeSnelheid>
         <img:remindicatie>true</img:remindicatie>
@@ -10918,7 +10972,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>stoppend</img:profieltypeSnelheid>
         <img:remindicatie>true</img:remindicatie>
@@ -11007,7 +11061,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>stoppend</img:profieltypeSnelheid>
         <img:remindicatie>true</img:remindicatie>
@@ -11096,7 +11150,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>stoppend</img:profieltypeSnelheid>
         <img:remindicatie>true</img:remindicatie>
@@ -11185,7 +11239,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>stoppend</img:profieltypeSnelheid>
         <img:remindicatie>true</img:remindicatie>
@@ -11274,7 +11328,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>stoppend</img:profieltypeSnelheid>
         <img:remindicatie>true</img:remindicatie>
@@ -11363,7 +11417,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>stoppend</img:profieltypeSnelheid>
         <img:remindicatie>true</img:remindicatie>
@@ -11452,7 +11506,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>stoppend</img:profieltypeSnelheid>
         <img:remindicatie>true</img:remindicatie>
@@ -11541,7 +11595,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>stoppend</img:profieltypeSnelheid>
         <img:remindicatie>true</img:remindicatie>
@@ -11630,7 +11684,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>stoppend</img:profieltypeSnelheid>
         <img:remindicatie>true</img:remindicatie>
@@ -11719,7 +11773,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>stoppend</img:profieltypeSnelheid>
         <img:remindicatie>true</img:remindicatie>
@@ -11808,7 +11862,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>stoppend</img:profieltypeSnelheid>
         <img:remindicatie>true</img:remindicatie>
@@ -11897,7 +11951,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>stoppend</img:profieltypeSnelheid>
         <img:remindicatie>true</img:remindicatie>
@@ -11986,7 +12040,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>stoppend</img:profieltypeSnelheid>
         <img:remindicatie>true</img:remindicatie>
@@ -12075,7 +12129,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>stoppend</img:profieltypeSnelheid>
         <img:remindicatie>true</img:remindicatie>
@@ -12164,7 +12218,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>stoppend</img:profieltypeSnelheid>
         <img:remindicatie>true</img:remindicatie>
@@ -12253,7 +12307,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>stoppend</img:profieltypeSnelheid>
         <img:remindicatie>true</img:remindicatie>
@@ -12342,7 +12396,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>stoppend</img:profieltypeSnelheid>
         <img:remindicatie>true</img:remindicatie>
@@ -12431,7 +12485,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>stoppend</img:profieltypeSnelheid>
         <img:remindicatie>true</img:remindicatie>
@@ -12520,7 +12574,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>stoppend</img:profieltypeSnelheid>
         <img:remindicatie>true</img:remindicatie>
@@ -12609,7 +12663,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>stoppend</img:profieltypeSnelheid>
         <img:remindicatie>true</img:remindicatie>
@@ -12698,7 +12752,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>stoppend</img:profieltypeSnelheid>
         <img:remindicatie>true</img:remindicatie>
@@ -12787,7 +12841,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>stoppend</img:profieltypeSnelheid>
         <img:remindicatie>true</img:remindicatie>
@@ -12876,7 +12930,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>stoppend</img:profieltypeSnelheid>
         <img:remindicatie>true</img:remindicatie>
@@ -12965,7 +13019,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>stoppend</img:profieltypeSnelheid>
         <img:remindicatie>true</img:remindicatie>
@@ -13054,7 +13108,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>stoppend</img:profieltypeSnelheid>
         <img:remindicatie>true</img:remindicatie>
@@ -13143,7 +13197,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>stoppend</img:profieltypeSnelheid>
         <img:remindicatie>true</img:remindicatie>
@@ -13232,7 +13286,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>stoppend</img:profieltypeSnelheid>
         <img:remindicatie>true</img:remindicatie>
@@ -13321,7 +13375,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>stoppend</img:profieltypeSnelheid>
         <img:remindicatie>true</img:remindicatie>
@@ -13410,7 +13464,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>stoppend</img:profieltypeSnelheid>
         <img:remindicatie>true</img:remindicatie>
@@ -13499,7 +13553,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>stoppend</img:profieltypeSnelheid>
         <img:remindicatie>true</img:remindicatie>
@@ -13588,7 +13642,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>stoppend</img:profieltypeSnelheid>
         <img:remindicatie>true</img:remindicatie>
@@ -13677,7 +13731,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>stoppend</img:profieltypeSnelheid>
         <img:remindicatie>true</img:remindicatie>
@@ -13766,7 +13820,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -13855,7 +13909,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>stoppend</img:profieltypeSnelheid>
         <img:remindicatie>true</img:remindicatie>
@@ -13944,7 +13998,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>stoppend</img:profieltypeSnelheid>
         <img:remindicatie>true</img:remindicatie>
@@ -14033,7 +14087,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>stoppend</img:profieltypeSnelheid>
         <img:remindicatie>true</img:remindicatie>
@@ -14122,7 +14176,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>stoppend</img:profieltypeSnelheid>
         <img:remindicatie>true</img:remindicatie>
@@ -14211,7 +14265,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>stoppend</img:profieltypeSnelheid>
         <img:remindicatie>true</img:remindicatie>
@@ -14300,7 +14354,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>stoppend</img:profieltypeSnelheid>
         <img:remindicatie>true</img:remindicatie>
@@ -14389,7 +14443,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>stoppend</img:profieltypeSnelheid>
         <img:remindicatie>true</img:remindicatie>
@@ -14478,7 +14532,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>stoppend</img:profieltypeSnelheid>
         <img:remindicatie>true</img:remindicatie>
@@ -14567,7 +14621,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>stoppend</img:profieltypeSnelheid>
         <img:remindicatie>true</img:remindicatie>
@@ -14656,7 +14710,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>stoppend</img:profieltypeSnelheid>
         <img:remindicatie>true</img:remindicatie>
@@ -14745,7 +14799,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>stoppend</img:profieltypeSnelheid>
         <img:remindicatie>true</img:remindicatie>
@@ -14834,7 +14888,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>stoppend</img:profieltypeSnelheid>
         <img:remindicatie>true</img:remindicatie>
@@ -14923,7 +14977,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>stoppend</img:profieltypeSnelheid>
         <img:remindicatie>true</img:remindicatie>
@@ -15012,7 +15066,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>stoppend</img:profieltypeSnelheid>
         <img:remindicatie>true</img:remindicatie>
@@ -15101,7 +15155,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>stoppend</img:profieltypeSnelheid>
         <img:remindicatie>true</img:remindicatie>
@@ -15190,7 +15244,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>stoppend</img:profieltypeSnelheid>
         <img:remindicatie>true</img:remindicatie>
@@ -15279,7 +15333,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>stoppend</img:profieltypeSnelheid>
         <img:remindicatie>true</img:remindicatie>
@@ -15368,7 +15422,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>stoppend</img:profieltypeSnelheid>
         <img:remindicatie>true</img:remindicatie>
@@ -15457,7 +15511,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>stoppend</img:profieltypeSnelheid>
         <img:remindicatie>true</img:remindicatie>
@@ -15546,7 +15600,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>stoppend</img:profieltypeSnelheid>
         <img:remindicatie>true</img:remindicatie>
@@ -15635,7 +15689,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>stoppend</img:profieltypeSnelheid>
         <img:remindicatie>true</img:remindicatie>
@@ -15724,7 +15778,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>stoppend</img:profieltypeSnelheid>
         <img:remindicatie>true</img:remindicatie>
@@ -15813,7 +15867,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>stoppend</img:profieltypeSnelheid>
         <img:remindicatie>true</img:remindicatie>
@@ -15902,7 +15956,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>stoppend</img:profieltypeSnelheid>
         <img:remindicatie>true</img:remindicatie>
@@ -15991,7 +16045,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>stoppend</img:profieltypeSnelheid>
         <img:remindicatie>true</img:remindicatie>
@@ -16080,7 +16134,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>stoppend</img:profieltypeSnelheid>
         <img:remindicatie>true</img:remindicatie>
@@ -16169,7 +16223,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>stoppend</img:profieltypeSnelheid>
         <img:remindicatie>true</img:remindicatie>
@@ -16258,7 +16312,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>stoppend</img:profieltypeSnelheid>
         <img:remindicatie>true</img:remindicatie>
@@ -16347,7 +16401,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>stoppend</img:profieltypeSnelheid>
         <img:remindicatie>true</img:remindicatie>
@@ -16436,7 +16490,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>stoppend</img:profieltypeSnelheid>
         <img:remindicatie>true</img:remindicatie>
@@ -16525,7 +16579,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>stoppend</img:profieltypeSnelheid>
         <img:remindicatie>true</img:remindicatie>
@@ -16614,7 +16668,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>stoppend</img:profieltypeSnelheid>
         <img:remindicatie>true</img:remindicatie>
@@ -16703,7 +16757,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>stoppend</img:profieltypeSnelheid>
         <img:remindicatie>true</img:remindicatie>
@@ -16792,7 +16846,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>stoppend</img:profieltypeSnelheid>
         <img:remindicatie>true</img:remindicatie>
@@ -16881,7 +16935,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>stoppend</img:profieltypeSnelheid>
         <img:remindicatie>true</img:remindicatie>
@@ -16970,7 +17024,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>stoppend</img:profieltypeSnelheid>
         <img:remindicatie>true</img:remindicatie>
@@ -17059,7 +17113,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>stoppend</img:profieltypeSnelheid>
         <img:remindicatie>true</img:remindicatie>
@@ -17148,7 +17202,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>stoppend</img:profieltypeSnelheid>
         <img:remindicatie>true</img:remindicatie>
@@ -17237,7 +17291,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>stoppend</img:profieltypeSnelheid>
         <img:remindicatie>true</img:remindicatie>
@@ -17326,7 +17380,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>stoppend</img:profieltypeSnelheid>
         <img:remindicatie>true</img:remindicatie>
@@ -17415,7 +17469,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>stoppend</img:profieltypeSnelheid>
         <img:remindicatie>true</img:remindicatie>
@@ -17504,7 +17558,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -17593,7 +17647,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>stoppend</img:profieltypeSnelheid>
         <img:remindicatie>true</img:remindicatie>
@@ -17682,7 +17736,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>stoppend</img:profieltypeSnelheid>
         <img:remindicatie>true</img:remindicatie>
@@ -17771,7 +17825,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>stoppend</img:profieltypeSnelheid>
         <img:remindicatie>true</img:remindicatie>
@@ -17860,7 +17914,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -17949,7 +18003,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -18038,7 +18092,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -18127,7 +18181,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -18216,7 +18270,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -18305,7 +18359,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>goederen</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -18394,7 +18448,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -18483,7 +18537,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -18572,7 +18626,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -18661,7 +18715,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -18750,7 +18804,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -18839,7 +18893,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -18928,7 +18982,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>stoppend</img:profieltypeSnelheid>
         <img:remindicatie>true</img:remindicatie>
@@ -19017,7 +19071,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>stoppend</img:profieltypeSnelheid>
         <img:remindicatie>true</img:remindicatie>
@@ -19106,7 +19160,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>stoppend</img:profieltypeSnelheid>
         <img:remindicatie>true</img:remindicatie>
@@ -19195,7 +19249,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>stoppend</img:profieltypeSnelheid>
         <img:remindicatie>true</img:remindicatie>
@@ -19284,7 +19338,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>stoppend</img:profieltypeSnelheid>
         <img:remindicatie>true</img:remindicatie>
@@ -19373,7 +19427,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>stoppend</img:profieltypeSnelheid>
         <img:remindicatie>true</img:remindicatie>
@@ -19462,7 +19516,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>stoppend</img:profieltypeSnelheid>
         <img:remindicatie>true</img:remindicatie>
@@ -19551,7 +19605,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>stoppend</img:profieltypeSnelheid>
         <img:remindicatie>true</img:remindicatie>
@@ -19640,7 +19694,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -19729,7 +19783,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -19818,7 +19872,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -19907,7 +19961,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -19996,7 +20050,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -20085,7 +20139,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -20174,7 +20228,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>goederen</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -20263,7 +20317,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -20352,7 +20406,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -20441,7 +20495,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -20530,7 +20584,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -20619,7 +20673,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -20708,7 +20762,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -20797,7 +20851,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -20886,7 +20940,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>62</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>stoppend</img:profieltypeSnelheid>
         <img:remindicatie>true</img:remindicatie>
@@ -20975,7 +21029,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -21064,7 +21118,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -21153,7 +21207,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>stoppend</img:profieltypeSnelheid>
         <img:remindicatie>true</img:remindicatie>
@@ -21242,7 +21296,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>stoppend</img:profieltypeSnelheid>
         <img:remindicatie>true</img:remindicatie>
@@ -21331,7 +21385,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>stoppend</img:profieltypeSnelheid>
         <img:remindicatie>true</img:remindicatie>
@@ -21420,7 +21474,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>stoppend</img:profieltypeSnelheid>
         <img:remindicatie>true</img:remindicatie>
@@ -21509,7 +21563,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>goederen</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -21598,7 +21652,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -21687,7 +21741,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -21776,7 +21830,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -21865,7 +21919,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>stoppend</img:profieltypeSnelheid>
         <img:remindicatie>true</img:remindicatie>
@@ -21954,7 +22008,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -22043,7 +22097,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>stoppend</img:profieltypeSnelheid>
         <img:remindicatie>true</img:remindicatie>
@@ -22132,7 +22186,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -22221,7 +22275,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -22310,7 +22364,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -22399,7 +22453,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -22488,7 +22542,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>goederen</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -22577,7 +22631,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>goederen</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -22666,7 +22720,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>goederen</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -22755,7 +22809,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>goederen</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -22844,7 +22898,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>goederen</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -22933,7 +22987,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>goederen</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -23022,7 +23076,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>goederen</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -23111,7 +23165,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>goederen</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -23200,7 +23254,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>goederen</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -23289,7 +23343,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>goederen</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -23378,7 +23432,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>goederen</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -23467,7 +23521,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>goederen</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -23556,7 +23610,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>goederen</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -23645,7 +23699,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>goederen</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -23734,7 +23788,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>goederen</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -23823,7 +23877,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>goederen</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -23912,7 +23966,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>goederen</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -24001,7 +24055,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>goederen</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -24090,7 +24144,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>goederen</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -24179,7 +24233,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>goederen</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -24268,7 +24322,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>goederen</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -24357,7 +24411,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>goederen</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -24446,7 +24500,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>goederen</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -24535,7 +24589,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>goederen</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -24624,7 +24678,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>goederen</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -24713,7 +24767,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>goederen</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -24802,7 +24856,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>goederen</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -24891,7 +24945,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>goederen</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -24980,7 +25034,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>goederen</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -25069,7 +25123,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>goederen</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -25158,7 +25212,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>goederen</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -25247,7 +25301,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>goederen</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -25336,7 +25390,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>goederen</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -25425,7 +25479,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>goederen</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -25514,7 +25568,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>goederen</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -25603,7 +25657,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>goederen</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -25692,7 +25746,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>goederen</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -25781,7 +25835,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>goederen</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -25870,7 +25924,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>goederen</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -25959,7 +26013,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>goederen</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -26048,7 +26102,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>46</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -26137,7 +26191,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -26226,7 +26280,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>stoppend</img:profieltypeSnelheid>
         <img:remindicatie>true</img:remindicatie>
@@ -26315,7 +26369,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>stoppend</img:profieltypeSnelheid>
         <img:remindicatie>true</img:remindicatie>
@@ -26404,7 +26458,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>stoppend</img:profieltypeSnelheid>
         <img:remindicatie>true</img:remindicatie>
@@ -26493,7 +26547,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>goederen</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -26582,7 +26636,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>stoppend</img:profieltypeSnelheid>
         <img:remindicatie>true</img:remindicatie>
@@ -26671,7 +26725,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -26760,7 +26814,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>stoppend</img:profieltypeSnelheid>
         <img:remindicatie>true</img:remindicatie>
@@ -26849,7 +26903,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -26938,7 +26992,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -27027,7 +27081,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -27116,7 +27170,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -27205,7 +27259,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -27294,7 +27348,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -27383,7 +27437,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>goederen</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -27472,7 +27526,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>goederen</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -27561,7 +27615,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>goederen</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -27650,7 +27704,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>goederen</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -27739,7 +27793,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>goederen</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -27828,7 +27882,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>stoppend</img:profieltypeSnelheid>
         <img:remindicatie>true</img:remindicatie>
@@ -27917,7 +27971,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -28006,7 +28060,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -28095,7 +28149,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -28184,7 +28238,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -28273,7 +28327,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>-0.2</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -28362,7 +28416,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>-0.2</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -28451,7 +28505,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>-0.2</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -28540,7 +28594,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>-0.2</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -28629,7 +28683,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>1.5</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -28718,7 +28772,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>1.5</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -28807,7 +28861,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>1.5</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -28896,7 +28950,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>1.5</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -28985,7 +29039,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>1.5</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -29074,7 +29128,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>1.5</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -29163,7 +29217,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>1.5</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -29252,7 +29306,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -29341,7 +29395,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -29430,7 +29484,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>goederen</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -29519,7 +29573,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>goederen</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -29608,7 +29662,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>1.5</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>stoppend</img:profieltypeSnelheid>
         <img:remindicatie>true</img:remindicatie>
@@ -29697,7 +29751,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>1.5</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>stoppend</img:profieltypeSnelheid>
         <img:remindicatie>true</img:remindicatie>
@@ -29786,7 +29840,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>1.5</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>stoppend</img:profieltypeSnelheid>
         <img:remindicatie>true</img:remindicatie>
@@ -29875,7 +29929,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>1.5</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>stoppend</img:profieltypeSnelheid>
         <img:remindicatie>true</img:remindicatie>
@@ -29964,7 +30018,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>1.5</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>stoppend</img:profieltypeSnelheid>
         <img:remindicatie>true</img:remindicatie>
@@ -30053,7 +30107,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>1.5</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>stoppend</img:profieltypeSnelheid>
         <img:remindicatie>true</img:remindicatie>
@@ -30142,7 +30196,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>1.5</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>stoppend</img:profieltypeSnelheid>
         <img:remindicatie>true</img:remindicatie>
@@ -30231,7 +30285,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>1.5</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>stoppend</img:profieltypeSnelheid>
         <img:remindicatie>true</img:remindicatie>
@@ -30320,7 +30374,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>1.5</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>stoppend</img:profieltypeSnelheid>
         <img:remindicatie>true</img:remindicatie>
@@ -30409,7 +30463,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>78</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -30498,7 +30552,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -30587,7 +30641,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -30676,7 +30730,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -30765,7 +30819,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -30854,7 +30908,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>goederen</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -30943,7 +30997,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -31032,7 +31086,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -31121,7 +31175,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>goederen</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -31210,7 +31264,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>goederen</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -31299,7 +31353,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>goederen</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -31388,7 +31442,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>goederen</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -31477,7 +31531,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -31566,7 +31620,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -31655,7 +31709,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -31744,7 +31798,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -31833,7 +31887,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -31922,7 +31976,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -32011,7 +32065,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -32100,7 +32154,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -32189,7 +32243,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -32278,7 +32332,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -32367,7 +32421,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -32456,7 +32510,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -32545,7 +32599,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -32634,7 +32688,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>1.5</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -32723,7 +32777,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>1.5</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -32812,7 +32866,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>1.5</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -32901,7 +32955,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>1.5</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -32990,7 +33044,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>1.5</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -33079,7 +33133,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>1.5</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -33168,7 +33222,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>1.5</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -33257,7 +33311,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>103</img:snelheid>
         <img:treintype>goederen</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -33346,7 +33400,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -33435,7 +33489,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>88</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>stoppend</img:profieltypeSnelheid>
         <img:remindicatie>true</img:remindicatie>
@@ -33524,7 +33578,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>stoppend</img:profieltypeSnelheid>
         <img:remindicatie>true</img:remindicatie>
@@ -33613,7 +33667,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -33702,7 +33756,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>stoppend</img:profieltypeSnelheid>
         <img:remindicatie>true</img:remindicatie>
@@ -33791,7 +33845,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>stoppend</img:profieltypeSnelheid>
         <img:remindicatie>true</img:remindicatie>
@@ -33880,7 +33934,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>stoppend</img:profieltypeSnelheid>
         <img:remindicatie>true</img:remindicatie>
@@ -33969,7 +34023,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>stoppend</img:profieltypeSnelheid>
         <img:remindicatie>true</img:remindicatie>
@@ -34058,7 +34112,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>stoppend</img:profieltypeSnelheid>
         <img:remindicatie>true</img:remindicatie>
@@ -34147,7 +34201,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>goederen</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -34236,7 +34290,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>goederen</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -34325,7 +34379,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>goederen</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -34414,7 +34468,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>goederen</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -34503,7 +34557,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>goederen</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -34592,7 +34646,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -34681,7 +34735,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -34770,7 +34824,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>stoppend</img:profieltypeSnelheid>
         <img:remindicatie>true</img:remindicatie>
@@ -34859,7 +34913,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>stoppend</img:profieltypeSnelheid>
         <img:remindicatie>true</img:remindicatie>
@@ -34948,7 +35002,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>stoppend</img:profieltypeSnelheid>
         <img:remindicatie>true</img:remindicatie>
@@ -35037,7 +35091,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -35126,7 +35180,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>goederen</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -35215,7 +35269,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>goederen</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -35304,7 +35358,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>goederen</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -35393,7 +35447,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -35482,7 +35536,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>goederen</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -35571,7 +35625,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -35660,7 +35714,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -35749,7 +35803,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -35838,7 +35892,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -35927,7 +35981,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -36016,7 +36070,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -36105,7 +36159,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -36194,7 +36248,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>stoppend</img:profieltypeSnelheid>
         <img:remindicatie>true</img:remindicatie>
@@ -36283,7 +36337,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>goederen</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -36372,7 +36426,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>goederen</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -36461,7 +36515,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>goederen</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -36550,7 +36604,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>goederen</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -36639,7 +36693,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>goederen</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -36728,7 +36782,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>goederen</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -36817,7 +36871,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>goederen</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -36906,7 +36960,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>goederen</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -36995,7 +37049,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>goederen</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -37084,7 +37138,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>goederen</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -37173,7 +37227,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>goederen</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -37262,7 +37316,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>goederen</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -37351,7 +37405,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>goederen</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -37440,7 +37494,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>goederen</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -37529,7 +37583,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>goederen</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -37618,7 +37672,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>stoppend</img:profieltypeSnelheid>
         <img:remindicatie>true</img:remindicatie>
@@ -37707,7 +37761,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>stoppend</img:profieltypeSnelheid>
         <img:remindicatie>true</img:remindicatie>
@@ -37796,7 +37850,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>goederen</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -37885,7 +37939,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>goederen</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -37974,7 +38028,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>goederen</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -38063,7 +38117,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>goederen</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -38152,7 +38206,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>goederen</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -38241,7 +38295,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -38330,7 +38384,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>-0.2</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -38419,7 +38473,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>-0.2</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -38508,7 +38562,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>-0.2</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -38597,7 +38651,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>-0.2</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -38686,7 +38740,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>1.5</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -38775,7 +38829,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>1.5</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -38864,7 +38918,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>1.5</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -38953,7 +39007,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>1.5</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -39042,7 +39096,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>1.5</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -39131,7 +39185,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>1.5</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -39220,7 +39274,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>1.5</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -39309,7 +39363,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>69</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -39398,7 +39452,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -39487,7 +39541,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>goederen</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -39576,7 +39630,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>goederen</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -39665,7 +39719,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>goederen</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -39754,7 +39808,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>75</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>stoppend</img:profieltypeSnelheid>
         <img:remindicatie>true</img:remindicatie>
@@ -39843,7 +39897,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -39932,7 +39986,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -40021,7 +40075,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -40110,7 +40164,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -40199,7 +40253,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -40288,7 +40342,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>goederen</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -40377,7 +40431,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -40466,7 +40520,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -40555,7 +40609,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>stoppend</img:profieltypeSnelheid>
         <img:remindicatie>true</img:remindicatie>
@@ -40644,7 +40698,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>stoppend</img:profieltypeSnelheid>
         <img:remindicatie>true</img:remindicatie>
@@ -40733,7 +40787,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>stoppend</img:profieltypeSnelheid>
         <img:remindicatie>true</img:remindicatie>
@@ -40822,7 +40876,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -40911,7 +40965,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -41000,7 +41054,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -41089,7 +41143,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>stoppend</img:profieltypeSnelheid>
         <img:remindicatie>true</img:remindicatie>
@@ -41178,7 +41232,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>stoppend</img:profieltypeSnelheid>
         <img:remindicatie>true</img:remindicatie>
@@ -41267,7 +41321,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>stoppend</img:profieltypeSnelheid>
         <img:remindicatie>true</img:remindicatie>
@@ -41356,7 +41410,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>stoppend</img:profieltypeSnelheid>
         <img:remindicatie>true</img:remindicatie>
@@ -41445,7 +41499,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>stoppend</img:profieltypeSnelheid>
         <img:remindicatie>true</img:remindicatie>
@@ -41534,7 +41588,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>stoppend</img:profieltypeSnelheid>
         <img:remindicatie>true</img:remindicatie>
@@ -41623,7 +41677,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -41712,7 +41766,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -41801,7 +41855,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -41890,7 +41944,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>stoppend</img:profieltypeSnelheid>
         <img:remindicatie>true</img:remindicatie>
@@ -41979,7 +42033,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -42068,7 +42122,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -42157,7 +42211,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -42246,7 +42300,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -42335,7 +42389,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>goederen</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -42424,7 +42478,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>goederen</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -42513,7 +42567,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>goederen</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -42602,7 +42656,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>goederen</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -42691,7 +42745,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>goederen</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -42780,7 +42834,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>goederen</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -42869,7 +42923,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>goederen</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -42958,7 +43012,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>goederen</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -43047,7 +43101,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>goederen</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -43136,7 +43190,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>goederen</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -43225,7 +43279,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>goederen</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -43314,7 +43368,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>goederen</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -43403,7 +43457,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>goederen</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -43492,7 +43546,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -43581,7 +43635,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>goederen</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -43670,7 +43724,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>goederen</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -43759,7 +43813,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>goederen</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -43848,7 +43902,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>goederen</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -43937,7 +43991,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>goederen</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -44026,7 +44080,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>goederen</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -44115,7 +44169,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>goederen</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -44204,7 +44258,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -44293,7 +44347,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>goederen</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -44382,7 +44436,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>goederen</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -44471,7 +44525,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>goederen</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -44560,7 +44614,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>goederen</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -44649,7 +44703,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>goederen</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -44738,7 +44792,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>goederen</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -44827,7 +44881,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>goederen</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -44916,7 +44970,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>goederen</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -45005,7 +45059,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>goederen</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -45094,7 +45148,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>goederen</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -45183,7 +45237,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>goederen</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -45272,7 +45326,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>goederen</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -45361,7 +45415,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>goederen</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -45450,7 +45504,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>goederen</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -45539,7 +45593,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>goederen</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -45628,7 +45682,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>goederen</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -45717,7 +45771,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>goederen</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -45806,7 +45860,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>goederen</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -45895,7 +45949,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>goederen</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -45984,7 +46038,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>goederen</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -46073,7 +46127,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>goederen</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -46162,7 +46216,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>goederen</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -46251,7 +46305,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>goederen</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -46340,7 +46394,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>goederen</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -46429,7 +46483,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>goederen</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -46518,7 +46572,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>goederen</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -46607,7 +46661,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>goederen</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -46696,7 +46750,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>goederen</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -46785,7 +46839,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>goederen</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -46874,7 +46928,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>goederen</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -46963,7 +47017,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>goederen</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -47052,7 +47106,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>goederen</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -47141,7 +47195,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>goederen</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -47230,7 +47284,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>goederen</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -47319,7 +47373,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>goederen</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -47408,7 +47462,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>goederen</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -47497,7 +47551,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>goederen</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -47586,7 +47640,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>goederen</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -47675,7 +47729,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -47764,7 +47818,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -47853,7 +47907,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>stoppend</img:profieltypeSnelheid>
         <img:remindicatie>true</img:remindicatie>
@@ -47942,7 +47996,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>stoppend</img:profieltypeSnelheid>
         <img:remindicatie>true</img:remindicatie>
@@ -48031,7 +48085,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>stoppend</img:profieltypeSnelheid>
         <img:remindicatie>true</img:remindicatie>
@@ -48120,7 +48174,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>stoppend</img:profieltypeSnelheid>
         <img:remindicatie>true</img:remindicatie>
@@ -48209,7 +48263,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>stoppend</img:profieltypeSnelheid>
         <img:remindicatie>true</img:remindicatie>
@@ -48298,7 +48352,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -48387,7 +48441,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -48476,7 +48530,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -48565,7 +48619,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>goederen</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
@@ -48654,7 +48708,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       </img:intensiteit>
       <img:plafondcorrectie>0</img:plafondcorrectie>
       <img:snelheid>
-        <img:snelheid>0</img:snelheid>
+        <img:snelheid>64</img:snelheid>
         <img:treintype>reizigers</img:treintype>
         <img:profieltypeSnelheid>doorgaand</img:profieltypeSnelheid>
         <img:remindicatie>false</img:remindicatie>
