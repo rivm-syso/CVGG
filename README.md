@@ -1,10 +1,9 @@
 # CVGG - documentatie
-Op deze github pagina's  wordt (technische) documentatie beschikbaar gesteld. De informatie is ingedeeld naar onderstaande onderdelen. Deze pagina's zijn nog in ontwikkeling. 
+Op deze github pagina's wordt (technische) documentatie beschikbaar gesteld. De informatie is ingedeeld naar onderstaande onderdelen. Deze pagina's zijn nog in ontwikkeling. 
 
-## Handreiking CVGG
+## Handleiding CVGG
 Voor het oefenen met de CVGG is een beknopte handleiding opgesteld.
-- Handleiding voor de CVGG
-
+- [Handleiding voor de CVGG](https://github.com/rivm-syso/CVGG/blob/main/documenten/Handleiding%20voor%20de%20CVGG%20v0.6.pdf "Handleiding voor de CVGG")
 
 ## Informatiemodel Geluid
 De laatst vastgestelde versie van IMGeluid vind je steeds:
