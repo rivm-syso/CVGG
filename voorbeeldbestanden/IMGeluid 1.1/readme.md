@@ -6,6 +6,9 @@ Per geluidbron en per type aanlevering zijn voorbeelden beschikbaar. We beginnen
 
 **LET OP.** Doel van de voorbeeldbestanden is om te laten zien hoe een GML-bestand er uit moet komen te zien volgens de structuur van het IMgeluid, en conform de uitwisselstandaard. De inhoud is dan ook fictief, en komt niet overeen met de akoestische werkelijkheid.
 
+## Tip
+- Downloaden. Kleinere voorbeeldbestanden kun je meteen bekijken. Om te downloaden klik met rechtermuis op button 'raw', en kies 'koppeling opslaan als' of 'save link as' afhankelijk van browser en taal. Daarna sla je het bestand op. Bij grotere bestanden is er een download button en doe je hetzelfde. 
+
 # Feedback
 
 De voorbeeldbestanden zijn me zorg samengesteld. Mochten jullie nog fouten tegen komen, of suggesties tot verbetering horen we dat heel graag! Dan kunnen we dit verbeteren. Dat geldt voor zowel het IMgeluid, de uitwisselstaandaard, en de voorbeeldbestanden. Jullie ervaringen en terugkoppling zijn dan ook van harte welkom! Graag via cvgg@rivm.nl
