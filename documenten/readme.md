@@ -1,4 +1,5 @@
 # Documenten
 Hier vind je de laatste versie van beschikbare documenten
-- Handreiking uitwisselen gegevens CVGG
+- Handleiding op de CVGG
+- Toelichting op uitwisselen gegevens CVGG
 - Uitwisselstandaard CVGG
