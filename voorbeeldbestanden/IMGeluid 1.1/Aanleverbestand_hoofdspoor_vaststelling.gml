@@ -30,7 +30,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
           </gml:patches>
         </gml:Surface>
       </img:geometrie>
-      <img:indicatieToeslag>false</img:indicatieToeslag>
+      <img:indicatieToeslag>true</img:indicatieToeslag>
       <img:geluidtoeslag>
         <img:spoorvoertuigcategorie>9</img:spoorvoertuigcategorie>
         <img:toeslag>
@@ -73,7 +73,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
           </gml:patches>
         </gml:Surface>
       </img:geometrie>
-      <img:indicatieToeslag>false</img:indicatieToeslag>
+      <img:indicatieToeslag>true</img:indicatieToeslag>
       <img:geluidtoeslag>
         <img:spoorvoertuigcategorie>9</img:spoorvoertuigcategorie>
         <img:toeslag>
@@ -115,7 +115,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
           </gml:patches>
         </gml:Surface>
       </img:geometrie>
-      <img:indicatieToeslag>false</img:indicatieToeslag>
+      <img:indicatieToeslag>true</img:indicatieToeslag>
       <img:geluidtoeslag>
         <img:spoorvoertuigcategorie>9</img:spoorvoertuigcategorie>
         <img:toeslag>
@@ -158,7 +158,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
           </gml:patches>
         </gml:Surface>
       </img:geometrie>
-      <img:indicatieToeslag>false</img:indicatieToeslag>
+      <img:indicatieToeslag>true</img:indicatieToeslag>
       <img:geluidtoeslag>
         <img:spoorvoertuigcategorie>9</img:spoorvoertuigcategorie>
         <img:toeslag>
@@ -200,7 +200,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
           </gml:patches>
         </gml:Surface>
       </img:geometrie>
-      <img:indicatieToeslag>false</img:indicatieToeslag>
+      <img:indicatieToeslag>true</img:indicatieToeslag>
       <img:geluidtoeslag>
         <img:spoorvoertuigcategorie>9</img:spoorvoertuigcategorie>
         <img:toeslag>
@@ -242,7 +242,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
           </gml:patches>
         </gml:Surface>
       </img:geometrie>
-      <img:indicatieToeslag>false</img:indicatieToeslag>
+      <img:indicatieToeslag>true</img:indicatieToeslag>
       <img:geluidtoeslag>
         <img:spoorvoertuigcategorie>9</img:spoorvoertuigcategorie>
         <img:toeslag>
@@ -284,7 +284,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
           </gml:patches>
         </gml:Surface>
       </img:geometrie>
-      <img:indicatieToeslag>false</img:indicatieToeslag>
+      <img:indicatieToeslag>true</img:indicatieToeslag>
       <img:geluidtoeslag>
         <img:spoorvoertuigcategorie>9</img:spoorvoertuigcategorie>
         <img:toeslag>
@@ -328,7 +328,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
           </gml:patches>
         </gml:Surface>
       </img:geometrie>
-      <img:indicatieToeslag>false</img:indicatieToeslag>
+      <img:indicatieToeslag>true</img:indicatieToeslag>
       <img:geluidtoeslag>
         <img:spoorvoertuigcategorie>9</img:spoorvoertuigcategorie>
         <img:toeslag>
@@ -370,7 +370,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
           </gml:patches>
         </gml:Surface>
       </img:geometrie>
-      <img:indicatieToeslag>false</img:indicatieToeslag>
+      <img:indicatieToeslag>true</img:indicatieToeslag>
       <img:geluidtoeslag>
         <img:spoorvoertuigcategorie>9</img:spoorvoertuigcategorie>
         <img:toeslag>
@@ -413,7 +413,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
           </gml:patches>
         </gml:Surface>
       </img:geometrie>
-      <img:indicatieToeslag>false</img:indicatieToeslag>
+      <img:indicatieToeslag>true</img:indicatieToeslag>
       <img:geluidtoeslag>
         <img:spoorvoertuigcategorie>9</img:spoorvoertuigcategorie>
         <img:toeslag>
@@ -455,7 +455,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
           </gml:patches>
         </gml:Surface>
       </img:geometrie>
-      <img:indicatieToeslag>false</img:indicatieToeslag>
+      <img:indicatieToeslag>true</img:indicatieToeslag>
       <img:geluidtoeslag>
         <img:spoorvoertuigcategorie>9</img:spoorvoertuigcategorie>
         <img:toeslag>
@@ -498,7 +498,7 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
           </gml:patches>
         </gml:Surface>
       </img:geometrie>
-      <img:indicatieToeslag>false</img:indicatieToeslag>
+      <img:indicatieToeslag>true</img:indicatieToeslag>
       <img:geluidtoeslag>
         <img:spoorvoertuigcategorie>9</img:spoorvoertuigcategorie>
         <img:toeslag>
