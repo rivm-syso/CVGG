@@ -209,7 +209,7 @@ werkelijkheid. Dit voorbeeldbestand is een voorbeeld voor de geluidbron rijksweg
                     </gml:surfaceMember>
                 </gml:MultiSurface>
             </img:geometrie>
-            <img:metadataBerekening xlink:href="#NL.img.53824291.gbo-gag-20190717.1.1"/>
+            <img:metadataBerekening xlink:href="#NL.img.53824291.gbo-gag-20190718.1"/>
         </img:Geluidaandachtsgebied>
     </gml:featureMember>
     <gml:featureMember>
@@ -496,7 +496,7 @@ werkelijkheid. Dit voorbeeldbestand is een voorbeeld voor de geluidbron rijksweg
             <img:hoogteReferentiepunt>4</img:hoogteReferentiepunt>
             <img:geluidproductieplafond>67.3</img:geluidproductieplafond>
             <img:beginTijdelijkeOntheffing>2013-07-01+02:00</img:beginTijdelijkeOntheffing>
-            <img:tijdelijkeOntheffingswaarde>72.3</img:tijdelijkeOntheffingswaarde>
+            <img:tijdelijkeOntheffingswaarde>0.5</img:tijdelijkeOntheffingswaarde>
             <img:vaststellingVanRechtswege>false</img:vaststellingVanRechtswege>
             <img:eindTijdelijkeOntheffing>2015-01-01+02:00</img:eindTijdelijkeOntheffing>
             <img:berekening xlink:href="#NL.img.53824291.gbo20190717-Verni.1"></img:berekening>
@@ -521,7 +521,7 @@ werkelijkheid. Dit voorbeeldbestand is een voorbeeld voor de geluidbron rijksweg
             <img:hoogteReferentiepunt>4</img:hoogteReferentiepunt>
             <img:geluidproductieplafond>65.4</img:geluidproductieplafond>
             <img:beginTijdelijkeOntheffing>2013-07-01+02:00</img:beginTijdelijkeOntheffing>
-            <img:tijdelijkeOntheffingswaarde>70.4</img:tijdelijkeOntheffingswaarde>
+            <img:tijdelijkeOntheffingswaarde>0.4</img:tijdelijkeOntheffingswaarde>
             <img:vaststellingVanRechtswege>false</img:vaststellingVanRechtswege>
             <img:eindTijdelijkeOntheffing>2015-01-01+02:00</img:eindTijdelijkeOntheffing>
             <img:berekening xlink:href="#NL.img.53824291.gbo20190717-Verni.1"></img:berekening>
