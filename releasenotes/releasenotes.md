@@ -1,5 +1,20 @@
 ## Release notes CVGG – omgeving voor proefdraaien
 
+### Release 0.03
+Datum: 30 juli 2021
+* #### In het voorbeeldbestand Luchtvaart was de ligging van de contourlijnen en contourvlakken inconsistent.
+  Dit is opgelost. Het aangepaste voorbeeldbestand staat op github.
+* #### In het voorbeeldbestand Vaststelling rijkswegen zat een fout.
+  Bij het aandachtsgebied voor "metadataBerekening" stond een referentie naar "NL.img.53824291.gbo-gag-20190717.1.1", maar deze referentie bestond niet in het bestand. Daarnaast stond er ook 2x een versie nummer in de gml:id. Dat mag niet. Dit is opgelost door de GML id van het geluidberekeningsobject en de xlink in geluidaandachtsgebied gelijk trekken naar: gml:id="NL.img.53824291.gbo-gag-20190718.1">. Het aangepaste voorbeeldbestand staat op github.
+* #### In het voorbeeldbestand Vaststelling hoofdspoor zat een fout.
+  Voor het object brug stond de indicatieToeslag = FALSE terwijl er wel een toeslag per octaaf voor minstens 1 van de voertuigcategorieen geldt (categorie 9 in dit geval). De indicatieToeslag moet in de geval op TRUE staan. Het aangepaste voorbeeldbestand staat op github.
+* #### Voorbeeldbestand Vaststelling Industrieterrein is gemaakt.
+  Deze staat op github.
+* #### Op de detailpagina bestand voor ingelogde gebruikers stond geen ‘terugknop’
+  Een knop ‘Overzicht bestanden’ is toegevoegd om terug te gaan naar het bestandsoverzicht.
+* #### Wanneer je vanuit het tabblad 'Fouten' een nieuw bestand naar het upload-vakje sleept moet de view wijzigen naar het tabblad 'Bestand'. Dit was niet het geval.
+  Dit is aangepast.
+
 ### Release 0.02
 
 Datum: 19 juli 2021
