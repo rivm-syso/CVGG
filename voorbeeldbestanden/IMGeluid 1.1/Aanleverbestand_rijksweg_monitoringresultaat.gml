@@ -40,7 +40,7 @@
     </img:Geluidberekeningobject>
   </gml:featureMember>
   <gml:featureMember>
-    <img:Geluidgegevenscollectie gml:id="NL.img.53824291.Geluidgegevenscollectie-Monitoring-2018.M2018">
+    <img:Geluidgegevenscollectie gml:id="NL.img.53824291.Geluidgegevenscollectie-Monitoring-2018.1">
       <img:identificatie>
         <img:NEN3610ID>
           <img:namespace>NL.img</img:namespace>
