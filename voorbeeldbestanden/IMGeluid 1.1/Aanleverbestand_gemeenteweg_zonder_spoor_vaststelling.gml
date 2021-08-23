@@ -2835,6 +2835,7 @@
           </gml:surfaceMember>
         </gml:MultiSurface>
       </img:geometrie>
+      <img:metadataBerekening xlink:href="#NL.img.22224444.Geluidberekening-BGE-1.1"></img:metadataBerekening>
     </img:Geluidaandachtsgebied>
   </gml:featureMember>
   <gml:featureMember>
@@ -19034,4 +19035,3 @@
     </img:WegdeelBGE>
   </gml:featureMember>
 </gml:FeatureCollection>
-
