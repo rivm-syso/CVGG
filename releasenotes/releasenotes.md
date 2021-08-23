@@ -1,5 +1,18 @@
 ## Release notes CVGG – omgeving voor proefdraaien
 
+### Release 0.04
+Datum: 20 aug 2021
+* #### Fouten in het voorbeeldbestand Industrie opgelost. 
+  Het industrieterrein was opgenomen in het geluidaandachtsgebied. Dat mag niet. Een vegetatiegebied lag buiten het industrieterrein. Dat mag niet. Het aangepaste voorbeeldbestand staat op github.
+* #### Fout in voorbeeldbestand Rijskweg monitoring opgelost. 
+  Het NEN3610ID van de geluidgegevenscollectie komt niet overeen met de gml-id. Dat mag niet. Het aangepaste voorbeeldbestand staat op github.
+* #### Sorteren van kolommen op pagina overzicht bestanden uitgebreid.
+  Sorteren was alleen mogelijk voor de kolom aanlevering. Nu voor alle kolommen.
+* #### Melding toegevoegd als geen berichten getoond worden. 
+  I.p.v. een lege pagina, wordt nu een melding getoond in het geval een filter geen resultaat opleverd dan wel er geen berichten geplaatst zijn. 
+* #### Melding toegevoegd bij invoeren foutieve datum publicatie berichtenBronhouder kreeg geen melding bij ongeldige invoer datum. 
+  Dat is aangepast.
+
 ### Release 0.03
 Datum: 30 juli 2021
 * #### In het voorbeeldbestand Luchtvaart was de ligging van de contourlijnen en contourvlakken inconsistent.
