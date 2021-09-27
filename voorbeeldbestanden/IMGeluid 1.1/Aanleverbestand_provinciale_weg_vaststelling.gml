@@ -166,7 +166,6 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron provinciale weg, van he
 	  <img:featureMember xlink:href="#NL.img.44441111.Geluidscherm-5495-288.1"></img:featureMember>
       <img:featureMember xlink:href="#NL.img.44441111.Document-M_Provincieweg.1"></img:featureMember>
       <img:featureMember xlink:href="#NL.img.44441111.Wegdeel-8290.1"></img:featureMember>
-      <img:featureMember xlink:href="#NL.img.44441111.Geluidberekening-M_Provincieweg.1"></img:featureMember>
       <img:featureMember xlink:href="#NL.img.44441111.Wegdeel-8185.1"></img:featureMember>
       <img:featureMember xlink:href="#NL.img.44441111.Wegdeel-931.1"></img:featureMember>
       <img:featureMember xlink:href="#NL.img.44441111.Wegdeel-873.1"></img:featureMember>

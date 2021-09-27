@@ -324,7 +324,6 @@ werkelijkheid. Dit voorbeeldbestand is een voorbeeld voor de geluidbron rijksweg
             <img:featureMember xlink:href="#NL.img.53824291.wd41775.1"></img:featureMember>
             <img:featureMember xlink:href="#NL.img.53824291.wd40180.1"></img:featureMember>
             <img:featureMember xlink:href="#NL.img.53824291.wd39235.1"></img:featureMember>
-            <img:featureMember xlink:href="#NL.img.53824291.gbo20190717-Verni.1"></img:featureMember>
             <img:featureMember xlink:href="#NL.img.53824291.dv20190717-Verni.1"></img:featureMember>
             <img:featureMember xlink:href="#NL.img.53824291.GPP-33999.1"></img:featureMember>
             <img:featureMember xlink:href="#NL.img.53824291.GPP-34000.1"></img:featureMember>
