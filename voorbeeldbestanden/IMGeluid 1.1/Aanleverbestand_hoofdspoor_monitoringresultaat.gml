@@ -24,7 +24,6 @@
       </img:herkomstCollectie>
       <img:systematiek>GPP</img:systematiek>
       <img:featureMember xlink:href="#NL.img.30124359.Nalevingsverslag-2018.1"></img:featureMember>
-      <img:featureMember xlink:href="#NL.img.30124359.gbo-monitoring-2018.1"></img:featureMember>
       <img:featureMember xlink:href="#NL.img.30124359.mtr-2018-12999.1"></img:featureMember>
       <img:featureMember xlink:href="#NL.img.30124359.mtr-2018-12479.1"></img:featureMember>
       <img:featureMember xlink:href="#NL.img.30124359.mtr-2018-12480.1"></img:featureMember>

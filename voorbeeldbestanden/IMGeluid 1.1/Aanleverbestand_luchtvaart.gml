@@ -23,7 +23,6 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron luchtvaart, van het typ
       <img:systematiek>anders</img:systematiek>
       <img:featureMember xlink:href="#NL.img.12345678.Besluit-1.1"></img:featureMember>
       <img:featureMember xlink:href="#NL.img.12345678.Luchthaventerrein-1.1"></img:featureMember>
-      <img:featureMember xlink:href="#NL.img.12345678.Geluidberekeningobject-1.1"></img:featureMember>
     </img:Geluidgegevenscollectie>
   </gml:featureMember>
   <gml:featureMember>

@@ -4117,15 +4117,10 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron hoofdspoor, van het typ
       <img:featureMember xlink:href="#NL.img.30124359.gss1349985.1"></img:featureMember>
       <img:featureMember xlink:href="#NL.img.30124359.gpp30806.1"></img:featureMember>
       <img:featureMember xlink:href="#NL.img.30124359.dv20-05-2019.1"></img:featureMember>
-      <img:featureMember xlink:href="#NL.img.30124359.gbo20-05-2019.1"></img:featureMember>
       <img:featureMember xlink:href="#NL.img.30124359.dv24-06-2014.1"></img:featureMember>
-      <img:featureMember xlink:href="#NL.img.30124359.gbo24-06-2014.1"></img:featureMember>
       <img:featureMember xlink:href="#NL.img.30124359.dv15-09-2017.1"></img:featureMember>
-      <img:featureMember xlink:href="#NL.img.30124359.gbo15-09-2017.1"></img:featureMember>
       <img:featureMember xlink:href="#NL.img.30124359.dv10-11-2014.1"></img:featureMember>
-      <img:featureMember xlink:href="#NL.img.30124359.gbo10-11-2014.1"></img:featureMember>
       <img:featureMember xlink:href="#NL.img.30124359.dv01-07-2015.1"></img:featureMember>
-      <img:featureMember xlink:href="#NL.img.30124359.gbo01-07-2015.1"></img:featureMember>
       <img:featureMember xlink:href="#NL.img.30124359.gpp13012.1"></img:featureMember>
       <img:featureMember xlink:href="#NL.img.30124359.gpp13008.1"></img:featureMember>
       <img:featureMember xlink:href="#NL.img.30124359.gpp13015.1"></img:featureMember>

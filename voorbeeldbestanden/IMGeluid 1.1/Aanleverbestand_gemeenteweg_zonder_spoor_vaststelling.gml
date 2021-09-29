@@ -2870,7 +2870,6 @@
       </img:herkomstCollectie>
       <img:systematiek>BGE</img:systematiek>
 	  <img:geluidaandachtsgebied xlink:href="#NL.img.22224444.GAG-198443.1"></img:geluidaandachtsgebied>
-      <img:featureMember xlink:href="NL.img.22224444.Geluidberekening-BGE-1.1"></img:featureMember>
       <img:featureMember xlink:href="#NL.img.22224444.BGE-977.1"></img:featureMember>
       <img:featureMember xlink:href="#NL.img.22224444.Document-M_gemeenteweg_rijlijnen_2D_ge1000.1"></img:featureMember>
       <img:featureMember xlink:href="#NL.img.22224444.Wegdeel-877.1"></img:featureMember>
