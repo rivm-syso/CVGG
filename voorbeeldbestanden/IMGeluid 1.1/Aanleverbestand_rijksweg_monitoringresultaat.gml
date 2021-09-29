@@ -58,7 +58,6 @@
       <img:systematiek>GPP</img:systematiek>
       <img:featureMember xlink:href="#NL.img.53824291.mtr-2018-33880.1"></img:featureMember>
       <img:featureMember xlink:href="#NL.img.53824291.dv-monitoring-2018.1"></img:featureMember>
-      <img:featureMember xlink:href="#NL.img.53824291.gbo-monitoring-2018.1"></img:featureMember>
       <img:featureMember xlink:href="#NL.img.53824291.mtr-2018-33993.1"></img:featureMember>
       <img:featureMember xlink:href="#NL.img.53824291.mtr-2018-33887.1"></img:featureMember>
       <img:featureMember xlink:href="#NL.img.53824291.mtr-2018-33985.1"></img:featureMember>
