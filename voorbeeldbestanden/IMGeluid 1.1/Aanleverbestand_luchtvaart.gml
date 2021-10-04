@@ -23,6 +23,29 @@ Dit voorbeeldbestand is een voorbeeld voor de geluidbron luchtvaart, van het typ
       <img:systematiek>anders</img:systematiek>
       <img:featureMember xlink:href="#NL.img.12345678.Besluit-1.1"></img:featureMember>
       <img:featureMember xlink:href="#NL.img.12345678.Luchthaventerrein-1.1"></img:featureMember>
+      <img:featureMember xlink:href="#NL.img.12345678.Geluidcontour-9.1"></img:featureMember>
+      <img:featureMember xlink:href="#NL.img.12345678.Geluidcontour-10.1"></img:featureMember>
+      <img:featureMember xlink:href="#NL.img.12345678.Geluidcontour-27.1"></img:featureMember>
+      <img:featureMember xlink:href="#NL.img.12345678.Geluidcontour-28.1"></img:featureMember>
+      <img:featureMember xlink:href="#NL.img.12345678.Geluidcontour-29.1"></img:featureMember>
+      <img:featureMember xlink:href="#NL.img.12345678.Geluidcontour-30.1"></img:featureMember>
+      <img:featureMember xlink:href="#NL.img.12345678.Geluidcontour-24.1"></img:featureMember>
+      <img:featureMember xlink:href="#NL.img.12345678.Geluidcontour-26.1"></img:featureMember>
+      <img:featureMember xlink:href="#NL.img.12345678.Geluidcontour-23.1"></img:featureMember>
+      <img:featureMember xlink:href="#NL.img.12345678.Geluidcontour-20.1"></img:featureMember>
+      <img:featureMember xlink:href="#NL.img.12345678.Geluidcontour-25.1"></img:featureMember>
+      <img:featureMember xlink:href="#NL.img.12345678.Geluidcontour-22.1"></img:featureMember>
+      <img:featureMember xlink:href="#NL.img.12345678.Geluidcontour-19.1"></img:featureMember>
+      <img:featureMember xlink:href="#NL.img.12345678.Geluidcontour-16.1"></img:featureMember>
+      <img:featureMember xlink:href="#NL.img.12345678.Geluidcontour-21.1"></img:featureMember>
+      <img:featureMember xlink:href="#NL.img.12345678.Geluidcontour-18.1"></img:featureMember>
+      <img:featureMember xlink:href="#NL.img.12345678.Geluidcontour-15.1"></img:featureMember>
+      <img:featureMember xlink:href="#NL.img.12345678.Geluidcontour-12.1"></img:featureMember>
+      <img:featureMember xlink:href="#NL.img.12345678.Geluidcontour-17.1"></img:featureMember>
+      <img:featureMember xlink:href="#NL.img.12345678.Geluidcontour-14.1"></img:featureMember>
+      <img:featureMember xlink:href="#NL.img.12345678.Geluidcontour-11.1"></img:featureMember>
+      <img:featureMember xlink:href="#NL.img.12345678.Geluidcontour-8.1"></img:featureMember>
+      <img:featureMember xlink:href="#NL.img.12345678.Geluidcontour-13.1"></img:featureMember>
     </img:Geluidgegevenscollectie>
   </gml:featureMember>
   <gml:featureMember>
