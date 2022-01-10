@@ -1,8 +1,24 @@
 ## Release notes CVGG – omgeving voor proefdraaien
 
+
+### Release 0.05
+Datum: 10 januari 2022
+* #### Uit de gebruikerstest kwamen diverse problemen met de zoomfunctie van de kaart naar voren.
+Deze problemen hadden allemaal dezelfde oorzaak. Dit is nu opgelost.
+* #### De mobiele versie had enkele bugs in het sluiten van het menu.
+Deze zijn opgelost.
+* #### De tool Hotjar is geimplementeerd om inzicht te krijgen in gebruikersgedrag.
+* #### De validatie is opgeknipt zodat ook grotere bestanden aangeleverd kunnen worden.
+De validatie van grote bestanden liep vast. Door de validatie op te knippen is dit probleem opgelost.
+* #### De URLs van de achtergrondkaarten van PDOK zijn aangepast zodat we gebruik kunnen blijven maken van deze kaarten.
+PDOK heeft de URLs van de achtergrondkaarten aangepast. Hierdoor was het noodzakelijk dit ook in ons systeem aan te passen.
+* #### eHerkenning is geimplementeerd als authenticatie voor het aanleveren en beheren van bestanden, en het maken van berichten. De oude manier van inloggen is verwijderd.
+*_Op verzoek van het bedrijf dat de pen-test uitvoerd in de week van 10 t/m 14 januari werken we met de testversie van eHerkenning. Voor deze versie gebruik je een testmiddel eHerkenning voor inloggen._*\
+We maken nu gebruik van eHerkenning als authenticatie voor het aanleveren en beheren van bestanden, en het maken van berichten. De oude manier van inloggen kan niet meer gebruikt worden. Downloaden, raadplegen op de kaart en het afnemen van berichten blijft voor iedereen toegankelijk. Ook het valideren van bestanden, zonder aan te leveren, is voor iedereen toegankelijk. We wijzen er op dat alleen de authenticatie hiermee is ingeregeld. Er zit nog geen autorisatie op het aanleveren.
+
 ### Release 0.04
 Datum: 20 aug 2021
-* #### Fouten in het voorbeeldbestand Industrie opgelost. 
+* #### Fouten in het voorbeeldbestand Industrie opgelost.
   Het industrieterrein was opgenomen in het geluidaandachtsgebied. Dat mag niet. Een vegetatiegebied lag buiten het industrieterrein. Dat mag niet. Het aangepaste voorbeeldbestand staat op github.
 * #### Fout in voorbeeldbestand Rijskweg monitoring opgelost. 
   Het NEN3610ID van de geluidgegevenscollectie komt niet overeen met de gml-id. Dat mag niet. Het aangepaste voorbeeldbestand staat op github.
