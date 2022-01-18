@@ -3,7 +3,7 @@ Release notes CVGG – omgeving voor proefdraaien
 
 ### Release 0.06
 Datum: 18 januari 2022
-* ### De koppeling met de testversie van eHerkenning is vervangen door de productieversie van eHerkenning.
+* #### De koppeling met de testversie van eHerkenning is vervangen door de productieversie van eHerkenning.
 Inloggen kan dus alleen nog met een eHerkenningsmiddel, niet meer met een testmiddel. Anoniem valideren blijft beschikbaar.
 
 ### Release 0.05
