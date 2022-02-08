@@ -2,7 +2,7 @@
 Release notes CVGG – omgeving voor proefdraaien
 
 ### Release 0.07
-Datum: 24 januari 2022
+Datum: 8 fenruari 2022
 * #### Het applicatieschema van IMGv1.2 is geïmplementeerd.
 Dit betekent dat bestanden gevalideerd worden op het xsd van IMG 1.2. Let op: bij het IMG horen ook zogeheten ‘toepasbare regels’. Deze staan niet in het xsd. Op deze toepasbare regels wordt op dit moment nog niet gevalideerd. Ze zijn echter wel van onverminderd van toepassing.
 * #### Bij bestand bekijken op kaart wordt direct ingezoomd naar het werkgebied.
