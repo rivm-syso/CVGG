@@ -1,6 +1,14 @@
 ## Release notes CVGG – omgeving voor proefdraaien
 Release notes CVGG – omgeving voor proefdraaien
 
+### Release 0.07
+Datum: 24 januari 2022
+* #### Het applicatieschema van IMGv1.2 is geïmplementeerd.
+Dit betekent dat bestanden gevalideerd worden op het xsd van IMG 1.2. Let op: bij het IMG horen ook zogeheten ‘toepasbare regels’. Deze staan niet in het xsd. Op deze toepasbare regels wordt op dit moment nog niet gevalideerd. Ze zijn echter wel van onverminderd van toepassing.
+* #### Bij bestand bekijken op kaart wordt direct ingezoomd naar het werkgebied.
+Voorheen werd de kaart altijd getoond op schaal Nederland. Daarbij was het soms ‘zoeken naar de data’. Nu wordt er direct ingezoomd op de geografische locatie van de data.
+* #### Enkele aanpassingen aan de frontend om te voldoen aan de RIVM rijkshuisstijl.
+
 ### Release 0.06
 Datum: 18 januari 2022
 * #### De koppeling met de testversie van eHerkenning is vervangen door de productieversie van eHerkenning.
