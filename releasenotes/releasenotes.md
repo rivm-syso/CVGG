@@ -4,7 +4,9 @@ Release notes CVGG – omgeving voor proefdraaien
 ### Release 0.08
 Datum: 28 maart 2022
 * #### De beveiliging is aangescherpt.
+Er is een security test uitgevoerd op onze website. Aan de hand van deze test hebben wij de beveiliging aangescherpt. 
 * #### Bepaalde functionaliteiten kunnen van buitenaf niet meer bereikt worden (voor beveiligingsredenen).
+Een van de bevindingen die uit de security test was gekomen.
 * #### Diverse 'onder-de-motorkap' verbeteringen
 * #### De links van de social media deelknoppen zijn geüpdatet.
 
