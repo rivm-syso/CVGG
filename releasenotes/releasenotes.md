@@ -1,6 +1,13 @@
 ## Release notes CVGG – omgeving voor proefdraaien
 Release notes CVGG – omgeving voor proefdraaien
 
+### Release 0.08
+Datum: 28 maart 2022
+* #### De beveiliging is aangescherpt.
+* #### Bepaalde functionaliteiten kunnen van buitenaf niet meer bereikt worden (voor beveiligingsredenen).
+* #### Diverse 'onder-de-motorkap' verbeteringen.
+* #### De links van de social media deelknoppen zijn geüpdatet.
+
 ### Release 0.07
 Datum: 8 februari 2022
 * #### Het applicatieschema van IMGv1.2 is geïmplementeerd.
