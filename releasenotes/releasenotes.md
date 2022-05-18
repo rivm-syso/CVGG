@@ -1,6 +1,17 @@
 ## Release notes CVGG – omgeving voor proefdraaien
 Release notes CVGG – omgeving voor proefdraaien
 
+### Release 0.09
+Datum: 18 mei 2022
+* #### Het is nu mogelijk strategische geluidbelastingkaarten aan te leveren voor Environmental Noise Directive (END)
+Alleen organisaties die geautoriseerd zijn voor END kunnen hier gegevens voor aanleveren
+* #### Het is nu mogelijk om de details van uw END aanlevering te bekijken.
+* #### Het is nu mogelijk om de details van uw END aanlevering te bekijken.
+* #### Het is mogelijk om, indien uw aanlevering is afgekeurd, de foutmeldingen van de aanlevering in te zien.
+* #### Het is nu mogelijk om, indien uw aanlevering is afgekeurd, de foutmeldingen van de aanlevering te verwijderen.
+* #### Het is nu mogelijk om uw aanlevering definitief te maken.
+* #### Diverse technische verbeteringen om de applicatie veiliger te maken.
+
 ### Release 0.08
 Datum: 28 maart 2022
 * #### De beveiliging is aangescherpt.
