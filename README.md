@@ -3,23 +3,23 @@ Op deze github pagina's wordt (technische) documentatie beschikbaar gesteld. De 
 
 ## Handleiding CVGG
 Voor het oefenen met de CVGG is een beknopte handleiding opgesteld.
-- [Handleiding voor de CVGG](https://github.com/rivm-syso/CVGG/blob/main/documenten/Handleiding%20voor%20de%20CVGG%20v1.1.pdf "Handleiding voor de CVGG")
+- [Handleiding voor de CVGG](https://www.rivm.nl/cvgg/hoofdmenu-cvgg/handleiding)
 
 ## Informatiemodel Geluid
 De laatst vastgestelde versie van IMGeluid vind je steeds:
 - [IMgeluid Catalogus](https://docs.geostandaarden.nl/cvgg/img/ "IMgeluid Catalogus")
 - [IMgeluid applicatieschema (xsd)](https://register.geostandaarden.nl/?url=img/index.html "IMgeluid applicatieschema (xsd)")
 
-## Uitwisselen gegevens
+## Uitwisselen gegevens Geluidregister
 Aanlever- en uitleverbestanden moeten voldoen aan de [Uitwisselstandaard CVGG](https://github.com/rivm-syso/CVGG/blob/main/documenten/Uitwisselstandaard%20Centrale%20Voorziening%20Geluidgegevens%200.5.pdf "[Uitwisselstandaard CVGG]") en het [IMGeluid](https://docs.geostandaarden.nl/cvgg/img/ "IMGeluid"). De inhoud van een aanleverbestand wordt bepaald door de geluidbron en het type aanlevering. De inhoud van het uitleverbestand (download) door het type uitlevering. 
 
-## Inhoud bestanden
+## Inhoud bestanden Geluidregister
 Nadere toelichting over de inhoud van aanlever- en uitleverbestanden vind je in volgende documenten. In de toelichting op uitwisselen gegevens staat o.a beschreven welke onderdelen van IMGeluid je moet aanleveren per geluidbron en per type aanlevering.
 
 - [Toelichting op uitwisselen gegevens](https://github.com/rivm-syso/CVGG/blob/main/documenten/Toelichting%20op%20uitwisselen%20gegevens%20v.0.3.pdf "Toelichting op uitwisselen gegevens")
 - [Uitwisselstandaard CVGG](https://github.com/rivm-syso/CVGG/blob/main/documenten/Uitwisselstandaard%20Centrale%20Voorziening%20Geluidgegevens%200.5.pdf "[Uitwisselstandaard CVGG]")
 
-## Voorbeeldbestanden
+## Voorbeeldbestanden Geluidregister
 Per geluidbron en per type aan- of uitlevering zijn voorbeelden beschikbaar. We beginnen met het beschikbaar stellen van de geluidbronnen rijksweg, hoofdspoor, luchtvaart, en gemeenteweg. Gaandeweg worden andere geluidbronnen toegevoegd. Dat geldt zowel voor de aanlever- als uitleverbestanden.
 
 LET OP. Doel van de voorbeeldbestanden is om te laten zien hoe een GML-bestand er uit moet komen te zien volgens de structuur van het IMGeluid, en conform de uitwisselstandaard. De inhoud is dan ook **fictief**, en komt **NIET** overeen met de akoestische werkelijkheid.
