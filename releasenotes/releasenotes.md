@@ -7,7 +7,7 @@ Datum: 1 juni 2022
 U kunt de gegevens van uw aanlevering bekijken op de kaart door naar de detailweergave van uw bestand te gaan en op "Bekijk op kaart" te klikken
 * #### Wanneer u een bestand aanlevert, wordt u automatisch genavigeerd naar de Validatiepagina.
 * #### Op de Validatiepagina zal de pagina automatisch verversen wanneer de validatie van uw aanlevering klaar is
-Als uw validatie succesvol of niet succesvol is, zal er respectievelijk ter bevestiging een groene of rode banner aan de bovenkant van de pagina te zien zijn ter bevestiging. 
+Als uw validatie succesvol of niet succesvol is, zal er respectievelijk een groene of rode banner aan de bovenkant van de pagina te zien zijn ter bevestiging. 
 
 ### Release 0.09
 Datum: 18 mei 2022
