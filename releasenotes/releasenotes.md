@@ -1,6 +1,11 @@
 ## Release notes CVGG – omgeving voor proefdraaien
 Release notes CVGG – omgeving voor proefdraaien
 
+## Release 0.14
+Datum: 1 juli 2022
+* #### Er zijn nu 3 blokken zichtbaar in het midden van de Home pagina: Geluidregister (OW), Aanleveren END geluidbelastingkaarten en Informatie over de CVGG.
+Met behulp van deze links kun je direct navigeren naar de desbetreffende pagina's.
+
 ## Release 0.13
 Datum: 30 juni 2022
 * #### Het is nu mogelijk om te zoeken naar een specifiek gebied op de kaart (bijv. op plaatsnaam, postcode, etc) bij het bekijken van jouw aangeleverde gegevens op de kaart. Ook wordt er automatisch op ingezoomd.
