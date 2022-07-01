@@ -1,6 +1,11 @@
 ## Release notes CVGG – omgeving voor proefdraaien
 Release notes CVGG – omgeving voor proefdraaien
 
+## Release 0.13
+Datum: 30 juni 2022
+* #### Het is nu mogelijk om te zoeken naar een specifiek gebied op de kaart (bijv. op plaatsnaam, postcode, etc) bij het bekijken van jouw aangeleverde gegevens op de kaart. Ook wordt er automatisch op ingezoomd.
+* #### Vanuit de footer van de website kun je navigeren naar de pagina's Privacy en Cookies, waarop je kunt lezen hoe wij om gaan met jouw privacy en cookies op onze website.
+
 ## Release 0.12
 Datum: 27 juni 2022
 * #### Het is nu mogelijk om incidenteel een heraanlevering te doen, wanneer een aanlevering al is vastgesteld.
