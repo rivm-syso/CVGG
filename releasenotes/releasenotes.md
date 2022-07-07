@@ -1,6 +1,11 @@
 ## Release notes CVGG – omgeving voor proefdraaien
 Release notes CVGG – omgeving voor proefdraaien
 
+## Release 0.15
+Datum: 6 juli 2022
+* #### De kaartlagen bij de "Bekijk op kaart" functionaliteit voor jouw aangeleverd bestand staan nu in een specifiek volgorde.
+Dit was een van de feedback punten die uit de gebruikersacceptatietest was gekomen.
+
 ## Release 0.14
 Datum: 1 juli 2022
 * #### Er zijn nu 3 blokken zichtbaar in het midden van de Home pagina: Geluidregister (OW), Aanleveren END geluidbelastingkaarten en Informatie over de CVGG.
