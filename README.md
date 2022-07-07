@@ -1,7 +1,7 @@
 # CVGG - documentatie
 Op deze github pagina's wordt (technische) documentatie beschikbaar gesteld. De informatie is ingedeeld naar onderstaande onderdelen. Deze pagina's zijn nog in ontwikkeling. 
 
-# Release notes
+## Release notes
 Op deze pagina zijn de laatste wijzingen te vinden van de CVGG: [release notes](https://github.com/rivm-syso/CVGG/blob/main/releasenotes/releasenotes.md)
 
 ## Handleiding CVGG
@@ -14,13 +14,13 @@ De laatst vastgestelde versie van IMGeluid vind je steeds:
 - [IMgeluid applicatieschema (xsd)](https://register.geostandaarden.nl/?url=img/index.html "IMgeluid applicatieschema (xsd)")
 
 ## Uitwisselen gegevens Geluidregister
-Aanlever- en uitleverbestanden moeten voldoen aan de [Uitwisselstandaard CVGG](https://github.com/rivm-syso/CVGG/blob/main/documenten/Uitwisselstandaard%20Centrale%20Voorziening%20Geluidgegevens%200.5.pdf "[Uitwisselstandaard CVGG]") en het [IMGeluid](https://docs.geostandaarden.nl/cvgg/img/ "IMGeluid"). De inhoud van een aanleverbestand wordt bepaald door de geluidbron en het type aanlevering. De inhoud van het uitleverbestand (download) door het type uitlevering. 
+Aanlever- en uitleverbestanden moeten voldoen aan de [Uitwisselstandaard CVGG](https://github.com/rivm-syso/CVGG/blob/main/documenten/Uitwisselstandaard%20Centrale%20Voorziening%20Geluidgegevens%200.6.pdf "[Uitwisselstandaard CVGG]") en het [IMGeluid](https://docs.geostandaarden.nl/cvgg/img/ "IMGeluid"). De inhoud van een aanleverbestand wordt bepaald door de geluidbron en het type aanlevering. De inhoud van het uitleverbestand (download) door het type uitlevering. 
 
 ## Inhoud bestanden Geluidregister
 Nadere toelichting over de inhoud van aanlever- en uitleverbestanden vind je in volgende documenten. In de toelichting op uitwisselen gegevens staat o.a beschreven welke onderdelen van IMGeluid je moet aanleveren per geluidbron en per type aanlevering.
 
 - [Toelichting op uitwisselen gegevens](https://github.com/rivm-syso/CVGG/blob/main/documenten/Toelichting%20op%20uitwisselen%20gegevens%20v.0.3.pdf "Toelichting op uitwisselen gegevens")
-- [Uitwisselstandaard CVGG](https://github.com/rivm-syso/CVGG/blob/main/documenten/Uitwisselstandaard%20Centrale%20Voorziening%20Geluidgegevens%200.5.pdf "[Uitwisselstandaard CVGG]")
+- [Uitwisselstandaard CVGG](https://github.com/rivm-syso/CVGG/blob/main/documenten/Uitwisselstandaard%20Centrale%20Voorziening%20Geluidgegevens%200.6.pdf "Uitwisselstandaard CVGG")
 
 ## Voorbeeldbestanden Geluidregister
 Per geluidbron en per type aan- of uitlevering zijn voorbeelden beschikbaar. We beginnen met het beschikbaar stellen van de geluidbronnen rijksweg, hoofdspoor, luchtvaart, en gemeenteweg. Gaandeweg worden andere geluidbronnen toegevoegd. Dat geldt zowel voor de aanlever- als uitleverbestanden.
