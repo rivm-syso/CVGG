@@ -1,6 +1,22 @@
 ## Release notes CVGG – omgeving voor proefdraaien
 Release notes CVGG – omgeving voor proefdraaien
 
+## Release 0.16
+Datum: 15 augustus 2022
+* #### Als er nu iets onverwacht fout gaat, zal er een algemene foutmelding te zien zijn.
+Voorheen was er een technische melding te zien, nu is er een gebruiksvriendelijkere melding te zien.
+* #### Mochten wij onderhoud plegen aan onze website, dan zal er vanaf nu een onderhoudspagina te zien zijn.
+* #### Er was een foutje in het systeem bij een verlopen sessie, waarbij er een onterechte melding te zien was. Dat is nu opgelost!
+* #### Wij hebben het voortgangsrapportage wat uitgebreid met extra kolommen, zoals agglid, agglnaam en CBS-code.
+* #### Het inloggen linkje in de footer wanneer je al ingelogd bent is verwijderd.
+* #### Wij kunnen jullie nu informeren, als dat nodig is, door middel van een melding bovenaan de website. 
+Denk bijvoorbeeld aan meldingen zoals "Komend weekend (2 en 3 juli 2022) vinden onderhoudswerkzaamheden plaats, en is de CVGG niet bereikbaar".
+* #### De kaart werkte niet helemaal goed op de telefoon. Dat is nu gefixed.
+* #### Bij het aanmaken van een bericht waren niet alle knoppen meer beschikbaar om de tekst te wijzigen. Nu zijn de knoppen weer beschikbaar!
+* #### De blokken op de homepagina bevatten nu pijltjes om aan te geven of je in de voorziening blijft of wanneer je de voorziening verlaat. 
+* #### Als je een END bestand aanleverde bij het geluidregister, kreeg je een foutmelding te zien in het groen. De kleur van de foutmelding is nu aangepast naar 'de foutmeldingkleur', rood.
+* #### Wat onder de motorkap wijzigingen om de applicatie beter te laten draaien.
+
 ## Release 0.15
 Datum: 6 juli 2022
 * #### De kaartlagen bij de "Bekijk op kaart" functionaliteit voor jouw aangeleverd bestand staan nu in een specifiek volgorde.
