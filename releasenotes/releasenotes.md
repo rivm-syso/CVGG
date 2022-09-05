@@ -1,6 +1,11 @@
 ## Release notes CVGG – omgeving voor proefdraaien
 Release notes CVGG – omgeving voor proefdraaien
 
+## Release 0.17
+Datum: 5 september 2022
+* #### Digitoegankelijksheidsverklaring toegevoegd aan de webapplicatie.
+* #### Een tekstuele aanpassing bij de melding 'goedgekeurd' als er aangeleverd wordt in het END portaal.
+
 ## Release 0.16
 Datum: 15 augustus 2022
 * #### Als er nu iets onverwacht fout gaat, zal er een algemene foutmelding te zien zijn.
