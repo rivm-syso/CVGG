@@ -1,7 +1,6 @@
 # Validatieregels
 
-Op deze pagina vind je een overzicht van validatieregels die voor een bepaalde releasenr zijn geimplementeerd in de CVGG. Het betreft validaties die boven op het gml applicatieschema (xsd) van IMGeluid worden uitgevoerd.
-De validatieregels zijn afgeleid uit de Regels uit IMgeluid en uit de uitwisselstandaard. 
+Op deze pagina vind je een overzicht van validatieregels die voor een bepaalde releasenr zijn geimplementeerd in de CVGG. Het betreft validaties die boven op het gml applicatieschema (xsd) van IMGeluid worden uitgevoerd. De validatieregels zijn afgeleid uit de Regels beschreven in IMGeluid en de Uitwisselstandaard. 
 
 
 |  Release CVGG |IMGeluid Applicatieschema (xsd) | Validatieregels | 
