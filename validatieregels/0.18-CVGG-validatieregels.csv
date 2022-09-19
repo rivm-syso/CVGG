@@ -4,7 +4,7 @@ CVGG002;Het zip bestand bevat een bestand met de extensie *.gml
 CVGG005;De bestandsnaam is niet langer dan de maximale toegestane lengte (40 lettertekens)
 CVGG007;Het bestand is een geldig xml bestand 
 CVGG008;Het bestand voldoet aan het IMgeluid applicatieschema
-CVGG018;"Identificatie: voldoet aan de NEN3610 naamgevingsconventie oftewel de identificatie begint met ""NL.img"", gevolgd door een KvKnummer, een punt en een lokale identificatie."
+CVGG018;Identificatie: voldoet aan de NEN3610 naamgevingsconventie oftewel de identificatie begint met ""NL.img"", gevolgd door een KvKnummer, een punt en een lokale identificatie."
 CVGG025;Geluidgegevenscollectie: TijdstipRegistratie en eindRegistratie zijn niet ingevuld.
 CVGG028;Een Geluidgegevenscollectie heeft alleen Geluidproductieplafondobjecten indien Geluidgegevenscollectie.systematiek=GPP.
 CVGG029;"Er mag alleen geen Geluidaandachtsgebied in een Geluidgegevenscollectie zitten indien Geluidgegevenscollectie.systematiek=GPP of Geluidgegevenscollectie.systematiek=BGE, EN het Geluidgegevenscollectie.type=vaststelling;"
