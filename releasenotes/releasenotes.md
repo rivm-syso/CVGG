@@ -1,6 +1,18 @@
 ## Release notes CVGG – omgeving voor proefdraaien
 Release notes CVGG – omgeving voor proefdraaien
 
+## Release 0.18
+Datum: 19 september 2022
+* #### Wij hebben de validatie van de voorziening wat aangescherpt.
+Dit is een voortdurend proces. In de aankomende periode zullen wij de validatie van de voorziening blijven aanscherpen, waarbij we meer en meer validatieregels zullen implementeren. Een overzicht van de al geïmplementeerde validaties vind je hier: https://github.com/rivm-syso/CVGG/blob/main/validatieregels/0.18-CVGG-validatieregels.md.
+* #### De voorziening is verbeterd op gebied van toegankelijkheid.
+Een rapport hierover is te vinden op https://geluidgegevens.nl/toegankelijkheid
+* #### Het voortgangsrapportage voor de geluidbelastingkaarten is verbeterd.
+Het kon wel eens gebeuren dat er een situatie optrad waarbij, in het voortgangsrapportage, het niet te zien was of een organisatie niet had aangeleverd. Dat zou niet meer voor moeten komen.
+* #### Het verwijderen van een aangeleverd bestand binnen de geluidbelastingkaarten is wat aangescherpt.
+* #### Er zijn wat styling wijzigingen doorgevoerd.
+Bijvoorbeeld: een roze kleur melding bij een afgekeurde aanlevering en de wijziging van de achtergrondkleur van de submenu in de navigatie. 
+
 ## Release 0.17
 Datum: 5 september 2022
 * #### Digitoegankelijksheidsverklaring toegevoegd aan de webapplicatie.
