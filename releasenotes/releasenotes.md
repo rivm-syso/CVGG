@@ -3,6 +3,9 @@ Release notes CVGG – omgeving voor proefdraaien
 
 ## Release 0.18
 Datum: 19 september 2022
+* #### IMGeluid 2.1.0 RC2 is geïmplementeerd.
+Bij het aanleveren van bestanden zal de CVGG nu valideren tegen het bijhorende GML applicatieschema IMGeluid-2.1.0-rc2.xsd: 
+https://register.geostandaarden.nl/gmlapplicatieschema/img/2.1.0/IMGeluid-2.1.0-rc2.xsd
 * #### Wij hebben de validatie van de voorziening wat aangescherpt.
 Dit is een voortdurend proces. In de aankomende periode zullen wij de validatie van de voorziening blijven aanscherpen, waarbij we meer en meer validatieregels zullen implementeren. Een overzicht van de al geïmplementeerde validaties vind je hier: https://github.com/rivm-syso/CVGG/blob/main/validatieregels/0.18-CVGG-validatieregels.md.
 * #### De voorziening is verbeterd op gebied van toegankelijkheid.
