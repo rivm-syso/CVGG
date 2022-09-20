@@ -5,4 +5,4 @@ Op deze pagina vind je een overzicht van validatieregels die voor een bepaalde r
 
 |  Release CVGG |IMGeluid Applicatieschema (xsd) | Validatieregels | 
 | ------------ | ------------ | ------------ |
-| 0.18  | IMGeluid-2.1.0-rc2.xsd  | 0.18-CVGG-validatieregels.md | 
+| 0.18  | IMGeluid-2.1.0-rc2.xsd  | [0.18-CVGG-validatieregels.md](https://github.com/rivm-syso/CVGG/tree/main/validatieregels)| 
