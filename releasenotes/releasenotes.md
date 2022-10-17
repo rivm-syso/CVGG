@@ -4,7 +4,7 @@ Release notes CVGG – omgeving voor proefdraaien
 ## Release 0.19
 Datum: 17 oktober 2022
 * #### Wij hebben weer wat extra validaties toegevoegd aan het geluidregister.
-*  Een overzicht van alle geïmplementeerde validaties kun je terugvinden op https://github.com/rivm-syso/CVGG/blob/main/validatieregels/0.18-CVGG-validatieregels.md.
+Een overzicht van alle geïmplementeerde validaties kun je terugvinden op https://github.com/rivm-syso/CVGG/blob/main/validatieregels/0.18-CVGG-validatieregels.md.
 * #### Het aanleverproces bij het geluidregister is aangepast. 
 Wanneer je een bestand aanlevert, zal je direct doorgestuurd worden naar het  tabblad "Validaties". Op dit tabblad kun je het aanleverproces in de gaten houden. Nadat jouw bestand succesvol door de validatie heen is gekomen, wordt het direct aangeleverd. Nadat het bestand is aangeleverd, moet je het nog wel zelf ter publicatie aanbieden.
 * #### Het is niet meer mogelijk om anoniem je bestand te valideren.
