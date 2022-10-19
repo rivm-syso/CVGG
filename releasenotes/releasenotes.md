@@ -1,7 +1,7 @@
 ## Release notes CVGG – omgeving voor proefdraaien
 Release notes CVGG – omgeving voor proefdraaien
 
-## Release 0.19
+## Release 0.20
 Datum: 17 oktober 2022
 * #### Wij hebben weer wat extra validaties toegevoegd aan het geluidregister.
 Een overzicht van alle geïmplementeerde validaties kun je terugvinden op https://github.com/rivm-syso/CVGG/blob/main/validatieregels/0.18-CVGG-validatieregels.md.
