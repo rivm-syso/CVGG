@@ -194,7 +194,7 @@
           <gml:pos>144983.55 502160.37</gml:pos>
         </gml:Point>
       </img:geometrie>
-      <img:optrektoeslagvlak xlink:href="#NL.img.30276683.Optrektoeslagvlak-1.1"></img:optrektoeslagvlak>
+      <img:optrektoeslagvlak xlink:href="#NL.img.30276683.Optrektoeslagvlak-3.1"></img:optrektoeslagvlak>
       <img:wegdeelGPP xlink:href="#NL.img.30276683.Wegdeel-962.1"></img:wegdeelGPP>
       <img:kruispuntkental>1/2</img:kruispuntkental>
     </img:OptrektoeslagKruispunt>
