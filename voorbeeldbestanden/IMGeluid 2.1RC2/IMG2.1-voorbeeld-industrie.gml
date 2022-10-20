@@ -65490,11 +65490,11 @@
     </img:GeluidbronIndustrie>
   </gml:featureMember>
   <gml:featureMember>
-    <img:Geluidgegevenscollectie gml:id="NL.img.30276683..geluidgegevenscollectie-industrie-voorbeeld.1">
+    <img:Geluidgegevenscollectie gml:id="NL.img.30276683.geluidgegevenscollectie-industrie-voorbeeld.1">
       <img:identificatie>
         <img:NEN3610ID>
           <img:namespace>NL.img</img:namespace>
-          <img:lokaalID>30276683..geluidgegevenscollectie-industrie-voorbeeld</img:lokaalID>
+          <img:lokaalID>30276683.geluidgegevenscollectie-industrie-voorbeeld</img:lokaalID>
           <img:versie>1</img:versie>
         </img:NEN3610ID>
       </img:identificatie>
