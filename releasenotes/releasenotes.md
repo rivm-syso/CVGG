@@ -4,7 +4,7 @@ Release notes CVGG – omgeving voor proefdraaien
 ## Release 0.20
 Datum: 17 oktober 2022
 * #### Wij hebben weer wat extra validaties toegevoegd aan het geluidregister.
-Een overzicht van alle geïmplementeerde validaties kun je terugvinden op https://github.com/rivm-syso/CVGG/blob/main/validatieregels/0.18-CVGG-validatieregels.md.
+Een overzicht van alle geïmplementeerde validatieregels kun je terugvinden op [CVGG-Validatieregels](https://github.com/rivm-syso/CVGG/blob/main/validatieregels/CVGG-Validatieregels.md).
 * #### Het aanleverproces bij het geluidregister is aangepast. 
 Wanneer je een bestand aanlevert, zal je direct doorgestuurd worden naar het  tabblad "Validaties". Op dit tabblad kun je het aanleverproces in de gaten houden. Nadat jouw bestand succesvol door de validatie heen is gekomen, wordt het direct aangeleverd. Nadat het bestand is aangeleverd, moet je het nog wel zelf ter publicatie aanbieden.
 * #### Het is niet meer mogelijk om anoniem je bestand te valideren.
@@ -16,7 +16,7 @@ Datum: 19 september 2022
 Bij het aanleveren van bestanden zal de CVGG nu valideren tegen het bijhorende GML applicatieschema IMGeluid-2.1.0-rc2.xsd: 
 https://register.geostandaarden.nl/gmlapplicatieschema/img/2.1.0/IMGeluid-2.1.0-rc2.xsd
 * #### Wij hebben de validatie van de voorziening wat aangescherpt.
-Dit is een voortdurend proces. In de aankomende periode zullen wij de validatie van de voorziening blijven aanscherpen, waarbij we meer en meer validatieregels zullen implementeren. Een overzicht van de al geïmplementeerde validaties vind je hier: https://github.com/rivm-syso/CVGG/blob/main/validatieregels/0.18-CVGG-validatieregels.md.
+Dit is een voortdurend proces. In de aankomende periode zullen wij de validatie van de voorziening blijven aanscherpen, waarbij we meer en meer validatieregels zullen implementeren. Een overzicht van alle geïmplementeerde validatieregels kun je terugvinden op [CVGG-Validatieregels](https://github.com/rivm-syso/CVGG/blob/main/validatieregels/CVGG-Validatieregels.md)
 * #### De voorziening is verbeterd op gebied van toegankelijkheid.
 Een rapport hierover is te vinden op https://geluidgegevens.nl/toegankelijkheid
 * #### Het voortgangsrapportage voor de geluidbelastingkaarten is verbeterd.
