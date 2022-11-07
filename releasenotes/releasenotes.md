@@ -5,7 +5,7 @@ Release notes CVGG – omgeving voor proefdraaien
 Datum: 7 november 2022
 * #### Wij hebben weer wat extra validaties toegevoegd aan het geluidregister.
 Een overzicht van alle geïmplementeerde validatieregels kun je terugvinden op [CVGG-Validatieregels](https://github.com/rivm-syso/CVGG/blob/main/validatieregels/CVGG-Validatieregels.md)
-* #### De format van geluidgegevenscollecties in de download-zips hebben een nieuw format, met een UUID.
+* #### De geluidgegevenscollecties in de download-zips hebben een nieuw format, met een UUID. Het stuk tussen CVGG en .1 is de UUID.
 Voorbeeld: NL.img.00000000.CVGG9c1489cf-215e-437a-9166-206c40af13db.1
 * #### Er is een verbetering in de XSD doorgevoerd.
 * #### Er was een mogelijke kwetsbaarheid gevonden, die is nu dichtgetimmerd. 
