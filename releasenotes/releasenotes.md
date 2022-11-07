@@ -8,7 +8,7 @@ Een overzicht van alle geïmplementeerde validatieregels kun je terugvinden op [
 * #### De geluidgegevenscollecties in de download-zips hebben een nieuw format, met een UUID. Het stuk tussen CVGG en .1 is de UUID.
 Voorbeeld: NL.img.00000000.CVGG9c1489cf-215e-437a-9166-206c40af13db.1
 * #### IMGeluid 2.1.0 is geïmplementeerd.
-Bij het aanleveren van bestanden zal de CVGG nu valideren tegen het bijhorende GML applicatieschema IMGeluid-2.1.0-rc2.xsd: 
+Bij het aanleveren van bestanden zal de CVGG nu valideren tegen het bijhorende GML applicatieschema IMGeluid-2.1.0: 
 [https://register.geostandaarden.nl/gmlapplicatieschema/img/2.1.0/IMGeluid-2.1.0.xsd](https://register.geostandaarden.nl/gmlapplicatieschema/img/2.1.0/IMGeluid-2.1.0.xsd)
 * #### Er was een mogelijke kwetsbaarheid gevonden, die is nu dichtgetimmerd. 
 
