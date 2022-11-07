@@ -2,7 +2,7 @@
 Release notes CVGG – omgeving voor proefdraaien
 
 ## Release 0.21
-Datum: 17 oktober 2022
+Datum: 7 november 2022
 * #### Wij hebben weer wat extra validaties toegevoegd aan het geluidregister.
 Een overzicht van alle geïmplementeerde validatieregels kun je terugvinden op CVGG-Validatieregels.
 * #### De format van geluidgegevenscollecties in de download-zips hebben een nieuw format, met een UUID.
