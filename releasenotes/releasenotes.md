@@ -6,7 +6,7 @@ Datum: 7 november 2022
 * #### Wij hebben weer wat extra validaties toegevoegd aan het geluidregister.
 Een overzicht van alle geïmplementeerde validatieregels kun je terugvinden op [CVGG-Validatieregels](https://github.com/rivm-syso/CVGG/blob/main/validatieregels/CVGG-Validatieregels.md)
 * #### De format van geluidgegevenscollecties in de download-zips hebben een nieuw format, met een UUID.
-Voorbeeld: NL.img.00000000.CVGG<UUID>.1.
+Voorbeeld: NL.img.00000000.CVGG9c1489cf-215e-437a-9166-206c40af13db.1
 * #### Er is een verbetering in de XSD doorgevoerd.
 * #### Er was een mogelijke kwetsbaarheid gevonden, die is nu dichtgetimmerd. 
 De kwetsbaarheid: vulnerability CVE-2022-42889. 
