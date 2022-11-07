@@ -9,7 +9,6 @@ Een overzicht van alle geïmplementeerde validatieregels kun je terugvinden op [
 Voorbeeld: NL.img.00000000.CVGG9c1489cf-215e-437a-9166-206c40af13db.1
 * #### Er is een verbetering in de XSD doorgevoerd.
 * #### Er was een mogelijke kwetsbaarheid gevonden, die is nu dichtgetimmerd. 
-De kwetsbaarheid: vulnerability CVE-2022-42889. 
 
 ## Release 0.20
 Datum: 17 oktober 2022
