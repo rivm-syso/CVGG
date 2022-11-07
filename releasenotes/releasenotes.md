@@ -1,6 +1,16 @@
 ## Release notes CVGG – omgeving voor proefdraaien
 Release notes CVGG – omgeving voor proefdraaien
 
+## Release 0.21
+Datum: 17 oktober 2022
+* #### Wij hebben weer wat extra validaties toegevoegd aan het geluidregister.
+Een overzicht van alle geïmplementeerde validatieregels kun je terugvinden op CVGG-Validatieregels.
+* #### De format van geluidgegevenscollecties in de download-zips hebben een nieuw format, met een UUID.
+Voorbeeld: NL.img.00000000.CVGG<UUID>.1.
+* #### Er is een verbetering in de XSD doorgevoerd.
+* #### Er was een mogelijke kwetsbaarheid gevonden, die is nu dichtgetimmerd. 
+De kwetsbaarheid: vulnerability CVE-2022-42889. 
+
 ## Release 0.20
 Datum: 17 oktober 2022
 * #### Wij hebben weer wat extra validaties toegevoegd aan het geluidregister.
