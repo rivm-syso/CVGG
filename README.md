@@ -19,7 +19,7 @@ Aanlever- en uitleverbestanden moeten voldoen aan de [Uitwisselstandaard CVGG](h
 ## Inhoud bestanden Geluidregister
 Nadere toelichting over de inhoud van aanlever- en uitleverbestanden vind je in volgende documenten. In de toelichting op uitwisselen gegevens staat o.a beschreven welke onderdelen van IMGeluid je moet aanleveren per geluidbron en per type aanlevering.
 
-- [Toelichting op uitwisselen gegevens IMGeluid 1.2](https://github.com/rivm-syso/CVGG/blob/main/documenten/Toelichting%20op%20uitwisselen%20gegevens%20v.0.3.pdf "Toelichting op uitwisselen gegevens")
+- [Toelichting op uitwisselen gegevens IMGeluid 2.1](https://github.com/rivm-syso/CVGG/blob/main/documenten/Toelichting%20op%20uitwisseling%20gegevens%20v0.4.pdf "Toelichting op uitwisselen gegevens")
 - [Uitwisselstandaard CVGG](https://github.com/rivm-syso/CVGG/blob/main/documenten/Uitwisselstandaard%20Centrale%20Voorziening%20Geluidgegevens%200.6.pdf "Uitwisselstandaard CVGG")
 
 ## Voorbeeldbestanden Geluidregister
