@@ -1,6 +1,13 @@
 ## Release notes CVGG – omgeving voor proefdraaien
 Release notes CVGG – omgeving voor proefdraaien
 
+## Release 0.23
+Datum: 23 november 2022
+* #### Wij hebben weer wat extra validaties toegevoegd aan het geluidregister.
+Een overzicht van alle geïmplementeerde validatieregels kun je terugvinden op [CVGG-Validatieregels](https://github.com/rivm-syso/CVGG/blob/main/validatieregels/CVGG-Validatieregels.md)
+* #### Wij hebben een bug in de validatieregel op weesobjecten (validatieregel CVGG136) opgelost.
+* #### Het aan de achterkant inactief maken van een bestand voor de geluidbelastingkaarten ging niet helemaal goed. Nu weer wel.
+
 ## Release 0.21
 Datum: 7 november 2022
 * #### Wij hebben weer wat extra validaties toegevoegd aan het geluidregister.
