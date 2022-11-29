@@ -4,14 +4,14 @@ Release notes CVGG – omgeving voor proefdraaien
 ## Release 0.23
 Datum: 23 november 2022
 * #### Wij hebben weer wat extra validaties toegevoegd aan het geluidregister.
-Een overzicht van alle geïmplementeerde validatieregels kun je terugvinden op [CVGG-Validatieregels](https://github.com/rivm-syso/CVGG/blob/main/validatieregels/CVGG-Validatieregels.md)
+Een overzicht van alle geïmplementeerde validatieregels kun je terugvinden op [CVGG-Validatieregels](https://github.com/rivm-syso/CVGG/tree/main/validatieregels)
 * #### Wij hebben een bug in de validatieregel op weesobjecten (validatieregel CVGG136) opgelost.
 * #### Het aan de achterkant inactief maken van een bestand voor de geluidbelastingkaarten ging niet helemaal goed. Nu weer wel.
 
 ## Release 0.21
 Datum: 7 november 2022
 * #### Wij hebben weer wat extra validaties toegevoegd aan het geluidregister.
-Een overzicht van alle geïmplementeerde validatieregels kun je terugvinden op [CVGG-Validatieregels](https://github.com/rivm-syso/CVGG/blob/main/validatieregels/CVGG-Validatieregels.md)
+Een overzicht van alle geïmplementeerde validatieregels kun je terugvinden op [CVGG-Validatieregels](https://github.com/rivm-syso/CVGG/tree/main/validatieregels)
 * #### De geluidgegevenscollecties in de download-zips hebben een nieuw format, met een UUID. Het stuk tussen CVGG en .1 is de UUID.
 Voorbeeld: NL.img.00000000.CVGG9c1489cf-215e-437a-9166-206c40af13db.1
 * #### IMGeluid 2.1.0 is geïmplementeerd.
@@ -22,7 +22,7 @@ Bij het aanleveren van bestanden zal de CVGG nu valideren tegen het bijhorende G
 ## Release 0.20
 Datum: 17 oktober 2022
 * #### Wij hebben weer wat extra validaties toegevoegd aan het geluidregister.
-Een overzicht van alle geïmplementeerde validatieregels kun je terugvinden op [CVGG-Validatieregels](https://github.com/rivm-syso/CVGG/blob/main/validatieregels/CVGG-Validatieregels.md).
+Een overzicht van alle geïmplementeerde validatieregels kun je terugvinden op [CVGG-Validatieregels](https://github.com/rivm-syso/CVGG/tree/main/validatieregels).
 * #### Het aanleverproces bij het geluidregister is aangepast. 
 Wanneer je een bestand aanlevert, zal je direct doorgestuurd worden naar het  tabblad "Validaties". Op dit tabblad kun je het aanleverproces in de gaten houden. Nadat jouw bestand succesvol door de validatie heen is gekomen, wordt het direct aangeleverd. Nadat het bestand is aangeleverd, moet je het nog wel zelf ter publicatie aanbieden.
 * #### Het is niet meer mogelijk om anoniem je bestand te valideren.
@@ -34,7 +34,7 @@ Datum: 19 september 2022
 Bij het aanleveren van bestanden zal de CVGG nu valideren tegen het bijhorende GML applicatieschema IMGeluid-2.1.0-rc2.xsd: 
 https://register.geostandaarden.nl/gmlapplicatieschema/img/2.1.0/IMGeluid-2.1.0-rc2.xsd
 * #### Wij hebben de validatie van de voorziening wat aangescherpt.
-Dit is een voortdurend proces. In de aankomende periode zullen wij de validatie van de voorziening blijven aanscherpen, waarbij we meer en meer validatieregels zullen implementeren. Een overzicht van alle geïmplementeerde validatieregels kun je terugvinden op [CVGG-Validatieregels](https://github.com/rivm-syso/CVGG/blob/main/validatieregels/CVGG-Validatieregels.md)
+Dit is een voortdurend proces. In de aankomende periode zullen wij de validatie van de voorziening blijven aanscherpen, waarbij we meer en meer validatieregels zullen implementeren. Een overzicht van alle geïmplementeerde validatieregels kun je terugvinden op [CVGG-Validatieregels](https://github.com/rivm-syso/CVGG/tree/main/validatieregels)
 * #### De voorziening is verbeterd op gebied van toegankelijkheid.
 Een rapport hierover is te vinden op https://geluidgegevens.nl/toegankelijkheid
 * #### Het voortgangsrapportage voor de geluidbelastingkaarten is verbeterd.
