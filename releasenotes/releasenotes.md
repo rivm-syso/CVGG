@@ -7,6 +7,7 @@ Datum: 1 december 2022
 Een overzicht van alle geïmplementeerde validatieregels kun je terugvinden op [CVGG-Validatieregels](https://github.com/rivm-syso/CVGG/tree/main/validatieregels)
 * #### De geluidgegevenscollectie krijgt per download zip een andere gml-id, en de gml-id per zip wordt nu gegenereerd op moment van publicatie en niet meer op het moment van genereren download. 
 Dit is een aanpassing op de eerdere implementatie is release 0.21. Voorbeeld van een gml-id van een geluidgegevenscollectie: 
+ NL.img.00000000.CVGG**A**9c1489cf-215e-437a-9166-206c40af13db.1
 * #### Verder hebben wij nog wat tekstuele aanpassingen gedaan op de homepagina.
 
 ## Release 0.23
