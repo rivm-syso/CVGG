@@ -1,6 +1,14 @@
 ## Release notes CVGG – omgeving voor proefdraaien
 Release notes CVGG – omgeving voor proefdraaien
 
+## Release 0.24
+Datum: 1 december 2022
+* #### Wij hebben weer wat extra validaties toegevoegd aan het geluidregister.
+Een overzicht van alle geïmplementeerde validatieregels kun je terugvinden op [CVGG-Validatieregels](https://github.com/rivm-syso/CVGG/tree/main/validatieregels)
+* #### De geluidgegevenscollectie krijgt per download zip een andere gml-id, en de gml-id per zip wordt nu gegenereerd op moment van publicatie en niet meer op het moment van genereren download. 
+Dit is een aanpassing op de eerdere implementatie is release 0.21. Voorbeeld van een gml-id van een geluidgegevenscollectie: 
+* #### Verder hebben wij nog wat tekstuele aanpassingen gedaan op de homepagina.
+
 ## Release 0.23
 Datum: 23 november 2022
 * #### Wij hebben weer wat extra validaties toegevoegd aan het geluidregister.
