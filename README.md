@@ -28,8 +28,7 @@ Per geluidbron en per type aan- of uitlevering zijn voorbeelden beschikbaar. Dat
 LET OP. Doel van de voorbeeldbestanden is om te laten zien hoe een GML-bestand er uit moet komen te zien volgens de structuur van het IMGeluid, en conform de uitwisselstandaard. De inhoud is dan ook **fictief**, en komt **NIET** overeen met de akoestische werkelijkheid.
 
 - [Voorbeeldbestanden aanleveren (IMGeluid 2.1)](https://github.com/rivm-syso/CVGG/tree/main/voorbeeldbestanden/IMGeluid%202.1 "Voorbeeldbestanden aanleveren (IMGeluid 2.1)")
-- [Voorbeeldbestanden aanleveren (IMGeluid 1.2)](https://github.com/rivm-syso/CVGG/tree/main/voorbeeldbestanden/IMG1.2 "Voorbeeldbestanden aanleveren (IMGeluid 1.2)")
-- Voorbeeldbestanden uitleveren
+- [Voorbeeldbestanden uitleveren (IMGeluid 2.1)](https://github.com/rivm-syso/CVGG/tree/main/voorbeeldbestanden/IMGeluid%202.1 "Voorbeeldbestanden uitleveren (IMGeluid 2.1)")
 
 ## Feedback
 De voorbeeldbestanden zijn met zorg samengesteld. Mochten jullie nog fouten tegen komen, of suggesties tot verbetering horen we dat heel graag! Dan kunnen we dit verbeteren. Dat geldt voor zowel het IMgeluid, de uitwisselstaandaard, en de voorbeelbestanden. Jullie ervaringen en terugkoppeling zijn dan ook van harte welkom! Graag via cvgg@rivm.nl
