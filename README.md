@@ -23,7 +23,7 @@ Nadere toelichting over de inhoud van aanlever- en uitleverbestanden vind je in 
 - [Uitwisselstandaard CVGG](https://github.com/rivm-syso/CVGG/blob/main/documenten/Uitwisselstandaard%20Centrale%20Voorziening%20Geluidgegevens%200.6.pdf "Uitwisselstandaard CVGG")
 
 ## Voorbeeldbestanden Geluidregister
-Per geluidbron en per type aan- of uitlevering zijn voorbeelden beschikbaar. Dat geldt zowel voor de aanlever- als uitleverbestanden. Op dit moment zijn nog geen uitleverbestanden beschikbaar. 
+Per geluidbron en per type aan- of uitlevering zijn voorbeelden beschikbaar. Dat geldt zowel voor de aanlever- als uitleverbestanden. 
 
 LET OP. Doel van de voorbeeldbestanden is om te laten zien hoe een GML-bestand er uit moet komen te zien volgens de structuur van het IMGeluid, en conform de uitwisselstandaard. De inhoud is dan ook **fictief**, en komt **NIET** overeen met de akoestische werkelijkheid.
 
