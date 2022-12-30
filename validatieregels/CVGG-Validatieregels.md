@@ -1,5 +1,16 @@
 |Nr      |CVGG Release|Ernst| Beschrijving|                                                                                                                                                                                                                                                                                                                                           
 |--------|------------|-----|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|CVGG016 |0.25       |Blokkerend |Coördinaten mogen een waarde bevatten van maximaal 2 decimalen achter de komma.  |
+|CVGG077 |0.25       | |situatieVan is verplicht indien geluidbron = provinciale wegen.  |
+|CVGG079 |0.25       | |Geluidbronindustrie.bronType: Moet voor Geluidgegevenscollectie.geluidbron = Industrie altijd ingevuld zijn.  |
+|CVGG080 |0.25       | |reflectiepuntHoogte: Alleen verplicht wanneer Geluidgegevenscollectie.geluidbron = industrie. Alleen niet verplicht wanneer Geluidbronindustrie is toegepast op emplacementen/opstelterreinen.  |
+|CVGG081 |0.25       | |negeerGebouw: Alleen verplicht wanneer Geluidgegevenscollectie.geluidbron = industrie. Gebronindustrie is toegepast op emplacementen/opstelterreinen.  |
+|CVGG082 |0.25       | |negeerProcesinstallatiegebied: Alleen verplicht wanneer Geluidgegevenscollectie.geluidbron = industrie. Alleen niet verplicht wanneer Geluidbronindustrie is toegepast op emplacementen/opstelterreinen.  |
+|CVGG083 |0.25       | |negeerReflectie: Alleen verplicht wanneer Geluidgegevenscollectie.geluidbron = industrie. Alleen niet verplicht wanneer Geluidbronindustrie is toegepast op emplacementen/opstelterreinen.  |
+|CVGG114 |0.25       | |Documentverwijzing.LinknaarDocument: Hier moet een correcte URL naar het document opgenomen worden.  |
+|CVGG115 |0.25       | |Windturbine.linkNaarDocument: Hier moet een correcte URL naar het document opgenomen worden.  |
+|CVGG131 |0.25       | |Bouwwerk geometrie. Alle z-coördinaten van het gebouw zijn hetzelfde.  |
+|CVGG136 |0.25       | |Gml-id's in een aanlevering mogen niet voorkomen bij andere aanleveringen die tegelijkertijd actief kunnen zijn.  |
 |CVGG129 |0.24       |Blokkerend |SpoordeelGPP.spoordeelhoogte: Indien dit element voorkomt is het verplicht om dit veld in te vullen met een double list met evenveel punten als de geluidbronregisterlijn bevat.  |
 |CVGG118 |0.24       |Blokkerend |WegdeelGPP.wegdeelhoogte: Indien dit element voorkomt is het verplicht om dit veld in te vullen met een double list met evenveel punten als de geluidbronregisterlijn bevat.  |
 |CVGG011 |0.24       |Blokkerend |Minimaal één waarde in  Geluidgegevenscollectie.Herkomstcollectie.bronhouder is gelijk aan het kvknr van de aanleverende bronhouder (eHerkenning)  |
