@@ -1,6 +1,15 @@
 ## Release notes CVGG – omgeving voor proefdraaien
 Release notes CVGG – omgeving voor proefdraaien
 
+## Release 0.26
+Datum: 23 december 2022
+* #### Wij hebben weer wat extra validaties toegevoegd aan het geluidregister.
+Een overzicht van alle geïmplementeerde validatieregels kun je terugvinden op [CVGG-Validatieregels](https://github.com/rivm-syso/CVGG/tree/main/validatieregels)
+* #### Wij hebben een 'onder de motorkap' software update uitgevoerd.
+* #### Geen lege bounded-by elementen meer in de downloadzip bestanden
+In de downloadzips konden er lege 'bounded-by' elementen voorkomen wanneer deze niet specifiek in een aanlevering gevuld waren. Nu worden de bounded-by elementen verwijderd uit de downloadzip wanneer ze niet specifiek gevuld zijn in de aanlevering. Uiteraard komen ze wel gewoon nog in de downloadzips terug als ze ook gevuld zijn in de aanlevering.
+* #### Wij hebben op de website een scheiding aangebracht tussen het Geluidregister en de Richtlijn omgevingslawaai. 
+
 ## Release 0.24
 Datum: 1 december 2022
 * #### Wij hebben weer wat extra validaties toegevoegd aan het geluidregister.
