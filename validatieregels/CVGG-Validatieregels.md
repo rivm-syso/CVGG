@@ -1,10 +1,10 @@
 |Nr      |CVGG Release|Ernst| Beschrijving|                                                                                                                                                                                                                                                                                                                                           
 |--------|------------|-----|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |CVGG016 |0.26       |Blokkerend |Coördinaten mogen een waarde bevatten van maximaal 2 decimalen achter de komma.  |
-|CVGG077 |0.26       |Blokkerend |situatieVan is verplicht indien geluidbron = provinciale wegen.  |
+|CVGG077 |0.26       |Blokkerend |situatieVan is verplicht indien geluidbron = provinciale wegen en systematiek = BGE.  |
 |CVGG079 |0.26       |Blokkerend |Geluidbronindustrie.bronType: Moet voor Geluidgegevenscollectie.geluidbron = Industrie altijd ingevuld zijn.  |
 |CVGG080 |0.26       |Blokkerend |reflectiepuntHoogte: Alleen verplicht wanneer Geluidgegevenscollectie.geluidbron = industrie. Alleen niet verplicht wanneer Geluidbronindustrie is toegepast op emplacementen/opstelterreinen.  |
-|CVGG081 |0.26       |Blokkerend |negeerGebouw: Alleen verplicht wanneer Geluidgegevenscollectie.geluidbron = industrie. Gebronindustrie is toegepast op emplacementen/opstelterreinen.  |
+|CVGG081 |0.26       |Blokkerend |negeerGebouw: Alleen verplicht wanneer Geluidgegevenscollectie.geluidbron = industrie. |
 |CVGG082 |0.26       |Blokkerend |negeerProcesinstallatiegebied: Alleen verplicht wanneer Geluidgegevenscollectie.geluidbron = industrie. Alleen niet verplicht wanneer Geluidbronindustrie is toegepast op emplacementen/opstelterreinen.  |
 |CVGG083 |0.26       |Blokkerend |negeerReflectie: Alleen verplicht wanneer Geluidgegevenscollectie.geluidbron = industrie. Alleen niet verplicht wanneer Geluidbronindustrie is toegepast op emplacementen/opstelterreinen.  |
 |CVGG114 |0.26       |Blokkerend |Documentverwijzing.LinknaarDocument: Hier moet een grammaticaal correcte URL naar het document opgenomen worden.  |
