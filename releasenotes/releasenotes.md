@@ -4,14 +4,14 @@ Release notes CVGG – omgeving voor proefdraaien
 ## Release 0.30
 Datum: 6 januari 2023
 
-Richtlijn omgevingslawaai
+Richtlijn omgevingslawaai:
 
 * #### Er werd onterecht een rood kruis aan het eind van een validatieregel getoond. Dat is nu verwijderd.
 * #### In sommige situaties was er onterecht een foutmelding te zien, bijvoorbeeld wanneer een gebruiker niet geautoriseerd was voor een bepaalde functionaliteit. Dat is nu opgelost.
 * Nadat de link voor de kennisgeving van de vaststelling was ingevuld en er op "Bewaar" werd geklikt, kreeg de gebruiker niet direct de mogelijkheid om de aanlevering definitief te maken. Nu weer wel!
 * #### Bij het aanleveren van een bestand werd de gebruiker niet meer automatisch genavigeerd naar het Validatiestabblad. Nu wordt de gebruiker wel weer automatisch genavigeerd naar het Validatiestabblad.
 
-Geluidregister
+Geluidregister:
 
 * #### Op het tabblad Vaststelling, in de kolom Aanlevering werd er een incorrect tijdstip getoond. Dat is nu rechtgetrokken.
 * * #### Bij het valideren is er een pop-up te zien aan de bovenkant van de pagina die je kan wegklikken. Dat bleef steeds opnieuw verschijnen, zelfs na het wegklikken. Nu blijft de pop-up weg wanneer je het hebt weggeklikt.
