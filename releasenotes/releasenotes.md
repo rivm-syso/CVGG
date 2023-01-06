@@ -14,7 +14,7 @@ Richtlijn omgevingslawaai:
 Geluidregister:
 
 * #### Op het tabblad Vaststelling, in de kolom Aanlevering werd er een incorrect tijdstip getoond. Dat is nu rechtgetrokken.
-* * #### Bij het valideren is er een pop-up te zien aan de bovenkant van de pagina die je kan wegklikken. Dat bleef steeds opnieuw verschijnen, zelfs na het wegklikken. Nu blijft de pop-up weg wanneer je het hebt weggeklikt.
+* #### Bij het valideren is er een pop-up te zien aan de bovenkant van de pagina die je kan wegklikken. Dat bleef steeds opnieuw verschijnen, zelfs na het wegklikken. Nu blijft de pop-up weg wanneer je het hebt weggeklikt.
 
 ## Release 0.26
 Datum: 23 december 2022
