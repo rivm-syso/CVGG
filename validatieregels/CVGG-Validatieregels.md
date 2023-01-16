@@ -1,12 +1,13 @@
 |Nr      |CVGG Release|Ernst| Beschrijving|                                                                                                                                                                                                                                                                                                                                           
 |--------|------------|-----|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |CVGG016 |0.26       |Blokkerend |Coördinaten mogen een waarde bevatten van maximaal 2 decimalen achter de komma.  |
-|CVGG077 |0.26       |Blokkerend |situatieVan is verplicht indien geluidbron = provinciale wegen of systematiek = BGE.  |
+|CVGG077 |0.26       |Blokkerend |Geluidemissieobject.situatieVan is verplicht indien geluidbron = lokaal spoor OF provinciale wegen.  |
+|CVGG078 |0.26       |Blokkerend |Geluidemissieobject.situatieVan is verplicht indien systematiek = BGE. |
 |CVGG079 |0.26       |Blokkerend |Geluidbronindustrie.bronType: Moet voor Geluidgegevenscollectie.geluidbron = Industrie altijd ingevuld zijn.  |
-|CVGG080 |0.26       |Blokkerend |reflectiepuntHoogte: Alleen verplicht wanneer Geluidgegevenscollectie.geluidbron = industrie. Alleen niet verplicht wanneer Geluidbronindustrie is toegepast op emplacementen/opstelterreinen.  |
-|CVGG081 |0.26       |Blokkerend |negeerGebouw: Alleen verplicht wanneer Geluidgegevenscollectie.geluidbron = industrie. |
-|CVGG082 |0.26       |Blokkerend |negeerProcesinstallatiegebied: Alleen verplicht wanneer Geluidgegevenscollectie.geluidbron = industrie. Alleen niet verplicht wanneer Geluidbronindustrie is toegepast op emplacementen/opstelterreinen.  |
-|CVGG083 |0.26       |Blokkerend |negeerReflectie: Alleen verplicht wanneer Geluidgegevenscollectie.geluidbron = industrie. Alleen niet verplicht wanneer Geluidbronindustrie is toegepast op emplacementen/opstelterreinen.  |
+|CVGG080 |0.26       |Blokkerend |Geluidbronindustrie.reflectiepuntHoogte: Alleen verplicht wanneer Geluidgegevenscollectie.geluidbron = industrie. Alleen niet verplicht wanneer Geluidbronindustrie is toegepast op emplacementen/opstelterreinen.  |
+|CVGG081 |0.26       |Blokkerend |Geluidbronindustrie.negeerGebouw: Alleen verplicht wanneer Geluidgegevenscollectie.geluidbron = industrie. |
+|CVGG082 |0.26       |Blokkerend |Geluidbronindustrie.negeerProcesinstallatiegebied: Alleen verplicht wanneer Geluidgegevenscollectie.geluidbron = industrie. Alleen niet verplicht wanneer Geluidbronindustrie is toegepast op emplacementen/opstelterreinen.  |
+|CVGG083 |0.26       |Blokkerend |Geluidbronindustrie.negeerReflectie: Alleen verplicht wanneer Geluidgegevenscollectie.geluidbron = industrie. Alleen niet verplicht wanneer Geluidbronindustrie is toegepast op emplacementen/opstelterreinen.  |
 |CVGG114 |0.26       |Blokkerend |Documentverwijzing.LinknaarDocument: Hier moet een grammaticaal correcte URL naar het document opgenomen worden.  |
 |CVGG115 |0.26       |Blokkerend |Windturbine.linkNaarDocument: Hier moet een grammaticaal correcte URL naar het document opgenomen worden.  |
 |CVGG131 |0.26       |Blokkerend |Bouwwerk geometrie. Alle z-coördinaten van het gebouw zijn hetzelfde.  |
