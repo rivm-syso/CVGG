@@ -1,6 +1,23 @@
 ## Release notes CVGG – omgeving voor proefdraaien
 Release notes CVGG – omgeving voor proefdraaien
 
+## Release 0.33
+Datum: 17 februari 2023
+* #### Er is een wachtrij mechanisme ingebouwd (queueing) in onze applicatie bij het aanleveren van bestanden. Dat zorgt er voor dat onze webapplicatie de te verwerken aanleveringen van de wachtrij kan halen en kan gaan verwerken. 
+* #### Onze Java software is geüpgraded.
+* #### Enkele bevindingen van gebruikers op de productieomgeving zijn opgelost
+* #### Er zijn wat 'onder de motorkap' verbeteringen doorgevoerd.
+
+Richtlijn omgevingslawaai:
+* #### Er zijn wat tekstuele aanpassingen geweest. 
+
+Geluidregister
+* #### Een bug waarbij een aanlevering niet verwijderd kon worden is opgelost.
+* #### De uitleverbestanden zijn weer te downloaden.
+* #### Bij verwijderen van een ter publicatie aangeboden bestand wordt de ingeplande depublicatie weer ongedaan gemaakt.
+* #### Het aanleveren van monitoringresultaat bestanden was op een laag pitje komen te staan door andere prioriteiten. Enkele validatieregels mbt tot het aanleveren van een bestand van het type ‘monitoringresultaat’ zijn toegevoegd.
+Zie https://github.com/rivm-syso/CVGG/tree/main/validatieregels
+
 ## Release 0.30
 Datum: 6 januari 2023
 
