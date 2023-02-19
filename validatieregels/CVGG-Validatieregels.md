@@ -1,6 +1,6 @@
 |Nr      |CVGG Release|Ernst| Beschrijving|                                                                                                                                                                                                                                                                                                                                           
 |--------|------------|-----|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|CVGG116 |0.33       |Blokkerend |Relaties: Valideren op kardinaliteit en type feature waarnaar verwezen wordt  |
+|CVGG116 |0.33       |Blokkerend |Relaties: Valideren op kardinaliteit en type feature waarnaar verwezen wordt.  |
 |CVGG064 |0.33       |Hoog |Geluidgegevenscollectie.Jaar: Moet verplicht worden aangeleverd wanneer Geluidgegevenscollectie.type = monitoring, brongegevens monitoring of prognose.  |
 |CVGG016 |0.26       |Blokkerend |Coördinaten mogen een waarde bevatten van maximaal 2 decimalen achter de komma.  |
 |CVGG077 |0.26       |Blokkerend |Geluidemissieobject.situatieVan is verplicht indien geluidbron = lokaal spoor OF provinciale wegen.  |
