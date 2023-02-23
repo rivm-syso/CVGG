@@ -100,9 +100,7 @@
         </img:NEN3610ID>
       </img:identificatie>
       <img:naam>Nalevingsverslag geluidproductieplafonds rijkswegen 2018</img:naam>
-      <img:linkNaarDocument>
-        https://geluidregister.rijkswaterstaat.nl/geluidregister//documenten/2018_nalevingsverslag-geluidproductieplafonds-2018.pdf
-      </img:linkNaarDocument>
+      <img:linkNaarDocument>https://geluidregister.rijkswaterstaat.nl/geluidregister/documenten/2018_nalevingsverslag-geluidproductieplafonds-2018.pdf</img:linkNaarDocument>
       <img:type>monitoringrapportage</img:type>
       <img:datumBeginGeldigheid>2019-09-15</img:datumBeginGeldigheid>
     </img:Documentverwijzing>
