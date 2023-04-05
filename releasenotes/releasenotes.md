@@ -3,6 +3,7 @@ Release notes CVGG – omgeving voor proefdraaien
 
 ## Release 0.34
 Datum: 27 maart 2023
+
 Algemeen
 * #### Wij hebben heel wat technische verbeteringen doorgevoerd die met name te maken hebben met geheugengebruik en snelheid van de validatie van aanleveringen.
 * #### Na een uur wordt een gebruiker uit veiligheidsoverwegingen uitgelogd. Dat was niet altijd duidelijk voor de gebruiker. Dat is nu aangepast.
