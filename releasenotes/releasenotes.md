@@ -1,6 +1,25 @@
 ## Release notes CVGG – omgeving voor proefdraaien
 Release notes CVGG – omgeving voor proefdraaien
 
+## Release 0.34
+Datum: 27 maart 2023
+Algemeen
+* #### Wij hebben heel wat technische verbeteringen doorgevoerd die met name te maken hebben met geheugengebruik en snelheid van de validatie van aanleveringen.
+* #### Na een uur wordt een gebruiker uit veiligheidsoverwegingen uitgelogd. Dat was niet altijd duidelijk voor de gebruiker. Dat is nu aangepast.
+
+Geluidregister
+* ####  Wanneer je een aanlevering hebt gedaan, hoef je nu minder ver in te zoomen om de referentiepunten te zien bij de "Bekijk op kaart" functionaliteit. 
+* #### Bij het aanleveren van een monitoringresultaatbestand met een terrein mag er geen terrein feature meer voorkomen in het bestand. 
+Er moet nog wel een referentie naar een bij ons bekende terrein in de geluidgegevenscollectie zitten.
+* #### Er is wat extra informatie toegevoegd met betrekking tot terreinen
+Zo zul je nu bijvoorbeeld op het bestandenoverzicht de naam van het terrein zien. Ook op de detailpagina van de betreffende aanlevering is te zien om welk terrein het gaat.
+* #### Extra info bij het aanleveren van een nieuwe terrein of bij het vervangen van een terrein
+Wanneer je een nieuw terrein aanlevert of een terrein vervangt (bewust of onbewust), zul je nu een pop-up krijgen bij het publiceren met wat extra info over wat er gaat gebeuren met de publicatie die je wilt gaan doen
+* #### Vanaf nu zijn ook uitleverbestanden voor BGE-vaststellingen beschikbaar
+* #### Je kunt vanaf nu een lopende validatie afbreken. 
+Dat kan je doen door op het Validatiestabblad op het rode kruisje (rechts) voor de betreffende validatie te klikken.
+* #### Wij hebben weer een validatieregel toegevoegd. Zie https://github.com/rivm-syso/CVGG/tree/main/validatieregels
+
 ## Release 0.33
 Datum: 17 februari 2023
 * #### Er is een wachtrij mechanisme ingebouwd (queueing) in onze applicatie bij het aanleveren van bestanden. Dat zorgt er voor dat onze webapplicatie de te verwerken aanleveringen van de wachtrij kan halen en kan gaan verwerken. 
