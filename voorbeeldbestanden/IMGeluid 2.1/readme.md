@@ -16,6 +16,10 @@ Prognosegegevens voor gemeentewegen, waterschapswegen en lokaal spoor kunnen opt
 
 Deze set bevat voor de geldende GPP-referentiepunten de locatie, de waarde en de documentverwijzing zoals die zijn opgenomen in de voorbeeld aanleverbestanden per geluidbron. Specifiek gaat het om de gegevens van de geluidbronsoorten rijkswegen, hoofdspoor, provinciale wegen en industrie. 
 
+#### Basisgeluidemissies
+
+Dit uitleverbestand bevat voor alle actueel geldende BGE’s de waarde, de bijbehorende weg- en spoordelen, en de documentverwijzing zoals die door de bronhouders aangeleverd zijn. Specifiek gaat het om de gegevens van de geluidbronsoorten gemeentewegen, waterschapswegen en lokaal spoor met BGE-systematiek. Wanneer gegevens ontbreken betekent dit dat deze nog niet zijn aangeleverd. 
+
 #### Monitoringsgegevens (nog geen voorbeeld beschikbaar)
 
 Deze set bevat de monitoringsgegevens zoals die zijn opgenomen in de aanleverbestanden per geluidbron. Specifiek zijn dit voor elk monitoringsjaar de monitoringswaarde en de geldende GPP/BGE-waarde op 31 december van het betreffende monitoringsjaar. 
