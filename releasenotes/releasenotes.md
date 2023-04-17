@@ -1,6 +1,13 @@
 ## Release notes CVGG – omgeving voor proefdraaien
 Release notes CVGG – omgeving voor proefdraaien
 
+## Release 0.35
+Datum: 14 april 2023
+
+Geluidregister
+* #### Er zijn wat verbeteringen doorgevoerd om het validatieproces te versnellen
+* #### Er was een situatie waarbij de statussen op het validatietabblad niet automatisch ververst werden. Dat is nu opgelost.
+
 ## Release 0.34
 Datum: 27 maart 2023
 
