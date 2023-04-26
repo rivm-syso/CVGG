@@ -1,6 +1,14 @@
 ## Release notes CVGG – omgeving voor proefdraaien
 Release notes CVGG – omgeving voor proefdraaien
 
+Release 0.36
+Datum: 26 april 2023
+
+Geluidregister
+* #### Er zijn wat verbeteringen geweest die niet direct merkbaar zijn op de website in het kader van lifecycle management. Dit verbetert de beheerbaarheid van de CVGG en komt de kwaliteit van het werk van het ontwikkelteam ten goede 
+* #### Er zijn weer wat verbeteringen aangebracht m.b.t. het validatieproces.
+* #### Vanaf nu is er een onderhoudspagina te zien wanneer wij door een storing onverwacht niet bereikbaar zijn. 
+
 ## Release 0.35
 Datum: 14 april 2023
 
