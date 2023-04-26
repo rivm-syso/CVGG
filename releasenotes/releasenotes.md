@@ -1,7 +1,7 @@
 ## Release notes CVGG – omgeving voor proefdraaien
 Release notes CVGG – omgeving voor proefdraaien
 
-Release 0.36
+## Release 0.36
 Datum: 26 april 2023
 
 Geluidregister
