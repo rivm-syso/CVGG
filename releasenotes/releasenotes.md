@@ -1,6 +1,32 @@
 ## Release notes CVGG – omgeving voor proefdraaien
 Release notes CVGG – omgeving voor proefdraaien
 
+## Release 0.42
+Datum: 3 juli 2023
+
+Algemeen
+* #### Wat technische verbetering om de kwaliteit van de applicatie te verbeteren.
+Bijvoorbeeld o.a. het omhoog halen van de code coverage (het toevoegen van unit testen zodat meer code geraakt wordt door unit testen).
+
+Geluidregister
+
+* #### De PDOK locatieserver URL van de kaart moest worden aangepast vanwege aanpassingen bij PDOK. Dat is nu gedaan.
+* #### Er bestond een situatie waarbij een bestand succesvol was gevalideerd, maar niet direct te zien was op het bestandenoverzicht met aangeleverde bestand. Dat is nu gefixed.
+* #### Wat stylingfixes zijn gedaan m.b.t. de tabel op het bestandenoverzicht.
+* #### Het maken van uitleverbestanden met grote aanleveringen (>4GB) ging niet goed, nu wel.
+* #### De geometrie validatie op gelijke z-coördinaten bij bouwwerken gaf een onterechte fout. Dat is nu gefixed.
+* #### In de uitleverbestanden klopte de opgenomen datum in de gml:id van de featurecollection niet altijd. Dat moet de datum zijn van de laatste (nieuwste) .publicatiedatum van de aanleverbestanden waarvan gegevens in het betreffende uitleverbestand zitten. Dat is nu gefixed.
+* #### Indien zich een technische fout voordiet in het samenstellingsproces voor de uitleverbestanden, dan worden de uitleverbestanden niet meer gemaakt, en een melding getoond.
+* #### Bestandsnamen van de aanleveringen worden niet meer afgekort.
+* #### In het uitleverbestand voor referentiepunten zat een fout in een van de verwijzingingen naar een object. Dat is nu gefixed.
+* #### Er ging wat mis aan de achterkant wanneer er, om wat voor reden dan ook, een bestand verwijderd werd dat eigenlijk niet meer in ons systeem stond. Dat is nu gefixed.
+* #### Er werden onbedoeld wat gegevens m.b.t. uitleverbestanden verwijderd. Dat is nu gefixed.
+* #### Het verwijderen van het validatieresultaat van een afgeronde validatie zorgde er ook voor dat de aanlevering werd verwijderd. Dat is niet de bedoeling en is nu gefixed.
+
+Richtlijn Omgevingslawaai
+
+* #### Er hebben wat verbeteringen plaatsgevonden aan de achterkant met betrekking tot het valideren van een bestand. 
+
 ## Release 0.36
 Datum: 26 april 2023
 
