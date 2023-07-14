@@ -14,7 +14,7 @@
 |CVGG114 |0.26       |Blokkerend |Documentverwijzing.LinknaarDocument: Hier moet een grammaticaal correcte URL naar het document opgenomen worden.  |
 |CVGG115 |0.26       |Blokkerend |Windturbine.linkNaarDocument: Hier moet een grammaticaal correcte URL naar het document opgenomen worden.  |
 |CVGG131 |0.26       |Blokkerend |Bouwwerk geometrie. Alle z-coördinaten van het gebouw zijn hetzelfde.  |
-|CVGG136 |0.26       |Blokkerend |Gml-id's in een aanlevering mogen niet voorkomen bij andere aanleveringen die tegelijkertijd actief kunnen zijn.  |
+|CVGG149 |0.26       |Blokkerend |Gml-id's in een aanlevering mogen niet voorkomen bij andere aanleveringen die tegelijkertijd actief kunnen zijn.  |
 |CVGG129 |0.24       |Blokkerend |SpoordeelGPP.spoordeelhoogte: Indien dit element voorkomt is het verplicht om dit veld in te vullen met een double list met evenveel punten als de geluidbronregisterlijn bevat.  |
 |CVGG118 |0.24       |Blokkerend |WegdeelGPP.wegdeelhoogte: Indien dit element voorkomt is het verplicht om dit veld in te vullen met een double list met evenveel punten als de geluidbronregisterlijn bevat.  |
 |CVGG011 |0.24       |Blokkerend |Minimaal één waarde in  Geluidgegevenscollectie.Herkomstcollectie.bronhouder is gelijk aan het kvknr van de aanleverende bronhouder (eHerkenning)  |
