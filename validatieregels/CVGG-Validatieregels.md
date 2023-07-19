@@ -3,9 +3,9 @@
 |CVGG151 |0.43       |Blokkerend |Alle z-coördinaten in Vegetatiegebied.geometrie moeten dezelfde waarde hebben.|
 |CVGG150 |0.43       |Blokkerend |Alle z-coördinaten in Procesinstallatiegebied.geometrie moeten dezelfde waarde hebben.|
 |CVGG146 |0.43       |Blokkerend |Geluidgegevenscollectie.jaar moet in het verleden liggen als Geluidgegevenscollectie.type = "monitoringresultaat" of "brongegevens monitoring". |
-|CVGG145 |0.43       |Blokkerend |Als Vegetatiegebied.maaiveld gevuld is moet deze evenveel punten bevatten als de geometrie van een Vegetatiegebied met dezelfde x- en y-coördinaten in dezelfde volgorde. |
-|CVGG144 |0.43       |Blokkerend |Als Procesinstallatiegebied.maaiveld gevuld is moet deze evenveel punten bevatten als de geometrie van het Procesinstallatiegebied met dezelfde x- en y-coördinaten in dezelfde volgorde. |
-|CVGG143 |0.43       |Blokkerend |Als Bouwwerk.maaiveld gevuld is moet deze evenveel punten bevatten als de geometrie met dezelfde x- en y-coördinaten in dezelfde volgorde.|
+|CVGG145 |0.43       |Blokkerend |Als Vegetatiegebied.maaiveld gevuld is moet deze evenveel punten bevatten als Vegetatiegebied.geometrie met dezelfde x- en y-coördinaten in dezelfde volgorde. |
+|CVGG144 |0.43       |Blokkerend |Als Procesinstallatiegebied.maaiveld gevuld is moet deze evenveel punten bevatten als Procesinstallatiegebied.geometrie met dezelfde x- en y-coördinaten in dezelfde volgorde. |
+|CVGG143 |0.43       |Blokkerend |Als Bouwwerk.maaiveld gevuld is moet deze evenveel punten bevatten als Bouwwerk.geometrie met dezelfde x- en y-coördinaten in dezelfde volgorde.|
 |CVGG141 |0.43       |Blokkerend |Wanneer Geluidgegevenscollectie.type = “vaststelling” en het betreft een terrein dan moet de relatie terrein een link naar een meegeleverd Terrein bevatten. |
 |CVGG140 |0.43       |Blokkerend |Als GeluidschermdeelMetDiffractor.statusZwevend de waarde "true" heeft dan moet GeluidschermdeelMetDiffractor.onderkantScherm ingevuld zijn.|
 |CVGG139 |0.43       |Blokkerend | Als GeluidschermdeelMetDiffractor.onderkantScherm gevuld is moet de geometrie van de onderkantScherm evenveel punten bevatten als GeluidschermdeelMetDiffractor. bovenkantScherm met dezelfde x- en y-coordinaten in dezelfde volgorde. |
