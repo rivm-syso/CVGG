@@ -1,6 +1,21 @@
 ## Release notes CVGG – omgeving voor proefdraaien
 Release notes CVGG – omgeving voor proefdraaien
 
+## Release 0.43
+Datum 20 juli 2023
+
+Algemeen
+* #### Wat algemene wijzigingen zijn doorgevoerd om de codekwaliteit en de onderhoudbaarheid van de applicatie te verbeteren.
+
+Geluidregister
+* #### IMGeluid 3.0 is geïmplementeerd.
+* #### Wij hebben weer validatieregels toegevoegd. Zie https://github.com/rivm-syso/CVGG/tree/main/validatieregels
+* #### Door de implementatie van een nieuwe validatieregel was de naam van industrieterreinen niet meer te zien op het bestandenoverzicht. Dat is nu gefixed.
+* #### De downloadzips worden in principe elke nacht automatisch gemaakt. Er was een issue waarbij de downloadzips niet meer automatisch gemaakt werden. Dat is nu opgelost.
+
+Richtlijn Omgevingslawaai
+* #### Wanneer een lopende validatie werd afgebroken, zorgde dat voor een foutmelding. Dat is nu gefixed.
+
 ## Release 0.42
 Datum: 3 juli 2023
 
