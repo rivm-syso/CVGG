@@ -1,6 +1,27 @@
 ## Release notes CVGG – omgeving voor proefdraaien
 Release notes CVGG – omgeving voor proefdraaien
 
+## Release 0.47
+Datum 21 augustus 2023
+
+Algemeen
+* #### Het proefomgevingstempel is meer naar links verplaatst, zodat het niet meer over de inloggenknop /  het kvk-nummer bij ingelogd zijn valt. 
+* #### We hebben toegankelijkheidsverbeteringen en tekstuele verbeteringen doorgevoerd.
+
+Geluidregister
+* #### We hebben tekstuele verduidelijkingen aangebracht.
+"Succesvol gevalideerde bestanden zijn aangeleverd, en vindt u terug in het juiste tabblad." is gewijzigd in
+"Succesvol gevalideerde bestanden zijn aangeleverd, en vindt u terug in het Vaststelling, Monitoring of Prognose tabblad."
+* #### Er was een issue m.b.t. een verlopen sessie en het kunnen uitvoeren van een actie waarvoor je ingelogd moet zijn. Dat is nu verholpen.
+* #### Bij het aanmaken van een nieuw bericht als bronhouder was er heel kort een error melding te zien bij het succesvol plaatsen van het bericht. Die error melding is in dit geval niet meer te zien.
+* #### De details van de downloadzips (het gedeelte onder de bestandsnaam tussen haakjes) is gewijzigd.
+* #### Er zijn verbeteringen doorgevoerd m.b.t. de validatieregel op weesobjecten (validatieregel CVGG136). Zie https://github.com/rivm-syso/CVGG/tree/main/validatieregels 
+* #### Er zijn technische verbeteringen aan de achterkant doorgevoerd m.b.t. het validatieproces, het afvangen van fouten tijdens het validatieproces en het maken van de downloadzips.
+
+Richtlijn Omgevingslawaai
+* #### Wanneer er een bestand werd gevalideerd en je opnieuw inlogde, omdat bijvoorbeeld je sessie was verlopen, dan werd de statusupdate van de validatie niet meer gedaan. Dat is nu rechtgetrokken.
+* #### Er was een issue dat het knopje "Nieuw bestand" niet uitgegrijsd werd wanneer er al een bestand "Definitief" gemaakt was. Dat is nu gefixed.
+
 ## Release 0.46
 Datum 27 juli 2023
 
