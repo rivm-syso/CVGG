@@ -1,6 +1,15 @@
 ## Release notes CVGG – omgeving voor proefdraaien
 Release notes CVGG – omgeving voor proefdraaien
 
+## Release 0.48
+Datum 8 september 2023
+
+Algemeen
+* #### Wij hebben de veiligheid van de website verbeterd.
+
+Geluidregister
+* #### Wij hebben wat technische veranderingen doorgevoerd t.b.v. de looptijd van het aanleverproces.
+
 ## Release 0.47
 Datum 21 augustus 2023
 
