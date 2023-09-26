@@ -1,6 +1,23 @@
 ## Release notes CVGG – omgeving voor proefdraaien
 Release notes CVGG – omgeving voor proefdraaien
 
+Release 0.49
+Datum 26 september 2023
+
+Algemeen
+#### Wij hebben technische verbeteringen doorgevoerd
+Bijvoorbeeld: het opruimen van ongebruikte code en het upgraden van de front-end software.
+#### Er zijn weer veiligheid (security) verbeteringen doorgevoerd.
+
+Geluidregister
+#### Het is nu mogelijk om als bronhouder een actieve vaststelling te depubliceren (handmatig depubliceren). Deze functionaliteit is ontwikkeld voor die situaties waarin een geluidbron in z'n geheel komt te vervallen, en er dus geen vervangend bestand is.
+#### Er was een situatie waarbij er geen downloadbestanden werden aangemaakt wanneer er geen  gegevens voor waren. Dat is nu opgelost.
+Wanneer er een downloadbestand gedownload wordt waar geen gegevens voor zijn, wordt er naar verwachting een zip gedownload waarin een tekstbestand zit genaamd "lees_mij.txt" waarin staat: "Op dit moment zijn er geen gegevens beschikbaar voor dit bestand."
+
+Richtlijn omgevingslawaai
+#### Het gedrag bij de CVGG was niet helemaal naar verwachting wanneer er iets niet goed ging in de validatie bij HaleConnect. Dat is nu opgelost.
+#### Wij hebben wat audit logging verbeteringen doorgevoerd.
+
 ## Release 0.48
 Datum 8 september 2023
 
