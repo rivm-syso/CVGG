@@ -5,5 +5,5 @@ Hier vind je de laatste versie van beschikbare documenten
 - Toelichting op uitwisselen gegevens CVGG
 - Uitwisselstandaard CVGG
 
-**Deze toelichting is gebaseerd op versie 2.1van het Informatiemodel geluid.**
+**Deze toelichting is gebaseerd op versie 3.1 van het Informatiemodel geluid.**
 
