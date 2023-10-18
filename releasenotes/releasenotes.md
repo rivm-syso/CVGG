@@ -1,6 +1,25 @@
 ## Release notes CVGG – omgeving voor proefdraaien
 Release notes CVGG – omgeving voor proefdraaien
 
+Release 0.52
+Datum 17 oktober 2023
+
+Algemeen
+#### Er zijn weer wat technische verbeteringen doorgevoerd. 
+Zoals de implementatie van "lazy loading" (elementen en pagina's van de website worden pas geladen zodra ze nodig zijn).
+#### Er was een issue in de website waarbij de validatiestatus van een aanlevering bij zowel het Geluidregister als Richtlijn Omgevingslawaai niet meer automatisch geüpdatet werd. Dat is nu gefixed.
+
+Geluidregister
+#### Er was een issue waarbij er geen uitleverbestanden meer gemaakt werden. Dat is nu opgelost.
+#### Wij hebben een validatie toegevoegd voor geometrieën waar geen coördinaten in zitten (lege geometrieën).
+#### IMG3.1 is geïmplementeerd.
+#### Referentiepunten en overdrachtsobjecten van het geluidbron industrieterrein werden niet getoond op de publieke kaartviewer. Dat is nu opgelost.
+#### Het blokje kwaliteitscontrole op het detailscherm van een aanlevering is uitgegrijsd. De kwaliteitscontrole zal in de toekomst geïmplementeerd worden.
+#### Op de beheerpagina (de pagina waar je een publicatie kan intrekken) was er een onklikbaar linkje naar de website van IPLO. Het linkje is nu klikbaar.
+#### In de (publieke) kaart kun je, als je op een gpp hebt geklikt, doorklikken op een 'verwijzing besluit'. De bedoeling is dat je daarmee op een externe website terechtkomt, die in een documentverwijzings-feature is gedefinieerd. Dit ging niet altijd goed. Dat is nu rechtgetrokken.
+#### Nadat de sessie was verlopen, bleef het systeem de status van een validatie checken. Dat mag niet en is nu rechtgetrokken. 
+De status van de aanlevering wordt weer gecheckt wanneer er opnieuw is ingelogd.
+
 Release 0.49
 Datum 26 september 2023
 
