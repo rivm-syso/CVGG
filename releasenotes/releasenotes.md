@@ -1,7 +1,7 @@
 ## Release notes CVGG – omgeving voor proefdraaien
 Release notes CVGG – omgeving voor proefdraaien
 
-Release 0.52
+## Release 0.52
 Datum 17 oktober 2023
 
 Algemeen
@@ -20,7 +20,7 @@ Geluidregister
 #### Nadat de sessie was verlopen, bleef het systeem de status van een validatie checken. Dat mag niet en is nu rechtgetrokken. 
 De status van de aanlevering wordt weer gecheckt wanneer er opnieuw is ingelogd.
 
-Release 0.49
+## Release 0.49
 Datum 26 september 2023
 
 Algemeen
