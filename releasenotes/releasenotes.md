@@ -1,6 +1,17 @@
 ## Release notes CVGG – omgeving voor proefdraaien
 Release notes CVGG – omgeving voor proefdraaien
 
+## Release 0.56
+Datum 2-11-2023
+
+Algemeen
+#### Er werd zonder reden tweemaal gepollt naar de status van de validatie van een aanlevering. Dat is nu rechtgetrokken. Er wordt nu correct één keer gepollt naar de status van een validatie van een aanlevering.
+
+Richtlijn Omgevingslawaai
+#### Wij hebben alvast onder de motorkap voorbereidingen getroffen om naast een DF4_8 geluidbelastingkaart aanlevering ook een DF7_10 geluidactieplan aanlevering te kunnen doen.
+Het aanleveren van een DF7_10 bestand kan nog niet, omdat de functionaliteit momenteel nog uitstaat.
+#### Wij hebben een bug opgelost waarbij het aanleveren van een zipbestand met daarin een subdirectory niet goed ging.
+
 ## Release 0.52
 Datum 17 oktober 2023
 
