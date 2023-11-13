@@ -4,7 +4,7 @@ Hier vind je ondersteunde documentatie voor de Richtlijn Omgevingslawaai
 
 ##### Gemeenten (agglomerations)
 - Handleiding
-- Sjabloon
+- [Sjabloon](https://github.com/rivm-syso/CVGG/blob/Richtlijn-Omgevingslawaai/richtlijn%20omgevingslawaai/test.xlsx)
 - Voorbeeldbestand
 
 ##### Provincies en RWS (major roads) 
