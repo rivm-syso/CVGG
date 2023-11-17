@@ -1,5 +1,7 @@
 |Nr      |CVGG Release|Ernst| Beschrijving|                                                                                                                                                                                                                                                                                                                                           
 |--------|------------|-----|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|CVGG148 |0.52       |Blokkerend |Wanneer Geluidgegevenscollectie.geluidbron = 'luchtvaart' MOET terrein.type­Terrein 'luchthavengebied' zijn.|
+|CVGG148 |0.52       |Blokkerend |Wanneer Geluidgegevenscollectie.geluidbron = 'schiet- of springterrein' MOET terrein.type­Terrein  'schiet- of springterrein' zijn.|
 |CVGG138 |0.46       |Vervallen in 0.46 |~~GeluidbronIndustrie.brontype mag niet gelijk zijn aan "normale puntbron" als er sprake is van een relatie met een VlakbronIndustrie of LijnbronIndustrie.~~ |
 |CVGG151 |0.44       |Blokkerend |Alle z-coördinaten in Vegetatiegebied.geometrie moeten dezelfde waarde hebben.|
 |CVGG150 |0.44       |Blokkerend |Alle z-coördinaten in Procesinstallatiegebied.geometrie moeten dezelfde waarde hebben.|
