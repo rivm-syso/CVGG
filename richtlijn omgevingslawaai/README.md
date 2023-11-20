@@ -6,10 +6,10 @@ Hier vind je ondersteunde documentatie voor de Richtlijn Omgevingslawaai
 - [Handleiding, Sjabloon, Voorbeeldbestand](https://github.com/rivm-syso/CVGG/tree/Richtlijn-Omgevingslawaai/richtlijn%20omgevingslawaai/gemeenten)
 
 ##### Hoofdwegen (major roads) 
-- Handleiding, Sjabloon, Voorbeeldbestand
+- [Handleiding, Sjabloon, Voorbeeldbestand](https://github.com/rivm-syso/CVGG/tree/Richtlijn-Omgevingslawaai/richtlijn%20omgevingslawaai/hoofdwegen)
 
 ##### Hoofdspoor (major railway) 
-- Handleiding, Sjabloon, Voorbeeldbestand
+- [Handleiding, Sjabloon, Voorbeeldbestand](https://github.com/rivm-syso/CVGG/tree/Richtlijn-Omgevingslawaai/richtlijn%20omgevingslawaai/hoofdspoor)
 
 ##### Schiphol (major airport) 
-- Handleiding, Sjabloon, Voorbeeldbestand
+- [Handleiding, Sjabloon, Voorbeeldbestand](https://github.com/rivm-syso/CVGG/tree/Richtlijn-Omgevingslawaai/richtlijn%20omgevingslawaai/schiphol)
