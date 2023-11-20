@@ -1,6 +1,20 @@
 ## Release notes CVGG – omgeving voor proefdraaien
 Release notes CVGG – omgeving voor proefdraaien
 
+Release 0.58
+Datum 16 november 2023
+
+Algemeen
+#### Er zijn weer wat technische verbeteringen doorgevoerd. 
+Onder andere het uitbreiden van onze functionele beheertool. Hiermee kunnen we de handelingen van bronhouders en leveranciers monitoren. Dit helpt ons om sneller te kunnen helpen bij onverwachte problemen bij het aanleveren.
+
+Geluidregister
+#### Er was een issue waarbij het aanleveren van een feature met een incomplete geometrie niet netjes werd afgehandeld door ons validatieproces. Dat is nu gefixed.
+#### Er was een issue waarbij het aanleveren van een bestand met een lege featuremember niet netjes werd afgehandeld door ons validatieproces. Dat is nu gefixed.
+#### Er was een issue waarbij het aanleveren van een bestand met een lege gml-id niet netjes werd afgehandeld door ons validatieproces. Dat is nu gefixed.
+#### Er was een issue waarbij het aanleveren van een bestand met een meerdere features met hetzelfde gml-id niet netjes werd afgehandeld door ons validatieproces. Dat is nu gefixed.
+#### Er was een issue waarbij in het uitleverbestand aandachtsgebieden interne links naar terreinen zaten afkomstig uit de geluidgegevenscollectie-features. De terrein-features waarnaar verwezen werd waren echter niet in het uitleverbestand opgenomen. Dat is nu gefixed.
+
 ## Release 0.56
 Datum 2-11-2023
 
