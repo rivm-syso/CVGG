@@ -22,7 +22,7 @@ Ter ondersteuning van de bronhouders stellen we hulpmiddelen beschikbaar, zoals 
 ## Geluidregister (Ow) 
 
 #### Informatiemodel Geluid
-De laatst vastgestelde versie van IMGeluid vind je steeds:
+De vastgestelde versie van IMGeluid die geimplementeerd is op [www.geluidgegevens.nl](www.geluidgegevens.nl) vind je steeds:
 - [IMgeluid Catalogus](https://docs.geostandaarden.nl/cvgg/img/ "IMgeluid Catalogus")
 - [IMgeluid applicatieschema (xsd)](https://register.geostandaarden.nl/?url=img/index.html "IMgeluid applicatieschema (xsd)")
 
