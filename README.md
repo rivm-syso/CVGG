@@ -14,7 +14,11 @@ Ter ondersteuning van de bronhouders stellen we een handleidingen, sjablonen, en
 - **Sjabloon**: Het formaat van aanlevering is een excel bestand (xlsx). Het sjabloon is een excel leeg  bestand conform de datastructuur die aan de CVGG aangeleverd moet worden. De specifieke gegevens per bronhouder kunnen in dit sjabloon worden ingevuld. 
 - **Voorbeeldbestand**: Betreft een ingevuld sjaboon obv denkbeeldige gegevens een illustreert hoe een aanlever bestand er uit kan zien. 
 
-De handleidingen, sjablonen, en voobeeldbestanden vind je [hier](https://github.com/rivm-syso/CVGG/tree/Richtlijn-Omgevingslawaai/richtlijn%20omgevingslawaai). 
+De handleidingen, sjablonen, en voobeeldbestanden:
+- gemeenten
+- hoofdwegen
+- hoofdspoor
+- Schiphol
 
 ## Geluidregister (Ow) 
 
