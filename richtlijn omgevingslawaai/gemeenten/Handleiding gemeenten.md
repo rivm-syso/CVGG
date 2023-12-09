@@ -1,3 +1,4 @@
+[![CVGG](https://www.geluidgegevens.nl/assets/img/hero.jpg "CVGG")](https://www.geluidgegevens.nl/assets/img/hero.jpg "CVGG")
 # Handleiding Datastroom actieplan geluid 2024, voor gemeenten
 *Versie: 0.9; Status: concept; Datum: 2023-12-08; Meer info: www.rivm.nl/cvgg*
 
