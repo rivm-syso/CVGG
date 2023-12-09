@@ -9,13 +9,13 @@ Op deze github pagina's wordt (technische) documentatie beschikbaar gesteld.
 
 ### Actieplan geluid (DF7_10)
 Ter ondersteuning van de bronhouders stellen we hulpmiddelen beschikbaar, zoals handleidingen, sjablonen, en voorbeeldbestanden beschikbaar. Deze kunnen worden gebruikt voor het maken van de aanleverbestanden die in het kader van Europese verplichtingen geleverd moeten worden. Bronhouders leveren aan de CVGG. De CVGG zorgt (in opdracht van IenW) voor de levering aan Reportnet. 
+- *Handleiding datamodel END*: De handleiding beschrijft welke gegevens uit het actieplan geluid aan de CVGG moeten worden aangeleverd. De gegevens moeten voldoen aan het END datamodel.
+- *Sjabloon*: Het formaat van aanlevering is een excel bestand (xlsx). Het sjabloon is een excel leeg  bestand conform de datastructuur die aan de CVGG aangeleverd moet worden. De specifieke gegevens per bronhouder kunnen in dit sjabloon worden ingevuld. 
+- *Voorbeeldbestand*: Betreft een ingevuld sjaboon obv denkbeeldige gegevens een illustreert hoe een aanlever bestand er uit kan zien. 
 
-- **Handleiding datamodel END:** De handleiding beschrijft welke gegevens uit het actieplan geluid aan de CVGG moeten worden aangeleverd. De gegevens moeten voldoen aan het END datamodel. 
-- **Sjabloon**: Het formaat van aanlevering is een excel bestand (xlsx). Het sjabloon is een excel leeg  bestand conform de datastructuur die aan de CVGG aangeleverd moet worden. De specifieke gegevens per bronhouder kunnen in dit sjabloon worden ingevuld. 
-- **Voorbeeldbestand**: Betreft een ingevuld sjaboon obv denkbeeldige gegevens een illustreert hoe een aanlever bestand er uit kan zien. 
-
-- [Hulpmiddelen gemeenten](https://github.com/rivm-syso/CVGG/blob/Richtlijn-Omgevingslawaai/richtlijn%20omgevingslawaai/gemeenten/Handleiding%20gemeenten.md)
-- Hulpmiddelen hoofdwegen (IenW en provincies)
+#### Hulpmiddelen
+- gemeenten: [Handleiding](https://github.com/rivm-syso/CVGG/blob/Richtlijn-Omgevingslawaai/richtlijn%20omgevingslawaai/gemeenten/Handleiding%20gemeenten.md); [sjabloon], [voorbeeldbestand]
+- hoofdwegen (IenW en provincies)
 - hoofdspoor (IenW)
 - Schiphol (IenW)
 
