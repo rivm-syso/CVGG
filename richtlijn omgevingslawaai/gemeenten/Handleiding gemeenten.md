@@ -1,12 +1,5 @@
-Rijksinstituut voor Volksgezondheid en Milieu, Centrale Voorziening Geluidgegevens (CVGG), A. van Leeuwenhoeklaan 9, 3721 MA Bilthoven
-www.rivm.nl, cvgg@rivm.nl
-
-- Versie: 1.0
-- Status: Definitief
-- Datum: 2023-12-09 
-
-
 # Handleiding Datastroom actieplan geluid 2024, voor gemeenten
+*Versie: 0.9; Status: concept; Datum: 2023-12-08; Meer info: www.rivm.nl/cvgg*
 
 ### Inhoudsopgave
 
