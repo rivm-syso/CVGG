@@ -14,7 +14,7 @@ Ter ondersteuning van de bronhouders stellen we hulpmiddelen beschikbaar, zoals 
 - **Sjabloon**: Het formaat van aanlevering is een excel bestand (xlsx). Het sjabloon is een excel leeg  bestand conform de datastructuur die aan de CVGG aangeleverd moet worden. De specifieke gegevens per bronhouder kunnen in dit sjabloon worden ingevuld. 
 - **Voorbeeldbestand**: Betreft een ingevuld sjaboon obv denkbeeldige gegevens een illustreert hoe een aanlever bestand er uit kan zien. 
 
-- [Hulpmiddelen gemeenten]
+- [Hulpmiddelen gemeenten](https://github.com/rivm-syso/CVGG/blob/Richtlijn-Omgevingslawaai/richtlijn%20omgevingslawaai/gemeenten/Handleiding%20gemeenten.md)
 - Hulpmiddelen hoofdwegen (IenW en provincies)
 - hoofdspoor (IenW)
 - Schiphol (IenW)
