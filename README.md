@@ -14,7 +14,7 @@ Ter ondersteuning van de bronhouders stellen we hulpmiddelen beschikbaar, zoals 
 - *Voorbeeldbestand*: Betreft een ingevuld sjaboon obv denkbeeldige gegevens een illustreert hoe een aanlever bestand er uit kan zien. 
 
 #### Hulpmiddelen
-- gemeenten: [Handleiding](https://github.com/rivm-syso/CVGG/blob/Richtlijn-Omgevingslawaai/richtlijn%20omgevingslawaai/gemeenten/Handleiding%20gemeenten.md); [sjabloon], [voorbeeldbestand]
+- gemeenten: [Handleiding](https://github.com/rivm-syso/CVGG/blob/Richtlijn-Omgevingslawaai/richtlijn%20omgevingslawaai/gemeenten/Handleiding%20gemeenten.md#handleiding-datastroom-actieplan-geluid-2024-voor-gemeenten); [sjabloon], [voorbeeldbestand]
 - hoofdwegen (IenW en provincies)
 - hoofdspoor (IenW)
 - Schiphol (IenW)
