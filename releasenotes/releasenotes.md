@@ -1,6 +1,18 @@
 ## Release notes CVGG – omgeving voor proefdraaien
 Release notes CVGG – omgeving voor proefdraaien
 
+Release 0.59
+Datum 1 dedember 2023
+
+Algemeen
+#### Wij hebben wat verbeteringen doorgevoerd m.b.t. onze beheertool (alleen bedoeld voor intern gebruik).
+#### We hebben de veiligheid m.b.t. toegang tot onze APIs verhoogd.
+
+Geluidregister
+#### Wij hebben een expliciete foutmelding toegevoegd aan het foutenrapport wanneer het bestand niet voldoet aan de huidige IMGeluid versie. Tevens geven we meer details bij  de foutmeldingen, die resulteren uit de xsd validatie.
+#### We hebben een bestaande validatieregel (Geluidemissieobject.situatieVan) die onvolledig was, verbeterd.
+#### Er was een issue waarbij er een interne fout optrad bij een bestand die een incorrecte geometrie bevatte. Dat is nu rechtgetrokken. 
+
 ## Release 0.58
 Datum 16 november 2023
 
