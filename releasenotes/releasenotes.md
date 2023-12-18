@@ -1,7 +1,7 @@
 ## Release notes CVGG – omgeving voor proefdraaien
 Release notes CVGG – omgeving voor proefdraaien
 
-Release 0.59
+## Release 0.59
 Datum 1 dedember 2023
 
 Algemeen
