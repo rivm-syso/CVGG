@@ -11,11 +11,15 @@ Zoals het upgraden van onze database.
 
 ### Geluidregister
 * Wij hebben in het foutenrapport een kolom toegevoegd "Ernst melding". Als de aanlevering wordt afgekeurd, is de 'Ernst melding' altijd 'Blokkerend. Het kan ook zo zijn dat je aanlevering is goedgekeurd, maar nog niet helemaal voldoet aan IMGeluid. In dat geval zal er in de kolom "Ernst melding", "niet conform IMGeluid" staan. Een dergelijk bestand wel gepubliceerd worden. 
-* Wij hebben een controle toegevoegd op aanwezigheid van WaardePerOctaafband, FactorPerOctaafband, BedrijfsduurcorrectieWaarde en Uitstralingsrichtingwaarde. Als deze gegevens missen in een feature waar deze wel aanwezig moeten zijn, dan zal er een "niet conform IMGeluid" melding getriggered worden.
+* Wij hebben een controle toegevoegd op aanwezigheid van WaardePerOctaafband, FactorPerOctaafband, BedrijfsduurcorrectieWaarde en Uitstralingsrichtingwaarde.
+
+Als deze gegevens missen in een feature waar deze wel aanwezig moeten zijn, dan zal er een "niet conform IMGeluid" melding getriggered worden.
 * Op het Uitleverenpagina zal te zien zijn wanneer het uitleverbestand  "niet conform IMGeluid" gegevens bevat.
+
 Voor nu is het enkel geïmplementeerd voor het uitleverbestand voor akoestisch onderzoek.
 * Er ging iets niet helemaal goed met het maken van de uitleverbestanden wanneer er een aanlevering werd gedaan met grote features. Dat is nu rechtgetrokken.
 * Wij hebben al wat werk verricht voor het kunnen downloaden op de kaart door middel van een selectie op de kaart.
+
 Deze functionaliteit staat nu nog uit.
 
 ## Release 0.59
