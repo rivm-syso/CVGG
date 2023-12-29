@@ -5,8 +5,8 @@ Release notes CVGG – omgeving voor proefdraaien
 Datum 29 december 2023
 
 ### Algemeen
-* Wij hebben weer wat onder de motorkap verbeteringen doorgevoerd.
-Zoals het upgraden van onze database.
+* Wij hebben weer wat onder de motorkap verbeteringen doorgevoerd,
+zoals het upgraden van onze database.
 
 ### Geluidregister
 * Wij hebben in het foutenrapport een kolom toegevoegd "Ernst melding". Als de aanlevering wordt afgekeurd, is de 'Ernst melding' altijd 'Blokkerend. Het kan ook zo zijn dat je aanlevering is goedgekeurd, maar nog niet helemaal voldoet aan IMGeluid. In dat geval zal er in de kolom "Ernst melding", "niet conform IMGeluid" staan. Een dergelijk bestand wel gepubliceerd worden. 
