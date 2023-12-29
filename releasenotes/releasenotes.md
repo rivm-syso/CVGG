@@ -6,6 +6,7 @@ Datum 29 december 2023
 
 ### Algemeen
 * Wij hebben weer wat onder de motorkap verbeteringen doorgevoerd.
+
 Zoals het upgraden van onze database.
 
 ### Geluidregister
