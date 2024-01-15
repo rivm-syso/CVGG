@@ -1,6 +1,13 @@
 ## Release notes CVGG – omgeving voor proefdraaien
 Release notes CVGG – omgeving voor proefdraaien
 
+## Release 0.62
+Datum 15 januari 2024
+
+### Algemeen
+* Wij hebben wat tekstuele incorrectheden gecorrigeerd.
+Zoals bijvoorbeeld de naamgeving van de uitleverbestanden en de naamgeving van het BGE uitleverbestand.
+
 ## Release 0.61
 Datum 29 december 2023
 
