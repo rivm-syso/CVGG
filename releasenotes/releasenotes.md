@@ -1,5 +1,26 @@
 ## Release notes CVGG
 
+## Release 0.68
+Datum: 29 januari 2024
+
+### Algemeen
+* Er hebben wat tekstuele wijzigingen plaatsgevonden op onze Homepagina en op de Uitleverenpagina.
+* Wij hebben weer wat security verbeteringen doorgevoerd.
+Kort geleden heeft er een security test plaatsgevonden. Enkele punten die uit deze security test kwamen hebben wij al verbeterd.
+
+### Geluidregister
+* De naam van het validatiemeldingenbestand is veranderd van meldingen.csv naar validatiemeldingen.csv.
+* Wij hebben een fout met betrekking tot GPP-punten rechtgetrokken. Deze werden niet in alle gevallen getoond op de kaart. 
+* Wij hebben voorbereidende werk verricht voor een nieuwe functionaliteit m.b.t. uitleverbestanden.
+Deze functionaliteit staat nog uit, omdat het nog in ontwikkeling is.
+* Wij hebben een wijziging doorgevoerd waarbij geometriën opgeslagen worden aan de achterkant. 
+Dit gaat ervoor zorgen dat de vorige genoemde functionaliteit gebruikt kan worden.
+* Wij hebben een validatie toegevoegd op missende '#' bij xlinks.
+Dit is een 'niet conform IMGeluid' melding en dus niet blokkerend.
+* Er was een fout waarbij in de geluidgegevenscollectie de img:systematiek attribuut voor error meldingen zorgde. Dat is nu rechtgetrokken
+* Er was een fout m.b.t. heap space. Dat is nu rechtgetrokken.
+Heap space is een deel van het geheugen dat wordt gebruikt voor het dynamisch opslaan van gegevens. Het is flexibel en kan groeien en krimpen naarmate de applicatie wordt gebruikt.
+
 ## Release 0.62
 - Productieomgeving: 15 januari 2024
 - Oefenomgeving: 15 januari 2024
