@@ -1,7 +1,8 @@
 ## Release notes CVGG
 
 ## Release 0.68
-Datum: 29 januari 2024
+- Productieomgeving: 29 januari 2024
+- Oefenomgeving: 29 januari 2024
 
 ### Algemeen
 * Er hebben wat tekstuele wijzigingen plaatsgevonden op onze Homepagina en op de Uitleverenpagina.
