@@ -32,6 +32,10 @@ Nadere toelichting over de inhoud van aanlever- en uitleverbestanden vind je in 
 
 - [Toelichting op uitwisselen gegevens IMGeluid 3.1](https://github.com/rivm-syso/CVGG/blob/main/documenten/Toelichting%20op%20uitwisseling%20gegevens%20v0.5.pdf "Toelichting op uitwisselen gegevens")
 
+#### Validatieregels
+Bij het aanleveren van bestanden valideert de CVGG of deze bestanden voldoen aan IMGeluid en de Uitwisselstandaard. Dat gebeurt grotendeels obv van het applicatieschema (xsd) dat als serviceproduct wordt meegeleverd bij het IMGeluid. Voor de validaties die niet via een dergelijke applicatieschema gevalideerd kunnen worden, maar wel onderdeel zijn van IMGeluid en de Uitwisselstaandaard, zijn extra validatieregels geimplementeerd. 
+-  [Overzicht geimplementeerde validatieregels](https://github.com/rivm-syso/CVGG/tree/main/validatieregels)
+
 #### Voorbeeldbestanden
 Per geluidbron en per type aan- of uitlevering zijn voorbeelden beschikbaar. Dat geldt zowel voor de aanlever- als uitleverbestanden. 
 
