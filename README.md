@@ -15,7 +15,7 @@ Ter ondersteuning van de bronhouders stellen we hulpmiddelen beschikbaar, zoals 
 - *Sjabloon*: Het formaat van aanlevering is een excel bestand (xlsx). Het sjabloon is een excel leeg  bestand conform de datastructuur die aan de CVGG aangeleverd moet worden. De specifieke gegevens per bronhouder kunnen in dit sjabloon worden ingevuld. 
 - *Voorbeeldbestand*: Betreft een ingevuld sjaboon obv denkbeeldige gegevens een illustreert hoe een aanlever bestand er uit kan zien.
 
-De hulpmiddelen zijn beschikbaar via [Richtlijn omgevingslawaai (END)](http://https://www.rivm.nl/cvgg/richtlijn-omgevingslawaai "Richtlijn omgevingslawaai (END)")
+De hulpmiddelen zijn beschikbaar via [Richtlijn omgevingslawaai (END)](https://www.rivm.nl/cvgg/richtlijn-omgevingslawaai "Richtlijn omgevingslawaai (END)")
 
 
 ## Geluidregister (Ow) 
