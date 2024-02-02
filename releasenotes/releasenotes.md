@@ -1,6 +1,14 @@
 ## Release notes CVGG
 
 ## Release 0.68
+- Productieomgeving: 2 februari 2024
+- Oefenomgeving:  1 februari 2024
+
+### Geluidregister
+* Het kan zijn dat een aanlevering succesvol gevalideerd is, maar niet conform IMGeluid is. In dat geval is er een document te downloaden waarin te zien is waar dit aan ligt. Nu kun je dit document op het Validatiestabblad downloaden.
+* Wij hebben wat controles toegevoegd op de geldigheid van geometriën. Deze controles zijn waarschuwingen en zijn dus niet blokkerend.
+
+## Release 0.68
 - Productieomgeving: 29 januari 2024
 - Oefenomgeving: 29 januari 2024
 
