@@ -1,6 +1,6 @@
 ## Release notes CVGG
 
-## Release 0.68
+## Release 0.69
 - Productieomgeving: 2 februari 2024
 - Oefenomgeving:  1 februari 2024
 
