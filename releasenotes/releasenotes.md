@@ -1,5 +1,21 @@
 ## Release notes CVGG
 
+## Release 0.70
+- Productieomgeving: 21 februari 2024
+- Oefenomgeving:  19 februari 2024
+
+### Algemeen
+Wij hebben weer wat 'onder de motorkap' verbeteringen doorgevoerd.
+Zoals het onderbrengen van onze audit logging in een eigen database en het inactief kunnen maken alle Richtlijn Omgevingslawaai aanleveringen (intern gebruik).
+
+### Geluidregister
+* De landingspagina is veranderd naar "Berichtgeving". 
+* In geval van een gedepubliceerd uitleverbestand zal vanaf nu een eindRegistratie en versienummer opgenomen zijn. 
+
+### Richtlijn omgevingslawaai
+* Het is nu mogelijk om meerdere datatypes aan te leveren per leverancier.
+Bijvoorbeeld Agglomeration en MajorRoad. Adviesbureaus kunnen dan voor meerdere Richtlijn Omgevingslawaai geluidbronnen proefleveringen doen op de Oefenomgeving, zowel voor een Actieplan geluid als een Geluidbelastingkaart. 
+
 ## Release 0.69
 - Productieomgeving: 2 februari 2024
 - Oefenomgeving:  1 februari 2024
