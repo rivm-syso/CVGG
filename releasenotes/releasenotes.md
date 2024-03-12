@@ -2,8 +2,8 @@
 
 Release 0.73
 
-Productieomgeving: 11 maart 2024
-Oefenomgeving: 11 maart 2024
+- Productieomgeving: 11 maart 2024
+- Oefenomgeving: 11 maart 2024
 
 ### Algemeen
 
