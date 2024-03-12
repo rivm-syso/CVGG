@@ -18,7 +18,7 @@ Oefenomgeving: 11 maart 2024
 
 ### Berichten
 
-Ons berichtensysteem is uitgebreid. Je kunt nu niet alleen een bericht Melding van besluit maken, maar ook een Mededeling of een Bericht over besluit
+Ons berichtensysteem is uitgebreid. Je kunt nu niet alleen een bericht Melding van besluit maken, maar ook een Mededeling of een Bericht over besluit.
 
 ### Wat 'onder-de-motorkap' verbeteringen:
 
