@@ -1,5 +1,34 @@
 ## Release notes CVGG
 
+Release 0.73
+
+Productieomgeving: 11 maart 2024
+Oefenomgeving: 11 maart 2024
+
+### Algemeen
+
+    We hebben de manier waarop we onze gegevens bijhouden verder verbeterd. Dit betekent dat we nu nog beter kunnen zorgen voor de veiligheid en privacy van je gegevens.
+    We hebben ook enkele aanpassingen gedaan om het makkelijker te maken voor ons team om informatie te beheren. Dit helpt ons om efficiënter te werken en jou beter van dienst te zijn.
+
+### Kaart en Downloads
+
+    Bij het bekijken van kaarten kun je nu beter inzoomen, waardoor het gemakkelijker wordt om specifieke details te zien.
+    Heb je ooit problemen gehad met het vinden van de juiste informatie op onze contactpagina? Goed nieuws: we hebben het aangepast om je beter te helpen.
+    Het kiezen van datums voor het downloaden van informatie is nu nauwkeuriger, dankzij verbeteringen in hoe we met tijdzones omgaan.
+
+### Berichten
+
+    Ons berichtensysteem is uitgebreid. Je kunt nu niet alleen een bericht Melding van besluit maken, maar ook een Mededeling of een Bericht over besluit
+
+### Wat 'onder-de-motorkap' verbeteringen:
+
+    We hebben enkele uitdagingen overwonnen met onze webmeldingen en unit tests om ervoor te zorgen dat alles naar behoren functioneert.
+    Het beheren van geometrieën in onze database is nu efficiënter, wat betekent dat we nauwkeuriger kunnen werken met de gegevens die we verzamelen en verstrekken.
+    We hebben het proces verbeterd voor het controleren en valideren van gegevens, waardoor onze systemen nog betrouwbaarder worden.
+
+
+We zijn altijd bezig met het verbeteren van onze service om jou de best mogelijke ervaring te bieden. We hopen dat je net zo enthousiast bent over deze updates als wij. 
+
 ## Release 0.70
 - Productieomgeving: 21 februari 2024
 - Oefenomgeving:  19 februari 2024
