@@ -1,5 +1,16 @@
 ## Release notes CVGG
 
+Release 0.76
+
+- Productieomgeving: 28 maart 2024
+- Oefenomgeving: 28 maart 2024
+
+### Aanleveringen Richtlijn Omgevingslawaai
+
+Verbeterde validatie van Richtlijn Omgevingslawaaibestanden: Er zijn verbeteringen doorgevoerd in het valideren van bestanden. Dit betekent dat bestanden die eerder onterecht werden goedgekeurd of vastliepen tijdens de validatie, nu correct worden verwerkt.
+
+We zijn toegewijd aan het continu verbeteren van ons platform om jou de best mogelijke ervaring te bieden. Deze updates zijn een stap in de richting van een nog beter en gebruiksvriendelijker platform. Jouw feedback is altijd welkom, aangezien het ons helpt om ons platform te blijven verbeteren.
+
 Release 0.73
 
 - Productieomgeving: 11 maart 2024
