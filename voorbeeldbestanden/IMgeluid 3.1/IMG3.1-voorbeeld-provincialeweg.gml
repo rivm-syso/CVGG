@@ -1954,7 +1954,7 @@
             <gml:PolygonPatch>
               <gml:exterior>
                 <gml:LinearRing>
-                  <gml:posList>144958.28 502157.18 144980.08 502135.38 144980.08 502135.38 144980.08 502135.38 144993.46 502150.74 144970.67 502173.04 144958.28 502157.18</gml:posList>
+                  <gml:posList>144958.28 502157.18 144980.08 502135.38 144993.46 502150.74 144970.67 502173.04 144958.28 502157.18</gml:posList>
                 </gml:LinearRing>
               </gml:exterior>
             </gml:PolygonPatch>
@@ -1980,7 +1980,7 @@
             <gml:PolygonPatch>
               <gml:exterior>
                 <gml:LinearRing>
-                  <gml:posList>145077.64 502257.01 145078.02 502256.28 145078.51 502256.51 145078.2 502257.28 145078.2 502257.28 145077.64 502257.01</gml:posList>
+                  <gml:posList>145077.64 502257.01 145078.02 502256.28 145078.51 502256.51 145078.2 502257.28 145077.64 502257.01</gml:posList>
                 </gml:LinearRing>
               </gml:exterior>
             </gml:PolygonPatch>
@@ -2006,7 +2006,7 @@
             <gml:PolygonPatch>
               <gml:exterior>
                 <gml:LinearRing>
-                  <gml:posList>144558.88 502420.81 144568.3 502388.1 144568.3 502388.1 144568.79 502388.1 144595.55 502391.57 144583.16 502426.75 144558.88 502420.81</gml:posList>
+                  <gml:posList>144558.88 502420.81 144568.3 502388.1 144568.79 502388.1 144595.55 502391.57 144583.16 502426.75 144558.88 502420.81</gml:posList>
                 </gml:LinearRing>
               </gml:exterior>
             </gml:PolygonPatch>
