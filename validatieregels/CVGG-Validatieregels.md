@@ -1,6 +1,27 @@
 |Nr      |CVGG Release|Ernst| Beschrijving|                                                                                                                                                                                                                                                                                                                                           
 |--------|------------|-----|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|CVGG148 |0.52       |Blokkerend |Wanneer Geluidgegevenscollectie.geluidbron = 'luchtvaart' MOET terrein.type­Terrein 'luchthavengebied' zijn.|
+|CVGG174 |0.61      |Niet conform IMGeluid |GeluidbronIndustrie.uitstralingsrichting. Dit attribuut mag niet leeg zijn. |
+|CVGG173 |0.61      |Niet conform IMGeluid |GeluidbronIndustrie.bedrijfsduurcorrectie. Dit attribuut mag niet leeg zijn. |
+|CVGG172 |0.61      |Niet conform IMGeluid |FlyoverZijkant.reflectiefactorRechts. Dit attribuut mag niet leeg zijn. |
+|CVGG171 |0.61      |Niet conform IMGeluid |FlyoverZijkant.reflectiefactorLinks. Dit attribuut mag niet leeg zijn. |
+|CVGG170 |0.61      |Niet conform IMGeluid |Tunnelbak.reflectiefactor. Dit attribuut mag niet leeg zijn. |
+|CVGG169 |0.61      |Niet conform IMGeluid |Bouwwerk.reflectiefactor. Dit attribuut mag niet leeg zijn. |
+|CVGG168 |0.61      |Niet conform IMGeluidg |Geluidschermdeel.reflectiefactorRechts. Dit attribuut mag niet leeg zijn. |
+|CVGG167 |0.61      |Niet conform IMGeluid |Geluidschermdeel.reflectiefactorLinks. Dit attribuut mag niet leeg zijn. |
+|CVGG166 |0.61      |Niet conform IMGeluid |GeluidschermdeelMetDiffractor.reflectiefactorRechts. Dit attribuut mag niet leeg zijn. |
+|CVGG165 |0.61      |Niet conform IMGeluid |GeluidschermdeelMetDiffractor.reflectiefactorLinks. Dit attribuut mag niet leeg zijn. |
+|CVGG164 |0.61      |Niet conform IMGeluid |Brug.geluidtoeslag. Dit attribuut mag niet leeg zijn. |
+|CVGG163 |0.61      |Niet conform IMGeluid |Diffractor.diffractoreffect. Dit attribuut mag niet leeg zijn. |
+|CVGG162 |0.61      |Niet conform IMGeluid |Vegetatiegebied.demping. Dit attribuut mag niet leeg zijn. |
+|CVGG161 |0.61      |Niet conform IMGeluid |Procesinstallatiegebied.demping. Dit attribuut mag niet leeg zijn. |
+|CVGG160 |0.61      |Niet conform IMGeluid |GeluidschermdeelMetDiffractor.diffractoreffect. Dit attribuut mag niet leeg zijn. |
+|CVGG159 |0.61      |Niet conform IMGeluid |Windturbine.jaargemiddeldeGeluidemissieNacht. Dit attribuut mag niet leeg zijn. |
+|CVGG158 |0.61      |Niet conform IMGeluid |Windturbine.jaargemiddeldeGeluidemissieAvond. Dit attribuut mag niet leeg zijn. |
+|CVGG157 |0.61      |Niet conform IMGeluid | Windturbine.jaargemiddeldeGeluidemissieDag. Dit attribuut mag niet leeg zijn. |
+|CVGG156 |0.61      |Niet conform IMGeluid |GeluidronIndustrie.relevanteBronsterkte. Dit attribuut mag niet leeg zijn. |
+|CVGG155 |0.61      |Niet conform IMGeluid |Industrierekeninstellingen.luchtabsorptiecoefficient. Dit attribuut mag niet leeg zijn. |
+|CVGG077 |0.59       |Blokkerend |Geluidemissieobject.situatieVan moet een waarde hebben als Geluidgegevenscollectie.systematiek="GPP" EN ( Geluidgegevenscollectie.geluidbron = "lokale spoorweg" OF "provinciale weg").|
+|CVGG078 |0.59       |Blokkerend |Geluidemissieobject.situatieVan moet een waarde hebben als Geluidgegevenscollectie.systematiek="BGE" en Geluidgegevenscollectie.type="vaststelling".|
 |CVGG148 |0.52       |Blokkerend |Wanneer Geluidgegevenscollectie.geluidbron = 'schiet- of springterrein' MOET terrein.type­Terrein  'schiet- of springterrein' zijn.|
 |CVGG138 |0.46       |Vervallen in 0.46 |~~GeluidbronIndustrie.brontype mag niet gelijk zijn aan "normale puntbron" als er sprake is van een relatie met een VlakbronIndustrie of LijnbronIndustrie.~~ |
 |CVGG151 |0.44       |Blokkerend |Alle z-coördinaten in Vegetatiegebied.geometrie moeten dezelfde waarde hebben.|
@@ -18,8 +39,8 @@
 |CVGG116 |0.33       |Blokkerend |Relaties monitoringresultaat: Valideren op kardinaliteit en type feature waarnaar verwezen wordt.  |
 |CVGG064 |0.33       |Blokkerend |Geluidgegevenscollectie.jaar moet voorkomen wanneer Geluidgegevenscollectie.type = "monitoring" OF "brongegevens monitoring" OF "prognose". |
 |CVGG016 |0.26       |Blokkerend |Coördinaten mogen een waarde bevatten van maximaal 2 decimalen achter de komma.  |
-|CVGG077 |0.26       |Blokkerend |Geluidemissieobject.situatieVan moet een waarde hebben als Geluidgegevenscollectie.geluidbron = "lokale spoorweg" OF "provinciale weg".  |
-|CVGG078 |0.26       |Blokkerend |Geluidemissieobject.situatieVan moet een waarde hebben als Geluidgegevenscollectie.systematiek="BGE" |
+|CVGG077 |0.26       |Vervangen in 0.59 |~~Geluidemissieobject.situatieVan moet een waarde hebben als Geluidgegevenscollectie.geluidbron = "lokale spoorweg" OF "provinciale weg"~~.  |
+|CVGG078 |0.26       |Vervangen in 0.59 |~~Geluidemissieobject.situatieVan moet een waarde hebben als Geluidgegevenscollectie.systematiek="BGE"~~ |
 |CVGG079 |0.26       |Blokkerend |GeluidbronIndustrie.brontype moet ingevuld zijn als Geluidgegevenscollectie.geluidbron = "Industrie".  |
 |CVGG080 |0.26       |Blokkerend |Als Geluidgegevenscollectie.geluidbron gelijk is aan "industrieterrein", dan moet reflectiepuntHoogte een waarde hebben.  |
 |CVGG081 |0.26       |Blokkerend |GeluidbronIndustrie.negeerGebouw moet ingevuld zijn als Geluidgegevenscollectie.geluidbron = "Industrie". |
