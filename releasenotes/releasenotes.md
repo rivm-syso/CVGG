@@ -1,4 +1,19 @@
-## Release notes CVGG
+# Release notes CVGG
+
+## Release 0.79
+- Productieomgeving: 7 mei 2024
+- Proefomgeving: 7 mei 2024
+
+### Geluidregister Uitleveren
+Je kunt nu specifieke typen Geluidregisterbestanden, zoals Vaststellingen, direct via onze website downloaden. Dit maakt het eenvoudiger om toegang te krijgen tot de bestanden die je nodig hebt.
+
+### Verbeterd Publicatieproces
+We hebben een probleem aangepakt waarbij bestanden voor lokaal spoor elkaar onbedoeld konden vervangen bij publicatie. Nu worden deze correct gehandhaafd.
+
+### Gegevensconsistentie
+We hebben maatregelen genomen om te voorkomen dat meerdere gepubliceerde features dezelfde lokale identificatie delen, wat zorgt voor betere gegevensintegriteit.
+
+We blijven ons inzetten om de voorziening te verfijnen. We hopen dat deze nieuwe functies en verbeteringen jouw interactie met ons platform verbeteren en je werkzaamheden ondersteunen. Jouw input is belangrijk voor ons, dus laat ons vooral weten wat je denkt over de updates of als je verdere suggesties hebt
 
 ## Release 0.76
 
