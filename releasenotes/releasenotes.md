@@ -2,7 +2,7 @@
 
 ## Release 0.79
 - Productieomgeving: 7 mei 2024
-- Proefomgeving: 7 mei 2024
+- Proefomgeving: 16 mei 2024
 
 ### Geluidregister Uitleveren
 Je kunt nu specifieke typen Geluidregisterbestanden, zoals Vaststellingen, direct via onze website downloaden. Dit maakt het eenvoudiger om toegang te krijgen tot de bestanden die je nodig hebt.
