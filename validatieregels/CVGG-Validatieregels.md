@@ -1,5 +1,9 @@
 |Nr      |CVGG Release|Ernst| Beschrijving|                                                                                                                                                                                                                                                                                                                                           
 |--------|------------|-----|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|CVGG178 |0.80      |Waarschuwing| Wanneer Geluidproductieplafond.VastellingVanRechtwege is 'false' moet het objecttype Geluidproductieplafond een xlink met objecttype Documentverwijzing bevatten.|
+|CVGG177 |0.80      |Waarschuwing|Wanneer geluidbron is provinciale weg, industrieterrein of lokale spoorweg, is vaststelling van rechtswege juridisch niet mogelijk. Geluidproductieplafond.VastellingVanRechtwege moet 'false' zijn.|
+|CVGG176 |0.80      |Blokkerend|Prognoses mogen alleen aangeleverd worden bij BGE systematiek.|
+|CVGG175 |0.77      |Blokkerend|Er mogen niet meerdere monitoringresultaat-objecten in een aanleverbestand aanwezig zijn, die naar hetzelfde gemonitord object verwijzen. Gemonitorde objecten met hetzelfde Nen3610ID-lokaalId worden hierbij als 'hetzelfde' gerekend. |
 |CVGG174 |0.61      |Niet conform IMGeluid |GeluidbronIndustrie.uitstralingsrichting. Dit attribuut mag niet leeg zijn. |
 |CVGG173 |0.61      |Niet conform IMGeluid |GeluidbronIndustrie.bedrijfsduurcorrectie. Dit attribuut mag niet leeg zijn. |
 |CVGG172 |0.61      |Niet conform IMGeluid |FlyoverZijkant.reflectiefactorRechts. Dit attribuut mag niet leeg zijn. |
