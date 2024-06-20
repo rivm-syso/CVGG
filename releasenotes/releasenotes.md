@@ -1,5 +1,15 @@
 # Release notes CVGG
 
+## Release 0.82
+- Productieomgeving: 20 juni 2024
+- Proefomgeving: 19 juni 2024
+
+Vernieuwde homepagina met aangepaste teksten en directe links voor snellere toegang tot veelgebruikte functies, wat navigatie eenvoudiger en efficiënter maakt.
+
+Bij de validatie zijn nu ook Waarschuwingen mogelijk. Waarschuwingen zijn niet blokkerend en worden alleen gemeld aan de bronhouder, niet aan de afnemer. De eerste Waarschuwing die geïmplementeerd is checkt op een al dan niet verplichte documentverwijzing.
+
+Om verwarring en overlap te voorkomen en zodat elk gedownload bestand gemakkelijk te identificeren is, zijn de bestandsnamen voor losse downloadbestanden nu uniek.
+
 ## Release 0.79
 - Productieomgeving: 16 mei 2024
 - Proefomgeving: 7 mei 2024
