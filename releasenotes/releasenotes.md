@@ -1,5 +1,14 @@
 # Release notes CVGG
 
+## Release 0.83
+De afgelopen sprint was een Lifecycle Management (LCM) sprint. Daarom hebben we dit keer geen nieuwe gebruikersfunctionaliteiten toegevoegd; in plaats daarvan hebben we onderhoud uitgevoerd aan onze applicatie. Enkele onderhoudspunten:
+
+- Spring boot upgrade naar 3.3.0.  
+_Spring Boot is een hulpmiddel dat het makkelijker maakt om nieuwe applicaties te bouwen. Stel je voor dat je een Lego-set hebt waarbij alle stukjes al gesorteerd en klaar zijn om iets cools te bouwen, zonder dat je hoeft te zoeken naar elk klein onderdeeltje. Zo werkt Spring Boot voor het bouwen van software. Het helpt ontwikkelaars door de standaardonderdelen al klaar te zetten, zodat zij zich kunnen concentreren op het unieke deel van hun project, zonder zich zorgen te hoeven maken over de basis. Dit maakt het starten met een nieuw softwareproject sneller en gemakkelijker._ 
+- Trage pipelines versneld  
+_Het gebuik van het cache mechanisme van Standaard Platform is verminderd, waardoor pipelines zijn versneld._
+- Het aantal logregels dat weggeschreven wordt bij een fout bij het downloaden is verminderd zodat het logbestand niet onnodig lang wordt.
+
 ## Release 0.82
 - Productieomgeving: 20 juni 2024
 - Proefomgeving: 19 juni 2024
