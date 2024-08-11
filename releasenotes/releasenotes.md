@@ -1,5 +1,8 @@
 # Release notes CVGG
 
+- Productieomgeving: 3 juli 2024
+- Proefomgeving: 1 juli 2024
+- 
 ## Release 0.83
 De afgelopen sprint was een Lifecycle Management (LCM) sprint. Daarom hebben we dit keer geen nieuwe gebruikersfunctionaliteiten toegevoegd; in plaats daarvan hebben we onderhoud uitgevoerd aan onze applicatie. Enkele onderhoudspunten:
 
