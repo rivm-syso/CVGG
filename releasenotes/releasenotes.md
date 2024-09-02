@@ -1,5 +1,30 @@
 # Release notes CVGG
 
+## Release 0.86
+- Productieomgeving: 
+- Proefomgeving: 2 september 2024
+
+Geen ALL CAPS bij Uitleveren Losse bestanden  
+_Het systeem gebruikt nu geen hoofdletters meer bij het uitleveren van losse bestanden, voor een consistentere en beter leesbare weergave._
+
+Losse uitleverbestanden: Download alles - Spinner  
+_Bij het downloaden van alle losse uitleverbestanden is er nu een spinner (laadicoon) toegevoegd om aan te geven dat het systeem bezig is met de download._
+
+Tekstuele aanpassingen Documentatie  
+_Er zijn diverse tekstuele verbeteringen doorgevoerd in de documentatie voor een betere leesbaarheid en consistentie._ 
+
+Opgeloste bug:  
+Lokale spoorweg BGE en GPP vervangen elkaar niet meer bij publicatie
+
+Alleen vaststellingen tonen in de WMS  
+_De WMS toont nu uitsluitend gegevens van het type vaststelling, waardoor de weergave duidelijker en relevanter is voor de gebruiker._
+
+Validatiemeldingen verslag: max. 3x ‘Het maximale meldingen overschreden’  
+_Om de gebruiksvriendelijkheid te verbeteren, wordt de validatiemelding 'Het maximale aantal meldingen is overschreden' nu één keer weergegeven per type 'Ernst melding' (blokkerend, waarschuwing, niet conform IMGeluid), in totaal maximaal drie keer. Het aantal foutmeldingen per type 'Ernst melding' is 250._
+
+Waarschuwende validatie: documentverwijzing bij aanleveren BGE verplicht  
+_Volgens het IMG is een documentverwijzing bij aanlevering van een bestand BGE nog niet verplicht. De waarschuwende validatie attendeert de gebruiker er op dat deze documentverwijzing wel verplicht gaat worden._
+
 ## Release 0.83
 - Productieomgeving: 3 juli 2024
 - Proefomgeving: 1 juli 2024
