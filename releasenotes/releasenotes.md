@@ -1,5 +1,11 @@
 # Release notes CVGG
 
+## Release 0.87
+- Productieomgeving: 19 september 2024
+- Proefomgeving: 4 september 2024
+
+- Een bug die ervoor zorgde dat bestanden voor Richtlijn Omgevingslawaai niet meer aangeleverd konden worden, is nu verholpen.
+  
 ## Release 0.86
 - Productieomgeving: 
 - Proefomgeving: 2 september 2024
