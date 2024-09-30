@@ -1,5 +1,24 @@
 # Release notes CVGG
 
+## Release 0.90
+Productieomgeving:  
+Proefomgeving: 30 september 2024
+
+- Helpteksten toegevoegd  
+De structuur voor helpteksten is opgezet en toegevoegd aan het systeem voor een betere ondersteuning van gebruikers. De helpteksten zullen langzaam gevuld worden.
+
+- RSS-feed toegevoegd aan berichtenservice  
+Er is een nieuwe RSS-feed beschikbaar, zodat gebruikers op de hoogte kunnen blijven van updates in de berichtenservice.
+
+- Gebruik van WMS-kaarten in plaats van geojsons  
+De kaart werkt vanaf nu met WMS in plaats van geojsons, wat zorgt voor een efficiëntere en nauwkeurigere kaartweergave.
+
+- Toevoeging van objecten aan losse bestanden voor monitoringresultaten  
+De objecten waarnaar in het bestand verwezen wordt zijn toegevoegd aan het bestand zelf zodat je deze niet meer in andere bestanden hoeft op te zoeken.
+
+- Probleem met hoofdspoor kaartlaag opgelost  
+Een bug waarbij het opvragen van alleen de hoofdspoor kaartlaag fout ging, is opgelost.
+
 ## Release 0.87
 - Productieomgeving: 19 september 2024
 - Proefomgeving: 4 september 2024
@@ -7,29 +26,29 @@
 - Een bug die ervoor zorgde dat bestanden voor Richtlijn Omgevingslawaai niet meer aangeleverd konden worden, is nu verholpen.
   
 ## Release 0.86
-- Productieomgeving: 
-- Proefomgeving: 2 september 2024
+Productieomgeving:  
+Proefomgeving: 2 september 2024
 
-Geen ALL CAPS bij Uitleveren Losse bestanden  
-_Het systeem gebruikt nu geen hoofdletters meer bij het uitleveren van losse bestanden, voor een consistentere en beter leesbare weergave._
+- Geen ALL CAPS bij Uitleveren Losse bestanden  
+Het systeem gebruikt nu geen hoofdletters meer bij het uitleveren van losse bestanden, voor een consistentere en beter leesbare weergave._
 
-Losse uitleverbestanden: Download alles - Spinner  
-_Bij het downloaden van alle losse uitleverbestanden is er nu een spinner (laadicoon) toegevoegd om aan te geven dat het systeem bezig is met de download._
+- Losse uitleverbestanden: Download alles - Spinner  
+Bij het downloaden van alle losse uitleverbestanden is er nu een spinner (laadicoon) toegevoegd om aan te geven dat het systeem bezig is met de download._
 
-Tekstuele aanpassingen Documentatie  
-_Er zijn diverse tekstuele verbeteringen doorgevoerd in de documentatie voor een betere leesbaarheid en consistentie._ 
+- Tekstuele aanpassingen Documentatie  
+Er zijn diverse tekstuele verbeteringen doorgevoerd in de documentatie voor een betere leesbaarheid en consistentie._ 
 
-Opgeloste bug:  
+- Opgeloste bug:  
 Lokale spoorweg BGE en GPP vervangen elkaar niet meer bij publicatie
 
-Alleen vaststellingen tonen in de WMS  
-_De WMS toont nu uitsluitend gegevens van het type vaststelling, waardoor de weergave duidelijker en relevanter is voor de gebruiker._
+- Alleen vaststellingen tonen in de WMS  
+De WMS toont nu uitsluitend gegevens van het type vaststelling, waardoor de weergave duidelijker en relevanter is voor de gebruiker._
 
-Validatiemeldingen verslag: max. 3x ‘Het maximale meldingen overschreden’  
-_Om de gebruiksvriendelijkheid te verbeteren, wordt de validatiemelding 'Het maximale aantal meldingen is overschreden' nu één keer weergegeven per type 'Ernst melding' (blokkerend, waarschuwing, niet conform IMGeluid), in totaal maximaal drie keer. Het aantal foutmeldingen per type 'Ernst melding' is 250._
+- Validatiemeldingen verslag: max. 3x ‘Het maximale meldingen overschreden’  
+Om de gebruiksvriendelijkheid te verbeteren, wordt de validatiemelding 'Het maximale aantal meldingen is overschreden' nu één keer weergegeven per type 'Ernst melding' (blokkerend, waarschuwing, niet conform IMGeluid), in totaal maximaal drie keer. Het aantal foutmeldingen per type 'Ernst melding' is 250.
 
-Waarschuwende validatie: documentverwijzing bij aanleveren BGE verplicht  
-_Volgens het IMG is een documentverwijzing bij aanlevering van een bestand BGE nog niet verplicht. De waarschuwende validatie attendeert de gebruiker er op dat deze documentverwijzing wel verplicht gaat worden._
+- Waarschuwende validatie: documentverwijzing bij aanleveren BGE verplicht  
+Volgens het IMG is een documentverwijzing bij aanlevering van een bestand BGE nog niet verplicht. De waarschuwende validatie attendeert de gebruiker er op dat deze documentverwijzing wel verplicht gaat worden.
 
 ## Release 0.83
 - Productieomgeving: 3 juli 2024
