@@ -5,6 +5,7 @@
 |CVGG177 |0.80      |Waarschuwing|Wanneer geluidbron is provinciale weg, industrieterrein of lokale spoorweg, is vaststelling van rechtswege juridisch niet mogelijk. Geluidproductieplafond.VastellingVanRechtwege moet 'false' zijn.|
 |CVGG176 |0.80      |Blokkerend|Prognoses mogen alleen aangeleverd worden bij BGE systematiek.|
 |CVGG175 |0.77      |Blokkerend|Er mogen niet meerdere monitoringresultaat-objecten in een aanleverbestand aanwezig zijn, die naar hetzelfde gemonitord object verwijzen. Gemonitorde objecten met hetzelfde Nen3610ID-lokaalId worden hierbij als 'hetzelfde' gerekend. |
+|CVGG188 |0.69      |Niet conform IMGeluid |Features mogen geen ongeldige geometrie bevatten volgens de Open Geospatial Consortium’s (OGC) simple feature specification, waarbij gekeken wordt naar geldigheid van de x,y cöordinaten. |
 |CVGG174 |0.61      |Niet conform IMGeluid |GeluidbronIndustrie.uitstralingsrichting. Dit attribuut mag niet leeg zijn. |
 |CVGG173 |0.61      |Niet conform IMGeluid |GeluidbronIndustrie.bedrijfsduurcorrectie. Dit attribuut mag niet leeg zijn. |
 |CVGG172 |0.61      |Niet conform IMGeluid |FlyoverZijkant.reflectiefactorRechts. Dit attribuut mag niet leeg zijn. |
