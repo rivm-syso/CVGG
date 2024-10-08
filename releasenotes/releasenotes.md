@@ -1,5 +1,14 @@
 # Release notes CVGG
 
+## Release 0.92
+Productieomgeving: 8 oktober 2024
+Proefomgeving: 7 oktober 2024
+
+- Geen foutmeldingen meer bij afbreken van "Download alles"  
+Een probleem waarbij ten onrechte een foutmelding werd gelogd wanneer het "Download alles"-proces in "Losse bestanden" werd afgebroken, is opgelost.
+
+- Aanpassingen gedaan waardoor technisch applicatiebeheer geen onnodige logregels ontvangt.
+
 ## Release 0.90
 Productieomgeving:  
 Proefomgeving: 30 september 2024
