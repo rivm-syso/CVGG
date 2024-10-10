@@ -1,7 +1,7 @@
 # Release notes CVGG
 
 ## Release 0.93
-Productieomgeving: 10 oktober 2024
+Productieomgeving: 10 oktober 2024  
 Proefomgeving: 10 oktober 2024
 
 - Kaartlaag overdrachtsobjecten toonde vlakken i.p.v. lijnen  
@@ -12,7 +12,7 @@ Een bug waarbij de downloadlijst van de Selectie op kaart functionaliteit initie
 _De Selectie op kaart functionaliteit is momenteel alleen beschikbaar op de proefomgeving (acc.geluidgegevens.nl)_
 
 ## Release 0.92
-Productieomgeving: 8 oktober 2024
+Productieomgeving: 8 oktober 2024  
 Proefomgeving: 7 oktober 2024
 
 - Geen foutmeldingen meer bij afbreken van "Download alles"  
