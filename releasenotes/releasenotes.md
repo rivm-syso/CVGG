@@ -1,5 +1,16 @@
 # Release notes CVGG
 
+## Release 0.93
+Productieomgeving: 10 oktober 2024
+Proefomgeving: 10 oktober 2024
+
+- Kaartlaag overdrachtsobjecten toonde vlakken i.p.v. lijnen  
+Overdrachtsobjecten op de kaart werden getoond als vlakken. Dat is nu rechtgetrokken. De overdrachtsobjecten worden weer als lijnen getoond.
+
+- Downloadlijst initieel zichtbaar op verkeerde pagina opgelost  
+Een bug waarbij de downloadlijst van de Selectie op kaart functionaliteit initieel te zien was op de Losse bestanden pagina is opgelost.  
+_De Selectie op kaart functionaliteit is momenteel alleen beschikbaar op de proefomgeving (acc.geluidgegevens.nl)_
+
 ## Release 0.92
 Productieomgeving: 8 oktober 2024
 Proefomgeving: 7 oktober 2024
