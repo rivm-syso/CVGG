@@ -1,5 +1,61 @@
 # Release notes CVGG
 
+# Release 0.96  
+Productieomgeving: 28 november 2024  
+Proefomgeving: 21 november 2024
+
+**Nieuwe functionaliteiten en verbeteringen:**  
+- Kaart: Geluidaandachtsgebieden beter zichtbaar op de kaart  
+Geluidaandachtsgebieden zijn beter zichtbaar op de kaart.  
+- Kaart: Zoomniveau op hele getallen ingesteld  
+Het zoomniveau van de kaartviewer is op hele getallen ingesteld.  
+- Validatieregel: Controle op unieke GML-ID's  
+Er is een validatieregel (waarschuwing)  toegevoegd die controleert of Geluidproductieplafondobjecten en Basisgeluidemissieobjecten met éénzelfde gml-id daadwerkelijk uniek zijn.  
+- Validatieregel: Leesbare karakters in verplichte attributen  
+Een validatieregel (niet conform IMGeluid)  is toegevoegd om ervoor te zorgen dat verplichte attributen leesbare karakters bevatten.  
+- Uitleverbestand: Industrieterreinen toegevoegd  
+Industrieterreinen zijn toegevoegd aan het losse uitleverbestand brongegevens monitoring.  
+- Uitleverbestand: Geluidgegevenscollectie van vaststelling toegevoegd  
+Er zijn extra GGC-features toegevoegd aan de losse uitleverbestanden voor monitoringresultaten.  
+- Helpteksten gestyled  
+De styling van de helpteksten is verbeterd.  
+ 
+**Opgeloste bugs:**  
+- Alle gegevens zichtbaar bij uitgeschakelde vinkjes in legenda  
+Een bug waarbij alle gegevens werden weergegeven wanneer alle vinkjes in de legenda waren uitgeschakeld, is opgelost.  
+- Opties op de kaart zijn nu goed uit te vinken  
+Een bug waarbij vinkjes op de kaart niet konden worden uitgevinkt, is opgelost.  
+- Hoogtelijnen ten onrechte zichtbaar bij provinciale wegen  
+Een probleem waarbij hoogtelijnen ten onrechte zichtbaar waren op de publieke voor provinciale wegen is opgelost  
+- Fout bij navigeren - "Organisatie onbekend"  
+Een probleem bij het navigeren als de organisatie onbekend was, is opgelost.  
+- Probleem met het verwijderen van bestanden opgelost  
+Onjuist gedrag bij het verwijderen van een bestand is opgelost.  
+- Probleem met afsluiten van helpfunctionaliteit opgelost  
+Een bug waarbij de applicatie naar links verschoof na het sluiten van de helpfunctionaliteit, is verholpen.  
+- Probleem met te lange tekst in hyperlink opgelost  
+Een bug waarbij de "Service niet beschikbaar"-pagina werd weergegeven bij een te lange tekst in het "Tekst hyperlink"-veld is opgelost.  
+
+**Onder de motorkap**  
+Filtering lagen en sublagen op basis van zoomniveau  
+De kaartviewer filtert nu lagen en sublagen op basis van het zoomniveau.  
+- E-Herkenning migratie naar Signicat  
+De E-Herkenning-functionaliteit is succesvol gemigreerd naar een andere eHerkenningmakelaar: Signicat  
+- Swagger-UI-webpagina voor externe API's  
+Er is een Swagger-UI-webpagina toegevoegd. In de toekomst zullen hier publiek toegankelijke REST-API’s gepubliceerd en gedocumenteerd worden.  
+- Opruimen oude geojson-bestanden  
+Oude geojson-bestanden zijn opgeruimd.  
+- API-aanroepen met verkeerde specificaties geblokkeerd  
+Er is een blokkade toegevoegd voor API-aanroepen zonder of met verkeerde specificaties.  
+- Dubbele data in cache voor GPP-popup voorkomen  
+Een bug waarbij dubbele data in de cache werd opgeslagen voor de GPP-popup, is opgelost.  
+- API-aanroepen met verkeerde specificaties geblokkeerd  
+Er is een blokkade toegevoegd voor API-aanroepen zonder of met verkeerde specificaties.  
+- GeoServer webconsole probleem opgelost  
+Een bug waarbij de GeoServer webconsole een HTTP 302 foutmelding gaf wanneer er meer dan één pod draaide, is opgelost.  
+- GetCapabilities inline uitserveren  
+- De Geoserver Proxy serveert nu de GetCapabilities inline in plaats van als attachment.  
+
 ## Release 0.93
 Productieomgeving: 10 oktober 2024  
 Proefomgeving: 10 oktober 2024
