@@ -5,18 +5,18 @@ Productieomgeving: 28 november 2024
 Proefomgeving: 21 november 2024
 
 **Nieuwe functionaliteiten en verbeteringen:**  
-- Kaart: Geluidaandachtsgebieden beter zichtbaar op de kaart  
-Geluidaandachtsgebieden zijn beter zichtbaar op de kaart.  
+- Kaart: Geluidaandachtsgebieden beter zichtbaar op de kaart
+De transperantie instellingen van de geluidaandachtsgebieden zijn aangepast. 
 - Kaart: Zoomniveau op hele getallen ingesteld  
 Het zoomniveau van de kaartviewer is op hele getallen ingesteld.  
 - Validatieregel: Controle op unieke GML-ID's  
 Er is een validatieregel (waarschuwing)  toegevoegd die controleert of Geluidproductieplafondobjecten en Basisgeluidemissieobjecten met éénzelfde gml-id daadwerkelijk uniek zijn.  
 - Validatieregel: Leesbare karakters in verplichte attributen  
-Een validatieregel (niet conform IMGeluid)  is toegevoegd om ervoor te zorgen dat verplichte attributen leesbare karakters bevatten.  
+Een validatieregel (niet conform IMGeluid) is toegevoegd om ervoor te zorgen dat verplichte attributen leesbare karakters bevatten.  
 - Uitleverbestand: Industrieterreinen toegevoegd  
 Industrieterreinen zijn toegevoegd aan het losse uitleverbestand brongegevens monitoring.  
-- Uitleverbestand: Geluidgegevenscollectie van vaststelling toegevoegd  
-Er zijn extra GGC-features toegevoegd aan de losse uitleverbestanden voor monitoringresultaten.  
+- Uitleverbestand: Geluidgegevenscollectie van type vaststelling toegevoegd  
+Er zijn extra Geluidgegevenscollectie-features toegevoegd aan de losse uitleverbestanden voor monitoringresultaten.  
 - Helpteksten gestyled  
 De styling van de helpteksten is verbeterd.  
  
@@ -26,18 +26,18 @@ Een bug waarbij alle gegevens werden weergegeven wanneer alle vinkjes in de lege
 - Opties op de kaart zijn nu goed uit te vinken  
 Een bug waarbij vinkjes op de kaart niet konden worden uitgevinkt, is opgelost.  
 - Hoogtelijnen ten onrechte zichtbaar bij provinciale wegen  
-Een probleem waarbij hoogtelijnen ten onrechte zichtbaar waren op de publieke voor provinciale wegen is opgelost  
+Een probleem waarbij hoogtelijnen ten onrechte zichtbaar waren op de publieke kaart voor provinciale wegen is opgelost  
 - Fout bij navigeren - "Organisatie onbekend"  
 Een probleem bij het navigeren als de organisatie onbekend was, is opgelost.  
 - Probleem met het verwijderen van bestanden opgelost  
 Onjuist gedrag bij het verwijderen van een bestand is opgelost.  
 - Probleem met afsluiten van helpfunctionaliteit opgelost  
 Een bug waarbij de applicatie naar links verschoof na het sluiten van de helpfunctionaliteit, is verholpen.  
-- Probleem met te lange tekst in hyperlink opgelost  
+- Probleem met te lange tekst in hyperlink bij berichten  
 Een bug waarbij de "Service niet beschikbaar"-pagina werd weergegeven bij een te lange tekst in het "Tekst hyperlink"-veld is opgelost.  
 
 **Onder de motorkap**  
-Filtering lagen en sublagen op basis van zoomniveau  
+- Filtering lagen en sublagen op basis van zoomniveau  
 De kaartviewer filtert nu lagen en sublagen op basis van het zoomniveau.  
 - E-Herkenning migratie naar Signicat  
 De E-Herkenning-functionaliteit is succesvol gemigreerd naar een andere eHerkenningmakelaar: Signicat  
@@ -49,12 +49,10 @@ Oude geojson-bestanden zijn opgeruimd.
 Er is een blokkade toegevoegd voor API-aanroepen zonder of met verkeerde specificaties.  
 - Dubbele data in cache voor GPP-popup voorkomen  
 Een bug waarbij dubbele data in de cache werd opgeslagen voor de GPP-popup, is opgelost.  
-- API-aanroepen met verkeerde specificaties geblokkeerd  
-Er is een blokkade toegevoegd voor API-aanroepen zonder of met verkeerde specificaties.  
 - GeoServer webconsole probleem opgelost  
 Een bug waarbij de GeoServer webconsole een HTTP 302 foutmelding gaf wanneer er meer dan één pod draaide, is opgelost.  
 - GetCapabilities inline uitserveren  
-- De Geoserver Proxy serveert nu de GetCapabilities inline in plaats van als attachment.  
+De Geoserver Proxy serveert nu de GetCapabilities inline in plaats van als attachment.  
 
 ## Release 0.93
 Productieomgeving: 10 oktober 2024  
@@ -62,7 +60,6 @@ Proefomgeving: 10 oktober 2024
 
 - Kaartlaag overdrachtsobjecten toonde vlakken i.p.v. lijnen  
 Overdrachtsobjecten op de kaart werden getoond als vlakken. Dat is nu rechtgetrokken. De overdrachtsobjecten worden weer als lijnen getoond.
-
 - Downloadlijst initieel zichtbaar op verkeerde pagina opgelost  
 Een bug waarbij de downloadlijst van de Selectie op kaart functionaliteit initieel te zien was op de Losse bestanden pagina is opgelost.  
 _De Selectie op kaart functionaliteit is momenteel alleen beschikbaar op de proefomgeving (acc.geluidgegevens.nl)_
@@ -73,7 +70,6 @@ Proefomgeving: 7 oktober 2024
 
 - Geen foutmeldingen meer bij afbreken van "Download alles"  
 Een probleem waarbij ten onrechte een foutmelding werd gelogd wanneer het "Download alles"-proces in "Losse bestanden" werd afgebroken, is opgelost.
-
 - Aanpassingen gedaan waardoor technisch applicatiebeheer geen onnodige logregels ontvangt.
 
 ## Release 0.90
@@ -82,16 +78,12 @@ Proefomgeving: 30 september 2024
 
 - Helpteksten toegevoegd  
 De structuur voor helpteksten is opgezet en toegevoegd aan het systeem voor een betere ondersteuning van gebruikers. De helpteksten zullen langzaam gevuld worden.
-
 - RSS-feed toegevoegd aan berichtenservice  
 Er is een nieuwe RSS-feed beschikbaar, zodat gebruikers op de hoogte kunnen blijven van updates in de berichtenservice.
-
 - Gebruik van WMS-kaarten in plaats van geojsons  
 De kaart werkt vanaf nu met WMS in plaats van geojsons, wat zorgt voor een efficiëntere en nauwkeurigere kaartweergave.
-
 - Toevoeging van objecten aan losse bestanden voor monitoringresultaten  
 De objecten waarnaar in het bestand verwezen wordt zijn toegevoegd aan het bestand zelf zodat je deze niet meer in andere bestanden hoeft op te zoeken.
-
 - Probleem met hoofdspoor kaartlaag opgelost  
 Een bug waarbij het opvragen van alleen de hoofdspoor kaartlaag fout ging, is opgelost.
 
@@ -107,22 +99,16 @@ Proefomgeving: 2 september 2024
 
 - Geen ALL CAPS bij Uitleveren Losse bestanden  
 Het systeem gebruikt nu geen hoofdletters meer bij het uitleveren van losse bestanden, voor een consistentere en beter leesbare weergave._
-
 - Losse uitleverbestanden: Download alles - Spinner  
 Bij het downloaden van alle losse uitleverbestanden is er nu een spinner (laadicoon) toegevoegd om aan te geven dat het systeem bezig is met de download._
-
 - Tekstuele aanpassingen Documentatie  
 Er zijn diverse tekstuele verbeteringen doorgevoerd in de documentatie voor een betere leesbaarheid en consistentie._ 
-
 - Opgeloste bug:  
 Lokale spoorweg BGE en GPP vervangen elkaar niet meer bij publicatie
-
 - Alleen vaststellingen tonen in de WMS  
 De WMS toont nu uitsluitend gegevens van het type vaststelling, waardoor de weergave duidelijker en relevanter is voor de gebruiker._
-
 - Validatiemeldingen verslag: max. 3x ‘Het maximale meldingen overschreden’  
 Om de gebruiksvriendelijkheid te verbeteren, wordt de validatiemelding 'Het maximale aantal meldingen is overschreden' nu één keer weergegeven per type 'Ernst melding' (blokkerend, waarschuwing, niet conform IMGeluid), in totaal maximaal drie keer. Het aantal foutmeldingen per type 'Ernst melding' is 250.
-
 - Waarschuwende validatie: documentverwijzing bij aanleveren BGE verplicht  
 Volgens het IMG is een documentverwijzing bij aanlevering van een bestand BGE nog niet verplicht. De waarschuwende validatie attendeert de gebruiker er op dat deze documentverwijzing wel verplicht gaat worden.
 
