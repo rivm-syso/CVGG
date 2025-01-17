@@ -1,5 +1,28 @@
 # Release notes CVGG
 
+# Release 1.00
+Productieomgeving: 17 januari 2025  
+Proefomgeving: 14 januari 2025
+
+**Algemeen:**  
+-	We hebben de beheertool uitgebreid zodat autorisaties gedifferentieerd kunnen worden naar geluidbron.
+**Nieuwe functionaliteiten en verbeteringen:**  
+-	Uitleveren losse bestanden
+Het is nu mogelijk om bij het monitoringresultaat en de brongegevens monitoring te selecteren op jaar
+-	Ongepubliceerd bericht wijzigen
+Op de wijzigingspagina van een ongepubliceerd bericht wordt duidelijk gemaakt dat deze aangepast kan worden.
+-	Melding bij verkeerd compressie-algoritme
+Bij het gebruik van het compressie-algoritme Deflate64 krijgt de gebruiker de melding “U heeft het compressie-algoritme Deflate64 gebruikt voor het genereren van het ZIP-bestand. Dit kan problemen opleveren bij het inlezen.“
+
+**Opgeloste bugs:**  
+- Kaart: correct kleurgebruik bij hoofdspoor - GPP
+Een bug waarbij het hoofdspoor in het rood werd getekend waar de legenda blauw suggereert is opgelost
+
+**Onder de motorkap**  
+-	Er vindt nu een validatie plaats op het gebruik van organisatietype bij het inlezen van autorisaties 
+-	Opruimen oude databasetabellen
+-	Het wordt mogelijk gemaakt om aanpassingen te maken in gepubliceerde berichten.
+
 # Release 0.96  
 Productieomgeving: 28 november 2024  
 Proefomgeving: 21 november 2024
