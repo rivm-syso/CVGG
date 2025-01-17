@@ -6,6 +6,7 @@ Proefomgeving: 14 januari 2025
 
 **Algemeen:**  
 -	We hebben de beheertool uitgebreid zodat autorisaties gedifferentieerd kunnen worden naar geluidbron.
+
 **Nieuwe functionaliteiten en verbeteringen:**  
 -	Uitleveren losse bestanden
 Het is nu mogelijk om bij het monitoringresultaat en de brongegevens monitoring te selecteren op jaar
