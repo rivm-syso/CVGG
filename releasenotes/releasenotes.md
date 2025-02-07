@@ -1,5 +1,25 @@
 # Release notes CVGG
 
+# Release 1.01
+
+Productieomgeving: 03 februari 2025  
+Proefomgeving: 28 januari 2025
+
+De afgelopen sprint was een Lifecycle Management (LCM) sprint. Daarom hebben we dit keer geen nieuwe gebruikersfunctionaliteiten toegevoegd; in plaats daarvan hebben we onderhoud uitgevoerd aan onze applicatie. Enkele onderhoudspunten:
+ 
+**Algemeen:**
+
+Wij hebben de performance van de beheertool uitgebreid door het toevoegen van pagineren
+ 
+**Onder de motorkap**
+
+Java upgrade naar nieuwe LTS versie 21
+
+Om de CVGG toekomstbestendig te houden zijn we overgestapt op een nieuwe versie van Java
+ 
+Verbeteren logging
+
+Er werd onnodige technische informatie gelogd. Het aantal logregels is hiermee verminderd, zodat de logging overzichtelijker is.
 # Release 1.00
 Productieomgeving: 17 januari 2025  
 Proefomgeving: 14 januari 2025
