@@ -38,7 +38,6 @@ Wij hebben de performance van de beheertool uitgebreid door het toevoegen van pa
  
 **Onder de motorkap**
 
-Om de CVGG toekomstbestendig te houden zijn we overgestapt op een nieuwe versie van Java
  
 Verbeteren logging
 
