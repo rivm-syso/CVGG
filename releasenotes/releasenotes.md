@@ -1,5 +1,30 @@
 # Release notes CVGG
 
+# Release 1.02
+
+Productueomgeving: 05 maart 2025
+Proefomgeving: 04 maart 2025
+
+**Nieuwe functionaliteiten**
+
+Gepubliceerd bericht wijzigen
+
+- Gepubliceerde berichten kunnen nu worden gewijzigd om kleine tekstuele aanpassingen te doen. 
+- Het is mogelijk om het type van een bericht aan te passen bij "Bericht over Besluit" en "Mededeling".
+- Het is niet mogelijk om de publicatie datum te wijzigen
+
+Opvolgberichten maken
+
+- Het is nu mogelijk om een opvolgbericht te maken op een gepubliceerd bericht. 
+
+**Opgeloste bugs**
+
+Verkeerd type melding bij teveel waarschuwingen
+
+**Onder de motorkap** 
+
+Oplossen pentest bevindingen
+
 # Release 1.01
 
 Productieomgeving: 03 februari 2025  
@@ -12,8 +37,6 @@ De afgelopen sprint was een Lifecycle Management (LCM) sprint. Daarom hebben we 
 Wij hebben de performance van de beheertool uitgebreid door het toevoegen van pagineren
  
 **Onder de motorkap**
-
-Java upgrade naar nieuwe LTS versie 21
 
 Om de CVGG toekomstbestendig te houden zijn we overgestapt op een nieuwe versie van Java
  
