@@ -1,5 +1,30 @@
 # Release notes CVGG
 
+# Release 1.03
+
+Productieomgeving: 02 april 2025
+Proefomgeving: 27 maart 2025
+
+**Nieuwe functionaliteiten**
+
+Bij nieuwe bestanden met validatiemeldingen wordt de naam van het Objecttype opgenomen per melding. Zodat het beter te traceren is waar de validatie opgelost moet worden.
+
+De helpteksten op de webpagina zijn beter aanpasbaar aan de breedte van het scherm. 
+
+**Opgeloste bugs**
+
+Bij samengestelde uitleverbestanden wordt alleen een bestand met validatiemeldingen meegeleverd als er validatiemeldingen aanwezig zijn bij het betreffende bestand.
+
+Bij het inloggen na een verlopen sessie geen onbekende foutmeldingen meer
+
+**Onder de motorkap** 
+
+Voorbereidingen voor de Validatie-API
+
+Logging verbeteren
+
+Verbeteringen in de digitoegankelijkheid van CVGG
+
 # Release 1.02
 
 Productueomgeving: 05 maart 2025

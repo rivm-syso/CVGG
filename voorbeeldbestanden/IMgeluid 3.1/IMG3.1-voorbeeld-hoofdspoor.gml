@@ -5300,7 +5300,7 @@
       <img:bovenbouw>
         <img:bovenbouwcode>1</img:bovenbouwcode>
         <img:spoorstaafonderbreking>1</img:spoorstaafonderbreking>
-        <img:spoorstaafruwheidMiddelsMeting xlink:href="NL.img.30276683.spoorstaafruwheidswaarde-1.1"></img:spoorstaafruwheidMiddelsMeting>
+        <img:spoorstaafruwheidMiddelsMeting xlink:href="#NL.img.30276683.spoorstaafruwheidswaarde-1.1"></img:spoorstaafruwheidMiddelsMeting>
       </img:bovenbouw>
       <img:intensiteit>
         <img:intensiteit>24</img:intensiteit>
