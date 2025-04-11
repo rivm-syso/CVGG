@@ -1,8 +1,23 @@
 # Release notes CVGG
 
+# Release 1.04
+ 
+Productieomgeving: 11 april 2025
+
+Proefomgeving: 10 april 2025
+
+Voor een goede werking van de keten moet de data in de CVGG aan bepaalde eisen voldoen. Deze zijn vastgelegd in het IMG en de Uitwisselstandaard CVGG. Wanneer een bronhouder echt niet kan voldoen aan deze eisen, kan er voor gekozen worden een uitzondering toe te staan. We hebben het nu mogelijk gemaakt om deze uitzondering alleen toe te staan voor bronhouders die echt (nog) niet kunnen voldoen.
+ 
+ 
+**Opgeloste bugs**
+ 
+In uitzonderlijke gevallen was het niet mogelijk een aangeleverd bestand te verwijderen.
+ 
+
 # Release 1.03
 
 Productieomgeving: 02 april 2025
+
 Proefomgeving: 27 maart 2025
 
 **Nieuwe functionaliteiten**
