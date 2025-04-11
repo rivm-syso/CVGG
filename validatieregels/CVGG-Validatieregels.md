@@ -1,3 +1,10 @@
+#### Toelichting op kolom 'Ernst' (meldingen)
+
+- Blokkerend: het bestand kan niet worden aangeleverd
+- Niet-conform IMG: in principe blokkerend, tijdelijke uitzondering van kracht
+- Waarschuwing: het bestand kan wel worden aangeleverd
+
+
 |Nr      |CVGG Release|Ernst| Beschrijving|                                                                                                                                                                                                                                                                                                                                           
 |--------|------------|-----|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |CVGG187|0.96      |Niet conform IMGeluid| Terrein.naam. Dit attribuut  bevat een leesbaar karakter waarvoor de volgende reguliere expressie geldt: <xs:pattern value="\S.*"/> |
