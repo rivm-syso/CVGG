@@ -1,5 +1,24 @@
 # Release notes CVGG
 
+# Release 1.06
+Productieomgeving: 08 mei 2025
+
+Proefomgeving: 08 mei 2025
+
+**Nieuwe functionaliteiten**
+
+De validatie API is beschikbaar op Swagger. Een directe link vanuit de Oefenomgeving volgt nog. Om deze te gebruiken is een API-key nodig.
+
+Onder Beheer in het Geluidregister op de Oefenomgeving (!) is het mogelijk om een API-Key aan te maken en te beheren.
+
+De Swagger is vernieuwd en bevat documentatie over het gebruik van de validatie API.
+ 
+***Opgeloste bugs**
+
+Bij het samengestelde uitleverbestand AKOESTISCH_ONDERZOEK ontbrak de feature GeluidschermMetDiffractor. Deze is nu toegevoegd.
+ 
+Een bug op de kaart is opgelost zodat er geen "NO_LAYERS" foutmeldingen worden getoond
+
 # Release 1.04
  
 Productieomgeving: 11 april 2025
