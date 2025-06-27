@@ -1,5 +1,23 @@
 # Release notes CVGG
 
+# Release 1.09
+Productieomgeving: 25 juni 2025
+
+Proefomgeving: 25 juni 2025
+
+**Nieuwe functionaliteiten**
+
+De nieuwe selectie op kaart is beschikbaar op de Oefenomgeving. Hierbij wordt een selectie van de features uit de uitleverbestanden gemaakt op basis van de opgegeven geometrie. Standaard wordt een buffer toegevoegd aan de geometrie, deze kan door de gebruiker uitgezet worden. Het is mogelijk om de download te annuleren indien deze niet meer gewenst is.
+
+De POC voor DSO aandachtsgebieden is beschikbaar voor het voorbereiden van de aansluiting bij het Digitaal Stelsel Omgevingswet(DSO)
+
+De documentatie voor de validatie API is beschikbaar vanuit het hoofdmenu
+
+**Opgeloste bugs**
+
+De monitoringswaarde Lnight op de kaart wordt alleen getoond bij industrieterrein
+
+
 # Release 1.06
 Productieomgeving: 08 mei 2025
 
