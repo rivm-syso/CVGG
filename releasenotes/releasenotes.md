@@ -1,5 +1,24 @@
 # Release notes CVGG
 
+# Release 1.14
+Proefomgeving: 18 augustus 2025
+
+Productieomgeving 18 augustus 2025
+
+**Verbeterde functionaliteiten**
+De performance van de kaartviewer is geoptimaliseerd, zodat er door meerdere gebruikers tegelijkertijd gebruik van gemaakt kan worden.
+
+
+# Release 1.11
+Proefomgeving: 17 juli 2025
+
+Productieomgeving: 18 juli 2025
+
+**Opgeloste bugs**
+Monitoringresultaten werden niet altijd getoond in de kaart. Dit is opgelost.
+ 
+De uitleverbestanden van de monitoringsresultaten bevatten soms duplicate geluidgegevenscollecties. Hierdoor werden de bestanden erg groot. Dit is opgelost.
+
 # Release 1.09
 Productieomgeving: 25 juni 2025
 
