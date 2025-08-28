@@ -6,7 +6,7 @@ Proefomgeving: 18 augustus 2025
 Productieomgeving 18 augustus 2025
 
 **Verbeterde functionaliteiten**
-De performance van de kaartviewer is geoptimaliseerd, zodat er door meerdere gebruikers tegelijkertijd gebruik van gemaakt kan worden.
+- De performance van de kaartviewer is geoptimaliseerd, zodat er door meerdere gebruikers tegelijkertijd gebruik van gemaakt kan worden.
 
 
 # Release 1.11
@@ -15,9 +15,8 @@ Proefomgeving: 17 juli 2025
 Productieomgeving: 18 juli 2025
 
 **Opgeloste bugs**
-Monitoringresultaten werden niet altijd getoond in de kaart. Dit is opgelost.
- 
-De uitleverbestanden van de monitoringsresultaten bevatten soms duplicate geluidgegevenscollecties. Hierdoor werden de bestanden erg groot. Dit is opgelost.
+- Monitoringresultaten werden niet altijd getoond in de kaart. Dit is opgelost.
+- De uitleverbestanden van de monitoringsresultaten bevatten soms duplicate geluidgegevenscollecties. Hierdoor werden de bestanden erg groot. Dit is opgelost.
 
 # Release 1.09
 Productieomgeving: 25 juni 2025
@@ -26,15 +25,13 @@ Proefomgeving: 25 juni 2025
 
 **Nieuwe functionaliteiten**
 
-De nieuwe selectie op kaart is beschikbaar op de Oefenomgeving. Hierbij wordt een selectie van de features uit de uitleverbestanden gemaakt op basis van de opgegeven geometrie. Standaard wordt een buffer toegevoegd aan de geometrie, deze kan door de gebruiker uitgezet worden. Het is mogelijk om de download te annuleren indien deze niet meer gewenst is.
-
-De POC voor DSO aandachtsgebieden is beschikbaar voor het voorbereiden van de aansluiting bij het Digitaal Stelsel Omgevingswet(DSO)
-
-De documentatie voor de validatie API is beschikbaar vanuit het hoofdmenu
+- De nieuwe selectie op kaart is beschikbaar op de Oefenomgeving. Hierbij wordt een selectie van de features uit de uitleverbestanden gemaakt op basis van de opgegeven geometrie. Standaard wordt een buffer toegevoegd aan de geometrie, deze kan door de gebruiker uitgezet worden. Het is mogelijk om de download te annuleren indien deze niet meer gewenst is.
+- De POC voor DSO aandachtsgebieden is beschikbaar voor het voorbereiden van de aansluiting bij het Digitaal Stelsel Omgevingswet(DSO)
+- De documentatie voor de validatie API is beschikbaar vanuit het hoofdmenu
 
 **Opgeloste bugs**
 
-De monitoringswaarde Lnight op de kaart wordt alleen getoond bij industrieterrein
+- De monitoringswaarde Lnight op de kaart wordt alleen getoond bij industrieterrein
 
 
 # Release 1.06
@@ -44,17 +41,14 @@ Proefomgeving: 08 mei 2025
 
 **Nieuwe functionaliteiten**
 
-De validatie API is beschikbaar op Swagger. Een directe link vanuit de Oefenomgeving volgt nog. Om deze te gebruiken is een API-key nodig.
-
-Onder Beheer in het Geluidregister op de Oefenomgeving (!) is het mogelijk om een API-Key aan te maken en te beheren.
-
-De Swagger is vernieuwd en bevat documentatie over het gebruik van de validatie API.
+- De validatie API is beschikbaar op Swagger. Een directe link vanuit de Oefenomgeving volgt nog. Om deze te gebruiken is een API-key nodig.
+- Onder Beheer in het Geluidregister op de Oefenomgeving (!) is het mogelijk om een API-Key aan te maken en te beheren.
+- De Swagger is vernieuwd en bevat documentatie over het gebruik van de validatie API.
  
-***Opgeloste bugs**
+**Opgeloste bugs**
 
-Bij het samengestelde uitleverbestand AKOESTISCH_ONDERZOEK ontbrak de feature GeluidschermMetDiffractor. Deze is nu toegevoegd.
- 
-Een bug op de kaart is opgelost zodat er geen "NO_LAYERS" foutmeldingen worden getoond
+- Bij het samengestelde uitleverbestand AKOESTISCH_ONDERZOEK ontbrak de feature GeluidschermMetDiffractor. Deze is nu toegevoegd.
+- Een bug op de kaart is opgelost zodat er geen "NO_LAYERS" foutmeldingen worden getoond
 
 # Release 1.04
  
@@ -62,12 +56,12 @@ Productieomgeving: 11 april 2025
 
 Proefomgeving: 10 april 2025
 
-Voor een goede werking van de keten moet de data in de CVGG aan bepaalde eisen voldoen. Deze zijn vastgelegd in het IMG en de Uitwisselstandaard CVGG. Wanneer een bronhouder echt niet kan voldoen aan deze eisen, kan er voor gekozen worden een uitzondering toe te staan. We hebben het nu mogelijk gemaakt om deze uitzondering alleen toe te staan voor bronhouders die echt (nog) niet kunnen voldoen.
+- Voor een goede werking van de keten moet de data in de CVGG aan bepaalde eisen voldoen. Deze zijn vastgelegd in het IMG en de Uitwisselstandaard CVGG. Wanneer een bronhouder echt niet kan voldoen aan deze eisen, kan er voor gekozen worden een uitzondering toe te staan. We hebben het nu mogelijk gemaakt om deze uitzondering alleen toe te staan voor bronhouders die echt (nog) niet kunnen voldoen.
  
  
 **Opgeloste bugs**
  
-In uitzonderlijke gevallen was het niet mogelijk een aangeleverd bestand te verwijderen.
+- In uitzonderlijke gevallen was het niet mogelijk een aangeleverd bestand te verwijderen.
  
 
 # Release 1.03
@@ -78,27 +72,24 @@ Proefomgeving: 27 maart 2025
 
 **Nieuwe functionaliteiten**
 
-Bij nieuwe bestanden met validatiemeldingen wordt de naam van het Objecttype opgenomen per melding. Zodat het beter te traceren is waar de validatie opgelost moet worden.
-
-De helpteksten op de webpagina zijn beter aanpasbaar aan de breedte van het scherm. 
+- Bij nieuwe bestanden met validatiemeldingen wordt de naam van het Objecttype opgenomen per melding. Zodat het beter te traceren is waar de validatie opgelost moet worden.
+- De helpteksten op de webpagina zijn beter aanpasbaar aan de breedte van het scherm. 
 
 **Opgeloste bugs**
 
-Bij samengestelde uitleverbestanden wordt alleen een bestand met validatiemeldingen meegeleverd als er validatiemeldingen aanwezig zijn bij het betreffende bestand.
-
-Bij het inloggen na een verlopen sessie geen onbekende foutmeldingen meer
+- Bij samengestelde uitleverbestanden wordt alleen een bestand met validatiemeldingen meegeleverd als er validatiemeldingen aanwezig zijn bij het betreffende bestand.
+- Bij het inloggen na een verlopen sessie geen onbekende foutmeldingen meer
 
 **Onder de motorkap** 
 
-Voorbereidingen voor de Validatie-API
-
-Logging verbeteren
-
-Verbeteringen in de digitoegankelijkheid van CVGG
+- Voorbereidingen voor de Validatie-API
+- Logging verbeteren
+- Verbeteringen in de digitoegankelijkheid van CVGG
 
 # Release 1.02
 
-Productueomgeving: 05 maart 2025
+Productieomgeving: 05 maart 2025
+
 Proefomgeving: 04 maart 2025
 
 **Nieuwe functionaliteiten**
@@ -115,31 +106,31 @@ Opvolgberichten maken
 
 **Opgeloste bugs**
 
-Verkeerd type melding bij teveel waarschuwingen
+- Verkeerd type melding bij teveel waarschuwingen
 
 **Onder de motorkap** 
 
-Oplossen pentest bevindingen
+- Oplossen pentest bevindingen
 
 # Release 1.01
 
 Productieomgeving: 03 februari 2025  
+
 Proefomgeving: 28 januari 2025
 
 De afgelopen sprint was een Lifecycle Management (LCM) sprint. Daarom hebben we dit keer geen nieuwe gebruikersfunctionaliteiten toegevoegd; in plaats daarvan hebben we onderhoud uitgevoerd aan onze applicatie. Enkele onderhoudspunten:
  
 **Algemeen:**
 
-Wij hebben de performance van de beheertool uitgebreid door het toevoegen van pagineren
+- Wij hebben de performance van de beheertool uitgebreid door het toevoegen van pagineren
  
 **Onder de motorkap**
 
- 
-Verbeteren logging
+- Verbeteren logging. Er werd onnodige technische informatie gelogd. Het aantal logregels is hiermee verminderd, zodat de logging overzichtelijker is.
 
-Er werd onnodige technische informatie gelogd. Het aantal logregels is hiermee verminderd, zodat de logging overzichtelijker is.
 # Release 1.00
-Productieomgeving: 17 januari 2025  
+Productieomgeving: 17 januari 2025
+
 Proefomgeving: 14 januari 2025
 
 **Algemeen:**  
@@ -858,3 +849,4 @@ De gekozen systematiek voor de geluidbron lokaal spoor is nu ook onderscheidbaar
 Dit is verholpen. Ook de mobiele weergave toont nu de inlogknop.
 * In het voorbeeldbestand Vaststelling provinciale wegen miste de documentverwijzing in de geluidproductieplafondobjecten.
   Dit is opgelost. Het aangepaste voorbeeldbestand staat op github.
+
