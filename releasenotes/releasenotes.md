@@ -19,13 +19,13 @@ Productieomgeving: 18 juli 2025
 - De uitleverbestanden van de monitoringsresultaten bevatten soms duplicate geluidgegevenscollecties. Hierdoor werden de bestanden erg groot. Dit is opgelost.
 
 # Release 1.09
-Productieomgeving: 25 juni 2025
+Productieomgeving: 25 juni 2025; 'Selectie op de kaart' is beschikbaar vanaf 2 september 2025.
 
 Proefomgeving: 25 juni 2025
 
 **Nieuwe functionaliteiten**
 
-- De nieuwe selectie op kaart is beschikbaar op de Oefenomgeving. Hierbij wordt een selectie van de features uit de uitleverbestanden gemaakt op basis van de opgegeven geometrie. Standaard wordt een buffer toegevoegd aan de geometrie, deze kan door de gebruiker uitgezet worden. Het is mogelijk om de download te annuleren indien deze niet meer gewenst is.
+- De nieuwe selectie op kaart is eerst beschikbaar op de Oefenomgeving, later op de productieomgeving. Hierbij wordt een selectie van de features uit de uitleverbestanden gemaakt op basis van de opgegeven geometrie. Standaard wordt een buffer toegevoegd aan de geometrie, deze kan door de gebruiker uitgezet worden. Het is mogelijk om de download te annuleren indien deze niet meer gewenst is.
 - De POC voor DSO aandachtsgebieden is beschikbaar voor het voorbereiden van de aansluiting bij het Digitaal Stelsel Omgevingswet(DSO)
 - De documentatie voor de validatie API is beschikbaar vanuit het hoofdmenu
 
@@ -849,4 +849,5 @@ De gekozen systematiek voor de geluidbron lokaal spoor is nu ook onderscheidbaar
 Dit is verholpen. Ook de mobiele weergave toont nu de inlogknop.
 * In het voorbeeldbestand Vaststelling provinciale wegen miste de documentverwijzing in de geluidproductieplafondobjecten.
   Dit is opgelost. Het aangepaste voorbeeldbestand staat op github.
+
 
