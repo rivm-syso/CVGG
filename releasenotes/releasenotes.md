@@ -1,5 +1,23 @@
 # Release notes CVGG
 
+# Release 1.15
+Proefomgeving: 23 september 2025
+
+Productieomgeving 24 september 2025
+
+**Nieuwe functionaliteiten**
+
+Bij aanleveringen voor het Geluidregister in de CVGG dient een bronhouder en een geluidbron geselecteerd te worden die aangeleverd worden. Alleen de geluidbronnen waarvoor je geautoriseerd bent zijn te selecteren. Er wordt gevalideerd of het juiste type wordt aangeleverd.
+
+Bij aanleveringen voor de Validatie-API in de CVGG dient een bronhouder, geluidbron en systematiek geselecteerd te worden die aangeleverd worden voor validatie. Er wordt gevalideerd of het juiste type wordt aangeleverd.
+
+Deze aanpassingen waren noodzakelijk voor de functionaliteit Machtigingen die nu in ontwikkeling is.
+
+**Onder de motorkap** 
+
+Voorbereidingen voor machtigingen
+
+
 # Release 1.14
 Proefomgeving: 18 augustus 2025
 
