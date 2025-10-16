@@ -1,5 +1,22 @@
 # Release notes CVGG
 
+# Release 1.17
+Proefomgeving: 16 oktober 2025
+
+Productieomgeving: P.M.
+
+Deze versie komt uit een Lifecycle Management (LCM) sprint. Daarom hebben we dit keer geen nieuwe gebruikersfunctionaliteiten toegevoegd; in plaats daarvan hebben we onderhoud uitgevoerd aan onze applicatie.
+
+**Opgeloste problemen**
+
+Problemen bij het verwerken van END-aanleveringen (zoals definitief maken) opgelost
+
+**Onder de motorkap**
+
+Betere automatische testen
+Betere code-kwaliteit
+
+
 # Release 1.15
 Proefomgeving: 23 september 2025
 
@@ -13,7 +30,7 @@ Bij aanleveringen voor de Validatie-API in de CVGG dient een bronhouder, geluidb
 
 Deze aanpassingen waren noodzakelijk voor de functionaliteit Machtigingen die nu in ontwikkeling is.
 
-**Onder de motorkap** 
+**Onder de motorkap**
 
 Voorbereidingen voor machtigingen
 
