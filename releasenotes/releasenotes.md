@@ -1,5 +1,14 @@
 # Release notes CVGG
 
+# Release 1.18
+Proefomgeving: 22 oktober 2025
+
+Productieomgeving: 22 oktober 2025
+
+**Opgeloste problemen**
+
+Problemen bij het opvragen van voortgangsrapportages voor de richtlijn omgevingsgeluid zijn opgelost.
+
 # Release 1.17
 Proefomgeving: 16 oktober 2025
 
