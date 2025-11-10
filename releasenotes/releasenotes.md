@@ -1,5 +1,14 @@
 # Release notes CVGG
 
+# Release 1.20
+Proefomgeving: 10 november 2025
+
+Productieomgeving: P.M.
+
+**Opgeloste problemen**
+
+Problemen met het aanleveren van geluidregisterbestanden waar ge-encodeerde xml-karakters (&<>'") in staan, zijn opgelost.
+
 # Release 1.18
 Proefomgeving: 22 oktober 2025
 
