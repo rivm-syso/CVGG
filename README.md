@@ -2,7 +2,6 @@
 Op deze github pagina's wordt (technische) documentatie beschikbaar gesteld.
 
 ## Algemeen 
-- **Handleidingen gebruik CVGG**: Voor het oefenen met de CVGG is een beknopte handleiding opgesteld: [Handleiding voor de CVGG](https://www.rivm.nl/cvgg/hoofdmenu-cvgg/handleiding)
 - **Release notes**: Op deze pagina zijn de laatste wijzingen te vinden van de CVGG: [release notes](https://github.com/rivm-syso/CVGG/blob/main/releasenotes/releasenotes.md)
 
 ## Richtlijn Omgevingslawaai
