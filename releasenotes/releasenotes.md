@@ -1,5 +1,23 @@
 # Release notes CVGG
 
+# Release 1.23
+Proefomgeving: 12 december
+
+Productieomgeving: 12 december
+
+**Nieuwe functionaliteiten**
+
+Twee validatieregels zijn verhoogd in niveau van waarschuwing naar blokkerend, in voorbereiding op de wetgeving per 1 januari 2026. 
+- CVGG178: Wanneer Geluidproductieplafond.VastellingVanRechtwege is 'false' moet het objecttype Geluidproductieplafond een xlink met objecttype Documentverwijzing bevatten. 
+- CVGG179: Wanneer Geluidgegevenscollectie.type = ""vaststelling"" EN Geluidgegevenscollectie.systematiek = ""BGE"" moet de Geluidgegevenscollectie het objecttype Documentverwijzing bevatten.
+
+
+**Opgeloste bugs**
+
+Het was niet mogelijk om XML-escaped karakters te gebruiken in een GML. Dat is nu opgelost
+
+Bij het aanleveren van een bestand bleek dat het Geluidregister niet goed kon omgaan met bepaalde namespaces. Dit is nu opgelost.
+
 # Release 1.20
 Proefomgeving: 10 november 2025
 
