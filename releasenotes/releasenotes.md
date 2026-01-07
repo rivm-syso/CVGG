@@ -14,9 +14,8 @@ Twee validatieregels zijn verhoogd in niveau van waarschuwing naar blokkerend, i
 
 **Opgeloste bugs**
 
-Het was niet mogelijk om XML-escaped karakters te gebruiken in een GML. Dat is nu opgelost
-
-Bij het aanleveren van een bestand bleek dat het Geluidregister niet goed kon omgaan met bepaalde namespaces. Dit is nu opgelost.
+- Het was niet mogelijk om XML-escaped karakters te gebruiken in een GML. Dat is nu opgelost
+- Bij het aanleveren van een bestand bleek dat het Geluidregister niet goed kon omgaan met bepaalde namespaces. Dit is nu opgelost.
 
 # Release 1.20
 Proefomgeving: 10 november 2025
@@ -25,7 +24,7 @@ Productieomgeving: P.M.
 
 **Opgeloste problemen**
 
-Problemen met het aanleveren van geluidregisterbestanden waar ge-encodeerde xml-karakters (&<>'") in staan, zijn opgelost.
+- Problemen met het aanleveren van geluidregisterbestanden waar ge-encodeerde xml-karakters (&<>'") in staan, zijn opgelost.
 
 # Release 1.18
 Proefomgeving: 22 oktober 2025
@@ -34,24 +33,23 @@ Productieomgeving: 22 oktober 2025
 
 **Opgeloste problemen**
 
-Problemen bij het opvragen van voortgangsrapportages voor de richtlijn omgevingsgeluid zijn opgelost.
+- Problemen bij het opvragen van voortgangsrapportages voor de richtlijn omgevingsgeluid zijn opgelost.
 
 # Release 1.17
 Proefomgeving: 16 oktober 2025
 
 Productieomgeving: P.M.
 
-Deze versie komt uit een Lifecycle Management (LCM) sprint. Daarom hebben we dit keer geen nieuwe gebruikersfunctionaliteiten toegevoegd; in plaats daarvan hebben we onderhoud uitgevoerd aan onze applicatie.
+- Deze versie komt uit een Lifecycle Management (LCM) sprint. Daarom hebben we dit keer geen nieuwe gebruikersfunctionaliteiten toegevoegd; in plaats daarvan hebben we onderhoud uitgevoerd aan onze applicatie.
 
 **Opgeloste problemen**
 
-Problemen bij het verwerken van END-aanleveringen (zoals definitief maken) opgelost
+- Problemen bij het verwerken van END-aanleveringen (zoals definitief maken) opgelost
 
 **Onder de motorkap**
 
-Betere automatische testen
-Betere code-kwaliteit
-
+- Betere automatische testen
+- Betere code-kwaliteit
 
 # Release 1.15
 Proefomgeving: 23 september 2025
@@ -60,16 +58,14 @@ Productieomgeving 24 september 2025
 
 **Nieuwe functionaliteiten**
 
-Bij aanleveringen voor het Geluidregister in de CVGG dient een bronhouder en een geluidbron geselecteerd te worden die aangeleverd worden. Alleen de geluidbronnen waarvoor je geautoriseerd bent zijn te selecteren. Er wordt gevalideerd of het juiste type wordt aangeleverd.
-
-Bij aanleveringen voor de Validatie-API in de CVGG dient een bronhouder, geluidbron en systematiek geselecteerd te worden die aangeleverd worden voor validatie. Er wordt gevalideerd of het juiste type wordt aangeleverd.
+- Bij aanleveringen voor het Geluidregister in de CVGG dient een bronhouder en een geluidbron geselecteerd te worden die aangeleverd worden. Alleen de geluidbronnen waarvoor je geautoriseerd bent zijn te selecteren. Er wordt gevalideerd of het juiste type wordt aangeleverd.
+- Bij aanleveringen voor de Validatie-API in de CVGG dient een bronhouder, geluidbron en systematiek geselecteerd te worden die aangeleverd worden voor validatie. Er wordt gevalideerd of het juiste type wordt aangeleverd.
 
 Deze aanpassingen waren noodzakelijk voor de functionaliteit Machtigingen die nu in ontwikkeling is.
 
 **Onder de motorkap**
 
-Voorbereidingen voor machtigingen
-
+- Voorbereidingen voor machtigingen
 
 # Release 1.14
 Proefomgeving: 18 augustus 2025
@@ -920,5 +916,6 @@ De gekozen systematiek voor de geluidbron lokaal spoor is nu ook onderscheidbaar
 Dit is verholpen. Ook de mobiele weergave toont nu de inlogknop.
 * In het voorbeeldbestand Vaststelling provinciale wegen miste de documentverwijzing in de geluidproductieplafondobjecten.
   Dit is opgelost. Het aangepaste voorbeeldbestand staat op github.
+
 
 
