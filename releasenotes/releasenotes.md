@@ -1,5 +1,21 @@
 # Release notes CVGG
 
+# Release 1.25
+Proefomgeving: 6 januari 2026
+
+Productieomgeving: -
+
+**Nieuwe functionaliteiten**
+
+- Als gemachtigde berichten kunnen plaatsen.
+- Validatie op het gebruik van namespaces uitgebreid.
+- Bij gebruik van de validatie-api een standaardorganisatienaam gebruiken als de bronhouder niet bekend is in de CVGG.
+
+
+**Overig**
+
+- Performance-verbetering bij machtigingen en autorisaties.
+
 # Release 1.23
 Proefomgeving: 12 december
 
@@ -7,8 +23,8 @@ Productieomgeving: 12 december
 
 **Nieuwe functionaliteiten**
 
-Twee validatieregels zijn verhoogd in niveau van waarschuwing naar blokkerend, in voorbereiding op de wetgeving per 1 januari 2026. 
-- CVGG178: Wanneer Geluidproductieplafond.VastellingVanRechtwege is 'false' moet het objecttype Geluidproductieplafond een xlink met objecttype Documentverwijzing bevatten. 
+Twee validatieregels zijn verhoogd in niveau van waarschuwing naar blokkerend, in voorbereiding op de wetgeving per 1 januari 2026.
+- CVGG178: Wanneer Geluidproductieplafond.VastellingVanRechtwege is 'false' moet het objecttype Geluidproductieplafond een xlink met objecttype Documentverwijzing bevatten.
 - CVGG179: Wanneer Geluidgegevenscollectie.type = ""vaststelling"" EN Geluidgegevenscollectie.systematiek = ""BGE"" moet de Geluidgegevenscollectie het objecttype Documentverwijzing bevatten.
 
 
