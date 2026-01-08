@@ -8,6 +8,7 @@ Productieomgeving: -
 **Nieuwe functionaliteiten**
 
 - Als gemachtigde berichten kunnen plaatsen.
+- Filteren op organisatie van gepubliceerde berichten gebeurt nu op naam van bronhouder en gemachtigde op basis van vrije tekst
 - Validatie op het gebruik van namespaces uitgebreid.
 - Bij gebruik van de validatie-api een standaardorganisatienaam gebruiken als de bronhouder niet bekend is in de CVGG.
 
@@ -932,6 +933,7 @@ De gekozen systematiek voor de geluidbron lokaal spoor is nu ook onderscheidbaar
 Dit is verholpen. Ook de mobiele weergave toont nu de inlogknop.
 * In het voorbeeldbestand Vaststelling provinciale wegen miste de documentverwijzing in de geluidproductieplafondobjecten.
   Dit is opgelost. Het aangepaste voorbeeldbestand staat op github.
+
 
 
 
