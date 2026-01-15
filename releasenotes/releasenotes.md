@@ -1,5 +1,14 @@
 # Release notes CVGG
 
+# Release 1.26
+Proefomgeving: 15 januari 2026
+
+Productieomgeving: -
+
+**Herstelde fouten**
+
+- Wijzigen bronhouder van opvolgberichten is niet meer mogelijk.
+
 # Release 1.25
 Proefomgeving: 6 januari 2026
 
