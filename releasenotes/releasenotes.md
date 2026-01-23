@@ -6,15 +6,6 @@ Productieomgeving: -
 
 Performance/technische verbeteringen
 
-# Release 1.26
-Proefomgeving: 15 januari 2026
-
-Productieomgeving: -
-
-**Herstelde fouten**
-
-- Wijzigen bronhouder van opvolgberichten is niet meer mogelijk.
-
 # Release 1.25
 Proefomgeving: 6 januari 2026
 
@@ -948,6 +939,7 @@ De gekozen systematiek voor de geluidbron lokaal spoor is nu ook onderscheidbaar
 Dit is verholpen. Ook de mobiele weergave toont nu de inlogknop.
 * In het voorbeeldbestand Vaststelling provinciale wegen miste de documentverwijzing in de geluidproductieplafondobjecten.
   Dit is opgelost. Het aangepaste voorbeeldbestand staat op github.
+
 
 
 
