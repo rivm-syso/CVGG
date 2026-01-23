@@ -4,14 +4,16 @@
 Proefomgeving: 22 januari 2026
 Productieomgeving: -
 
-**Opgelost:**
-- Voorheen werden machtigingen vaak meerdere keren achter elkaar opgehaald uit de database, ook als een gebruiker niet was ingelogd. Dit zorgde voor veel extra, overbodige, aanroepen naar de backend en dit leverde onverwacht gedrag op. Met deze refactoring lossen we dit probleem op.
-- bug: Een gemachtigde of bronhouder had de mogelijkheid de bronhouder van een opvolgbericht bericht te wijzigen terwijl dit niet mag. Dit is met deze release opgelost.
+Performance/technische verbeteringen
 
-**Life Cycle Management (LCM)**
- - Overzicht mbt testdekking verbeterd in SonarQube rapportages
-	- In de restservices waarin detailgegevens van een ge-upload bestand worden geretourneerd, werden niet-technische
-	  namen geretourneerd. Veranderd door codes uit de API-richtlijnen 
+# Release 1.26
+Proefomgeving: 15 januari 2026
+
+Productieomgeving: -
+
+**Herstelde fouten**
+
+- Wijzigen bronhouder van opvolgberichten is niet meer mogelijk.
 
 # Release 1.25
 Proefomgeving: 6 januari 2026
@@ -946,6 +948,7 @@ De gekozen systematiek voor de geluidbron lokaal spoor is nu ook onderscheidbaar
 Dit is verholpen. Ook de mobiele weergave toont nu de inlogknop.
 * In het voorbeeldbestand Vaststelling provinciale wegen miste de documentverwijzing in de geluidproductieplafondobjecten.
   Dit is opgelost. Het aangepaste voorbeeldbestand staat op github.
+
 
 
 
