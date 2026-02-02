@@ -1,8 +1,18 @@
 # Release notes CVGG
 
+# Release 1.28
+Proefomgeving: 27 januari 2026
+Productieomgeving: -
+
+We hebben de afgelopen tijd achter de schermen verbeteringen doorgevoerd. Oude onderdelen zijn vervangen en het platform is verder aangescherpt. Daarnaast hebben we een aantal zaken verholpen
+
+**Opgeloste bugs**
+- Bij het intrekken van een publicatie zou de gebruiker, middels een dropdown menu, het bestand moeten kunnen kiezen wat gedepubliceerd dient te worden. Dit bleek niet meer te functioneren en is met deze release opgelost
+- Binnen RO kon een gemachtigde een bestand niet meer definitief maken via het detailscherm, ondanks het feit dat hij zelf eerder nog geen bestand definitief gemaakt heeft - opgelost.
+
 # Release 1.27
 Proefomgeving: 22 januari 2026
-Productieomgeving: -
+Productieomgeving: 22 januari 2026
 
 Performance/technische verbeteringen
 
@@ -939,6 +949,7 @@ De gekozen systematiek voor de geluidbron lokaal spoor is nu ook onderscheidbaar
 Dit is verholpen. Ook de mobiele weergave toont nu de inlogknop.
 * In het voorbeeldbestand Vaststelling provinciale wegen miste de documentverwijzing in de geluidproductieplafondobjecten.
   Dit is opgelost. Het aangepaste voorbeeldbestand staat op github.
+
 
 
 
