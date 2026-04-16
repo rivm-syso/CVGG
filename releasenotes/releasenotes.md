@@ -18,7 +18,10 @@ Proefomgeving: 22 januari 2026
 
 **Productiegang van machtigingen**
 
-Met de release van de machtigingen-epic is de volgende functionaliteit erbij gekomen. **De bronhouder** kan nu machtigingen aanmaken, wijzigen, verwijderen en bekijken welke machtigingen hij heeft afgegeven. **De gemachtigde** kan een overzicht bekijken van de ontvangen machtigingen en, afhankelijk van de toegekende rechten, aanleveringen uitvoeren. Dit omvat het aanleveren van gegevens, het opstellen van berichten, het publiceren van een aanlevering, het intrekken van een aanlevering, het verwijderen van een aanlevering en het wijzigen van een aanlevering. 
+- Met de release van de machtigingen-epic is de volgende functionaliteit erbij gekomen. **De bronhouder** kan nu machtigingen aanmaken, wijzigen, verwijderen en bekijken welke machtigingen hij heeft afgegeven. **De gemachtigde** kan een overzicht bekijken van de ontvangen machtigingen en, afhankelijk van de toegekende rechten, aanleveringen uitvoeren. Dit omvat het aanleveren van gegevens, het opstellen van berichten, het publiceren van een aanlevering, het intrekken van een aanlevering, het verwijderen van een aanlevering en het wijzigen van een aanlevering. 
+
+**Overig**
+- Enkele performance/technische verbeteringen
 
 # Release 1.25
 Productieomgeving: 22 januari 2026 (in release 1.27)
