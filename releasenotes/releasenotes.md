@@ -1,9 +1,9 @@
 # Release notes CVGG
 
 # Release 1.28
-Proefomgeving: 27 januari 2026
-
 Productieomgeving: -
+
+Proefomgeving: 27 januari 2026
 
 We hebben de afgelopen tijd achter de schermen verbeteringen doorgevoerd. Oude onderdelen zijn vervangen en het platform is verder aangescherpt. Daarnaast hebben we een aantal zaken verholpen
 
@@ -12,18 +12,18 @@ We hebben de afgelopen tijd achter de schermen verbeteringen doorgevoerd. Oude o
 - Binnen de Richtlijn Omgevingslawaaikon een gemachtigde een bestand niet meer definitief maken via het detailscherm, ondanks het feit dat hij zelf eerder nog geen bestand definitief gemaakt heeft - opgelost.
 
 # Release 1.27
-Proefomgeving: 22 januari 2026
-
 Productieomgeving: 22 januari 2026
+
+Proefomgeving: 22 januari 2026
 
 **Productiegang van machtigingen**
 
 Met de release van de machtigingen-epic is de volgende functionaliteit erbij gekomen. **De bronhouder** kan nu machtigingen aanmaken, wijzigen, verwijderen en bekijken welke machtigingen hij heeft afgegeven. **De gemachtigde** kan een overzicht bekijken van de ontvangen machtigingen en, afhankelijk van de toegekende rechten, aanleveringen uitvoeren. Dit omvat het aanleveren van gegevens, het opstellen van berichten, het publiceren van een aanlevering, het intrekken van een aanlevering, het verwijderen van een aanlevering en het wijzigen van een aanlevering. 
 
 # Release 1.25
-Proefomgeving: 6 januari 2026
-
 Productieomgeving: 22 januari 2026 (in release 1.27)
+
+Proefomgeving: 6 januari 2026
 
 **Nieuwe functionaliteiten**
 
@@ -38,9 +38,11 @@ Productieomgeving: 22 januari 2026 (in release 1.27)
 - Performance-verbetering bij machtigingen en autorisaties.
 
 # Release 1.23
-Proefomgeving: 12 december
-
 Productieomgeving: 12 december
+
+Proefomgeving: 112 december
+
+
 
 **Nieuwe functionaliteiten**
 
@@ -55,27 +57,27 @@ Twee validatieregels zijn verhoogd in niveau van waarschuwing naar blokkerend, i
 - Bij het aanleveren van een bestand bleek dat het Geluidregister niet goed kon omgaan met bepaalde namespaces. Dit is nu opgelost.
 
 # Release 1.20
-Proefomgeving: 10 november 2025
+Productieomgeving: 12 december (in release 1.23)
 
-Productieomgeving: P.M.
+Proefomgeving: 10 november 2025
 
 **Opgeloste problemen**
 
 - Problemen met het aanleveren van geluidregisterbestanden waar ge-encodeerde xml-karakters (&<>'") in staan, zijn opgelost.
 
 # Release 1.18
-Proefomgeving: 22 oktober 2025
-
 Productieomgeving: 22 oktober 2025
+
+Proefomgeving: 22 oktober 2025
 
 **Opgeloste problemen**
 
 - Problemen bij het opvragen van voortgangsrapportages voor de richtlijn omgevingsgeluid zijn opgelost.
 
 # Release 1.17
-Proefomgeving: 16 oktober 2025
+Productieomgeving: 22 oktober 2025 (in release 1.18)
 
-Productieomgeving: P.M.
+Proefomgeving: 16 oktober 2025
 
 - Deze versie komt uit een Lifecycle Management (LCM) sprint. Daarom hebben we dit keer geen nieuwe gebruikersfunctionaliteiten toegevoegd; in plaats daarvan hebben we onderhoud uitgevoerd aan onze applicatie.
 
@@ -89,9 +91,11 @@ Productieomgeving: P.M.
 - Betere code-kwaliteit
 
 # Release 1.15
+Productieomgeving 24 september 2025
+
 Proefomgeving: 23 september 2025
 
-Productieomgeving 24 september 2025
+
 
 **Nieuwe functionaliteiten**
 
@@ -105,9 +109,9 @@ Deze aanpassingen waren noodzakelijk voor de functionaliteit Machtigingen die nu
 - Voorbereidingen voor machtigingen
 
 # Release 1.14
-Proefomgeving: 18 augustus 2025
-
 Productieomgeving 18 augustus 2025
+
+Proefomgeving: 18 augustus 2025
 
 **Verbeterde functionaliteiten**
 - De performance van de kaartviewer is geoptimaliseerd, zodat er door meerdere gebruikers tegelijkertijd gebruik van gemaakt kan worden.
