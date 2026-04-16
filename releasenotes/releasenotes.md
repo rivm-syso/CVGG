@@ -2,27 +2,28 @@
 
 # Release 1.28
 Proefomgeving: 27 januari 2026
+
 Productieomgeving: -
 
 We hebben de afgelopen tijd achter de schermen verbeteringen doorgevoerd. Oude onderdelen zijn vervangen en het platform is verder aangescherpt. Daarnaast hebben we een aantal zaken verholpen
 
 **Opgeloste bugs**
 - Bij het intrekken van een publicatie zou de gebruiker, middels een dropdown menu, het bestand moeten kunnen kiezen wat gedepubliceerd dient te worden. Dit bleek niet meer te functioneren en is met deze release opgelost
-- Binnen RO kon een gemachtigde een bestand niet meer definitief maken via het detailscherm, ondanks het feit dat hij zelf eerder nog geen bestand definitief gemaakt heeft - opgelost.
+- Binnen de Richtlijn Omgevingslawaaikon een gemachtigde een bestand niet meer definitief maken via het detailscherm, ondanks het feit dat hij zelf eerder nog geen bestand definitief gemaakt heeft - opgelost.
 
 # Release 1.27
 Proefomgeving: 22 januari 2026
+
 Productieomgeving: 22 januari 2026
 
 **Productiegang van machtigingen**
-Met de release van de machtigingen-epic is de volgende functionaliteit erbij gekomen. **De bronhouder** kan machtigingen aanmaken, wijzigen, verwijderen en bekijken welke machtigingen hij heeft afgegeven. **De gemachtigde** kan een overzicht bekijken van de ontvangen machtigingen en, afhankelijk van de toegekende rechten, aanleveringen uitvoeren. Dit omvat het aanleveren van gegevens, het opstellen van berichten, het publiceren van een aanlevering, het intrekken van een aanlevering, het verwijderen van een aanlevering en het wijzigen van een aanlevering tot de functionaliteiten van een bronhouder behoort
 
-Performance/technische verbeteringen
+Met de release van de machtigingen-epic is de volgende functionaliteit erbij gekomen. **De bronhouder** kan nu machtigingen aanmaken, wijzigen, verwijderen en bekijken welke machtigingen hij heeft afgegeven. **De gemachtigde** kan een overzicht bekijken van de ontvangen machtigingen en, afhankelijk van de toegekende rechten, aanleveringen uitvoeren. Dit omvat het aanleveren van gegevens, het opstellen van berichten, het publiceren van een aanlevering, het intrekken van een aanlevering, het verwijderen van een aanlevering en het wijzigen van een aanlevering. 
 
 # Release 1.25
 Proefomgeving: 6 januari 2026
 
-Productieomgeving: -
+Productieomgeving: 22 januari 2026 (in release 1.27)
 
 **Nieuwe functionaliteiten**
 
