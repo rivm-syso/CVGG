@@ -1,5 +1,19 @@
 # Release notes CVGG
 
+# Release 1.30
+Productieomgeving: 6 mei 2026
+Proefomgeving: 29 april 2026
+
+**Nieuwe functionaliteiten**
+- Duidelijke waarschuwing voor gebruikers wanneer kaartlagen niet beschikbaar zijn.
+- Upgrade van de onderliggende Geoserver voor verbeterde stabiliteit en toekomstbestendigheid.
+
+**Overig**
+- Herstel van navigatiefunctionaliteit op de hoofdpagina: de pijltjes in de drie onderste blokken werken weer en verwijzen correct naar - - Oefenomgeving CVGG, informatie over de CVGG en informatie over regelgeving.
+- Probleem opgelost waarbij het tabblad “Aanleveren” niet correct werd gehighlight.
+- De zoomslider is weer zichtbaar wanneer de pagina-toelichting actief is.
+- De knop “Nieuw bestand” is hersteld op zowel de pagina van het Geluidregister als de Richtlijn Omgevingslawaai.
+
 # Release 1.28
 Productieomgeving: -
 
