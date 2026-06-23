@@ -5,6 +5,7 @@ Productieomgeving: 16 juni 2026
 Proefomgeving: 22 juni 2026
 
 **Nieuwe functionaliteiten**
+
 Op de publieke kaart zijn detailgegevens van objecten nu direct inzichtelijk. Door op een object te klikken kunnen onze gebruikers alle beschikbare kenmerken en bijbehorende detailgegevens van het geselecteerde object bekijken. Hierdoor is meer informatie direct toegankelijk vanuit de kaartweergave, zonder aanvullende handelingen of navigatie.
 
 # Release 1.30
