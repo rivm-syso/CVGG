@@ -1,5 +1,15 @@
 # Release notes CVGG
 
+# Release 1.32
+**Productieomgeving:** 25 juni 2026
+**Proefomgeving:** 25 juni 2026
+
+**Nieuwe functionaliteit**
+- RSS-feed beschikbaar die automatisch updates doorgeeft wanneer er iets verandert in het Geluidregister. Hiermee hoef je het register niet meer handmatig te controleren, maar ontvang je wijzigingen direct via je RSS-lezer. Het gaat hier in het bijzonder om nieuwe publicaties en wijzigingen in de status van bestaande publicaties.
+
+**Overig**
+- Monitoringresultaat-features zonder monitoringwaarde-elementen worden nu goedgekeurd. Hierdoor kunnen bestanden met dergelijke features succesvol worden aangeleverd en verwerkt.
+
 # Release 1.31
 **Productieomgeving:** 16 juni 2026
 **Proefomgeving:** 22 juni 2026
