@@ -1,6 +1,7 @@
 # Release notes CVGG
 # Release 1.33 tot en met 1.39
 **Productieomgeving:** 17 September 2026
+
 Deze releases stonden voornamelijk in het teken van technische verbeteringen en stabiliteit. Achter de schermen zijn verschillende upgrades en optimalisaties doorgevoerd om de website betrouwbaarder, stabieler en beter beheersbaar te maken.
 
 **Upgrades:**
