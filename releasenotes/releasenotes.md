@@ -1,4 +1,20 @@
 # Release notes CVGG
+# Release 1.33 tot en met 1.39
+**Productieomgeving:** 17 September 2026
+Deze releases stonden voornamelijk in het teken van technische verbeteringen en stabiliteit. Achter de schermen zijn verschillende upgrades en optimalisaties doorgevoerd om de website betrouwbaarder, stabieler en beter beheersbaar te maken.
+
+**Upgrades:**
+Angular 20 naar Angular 22
+Java 25 en Spring Boot 4
+
+**Bugfixes:**
+- Foutmelding bij uitleveren op selectie op de kaart - Bij het uitleveren op de kaart verschijnt er een fout op het scherm.
+- Knop ‘Bewaar’ bleef actief na plaatsen van een bericht - Na het plaatsen van een bericht werd de knop ‘Bewaar’ niet disabled
+- Onjuiste melding na succesvolle aanlevering RO - Er werd niet de juiste bevestigingsmelding getoond.
+- Wegdelen/spoordelen bij BGE waren weggevallen bij het opvragen van detailgegevens op de kaart - De wegdelen/spoordelen bij BGE werden niet meer weergegeven.
+
+**Overig:**
+Er wordt gewerkt aan nieuwe functionaliteiten rondom het aanleveren bij richtlijn omgevingslawaai. Dit heeft voornamelijk te maken met de validaties die zullen worden gedaan vanaf 2027. Op de achtergrond wordt hier al software voor ontwikkeld.
 
 # Release 1.32
 **Productieomgeving:** 25 juni 2026
