@@ -5,8 +5,8 @@
 Deze releases stonden voornamelijk in het teken van technische verbeteringen en stabiliteit. Achter de schermen zijn verschillende upgrades en optimalisaties doorgevoerd om de website betrouwbaarder, stabieler en beter beheersbaar te maken.
 
 **Upgrades:**
-Angular 20 naar Angular 22
-Java 25 en Spring Boot 4
+- Angular 20 naar Angular 22
+- Java 25 en Spring Boot 4
 
 **Bugfixes:**
 - Foutmelding bij uitleveren op selectie op de kaart - Bij het uitleveren op de kaart verschijnt er een fout op het scherm.
