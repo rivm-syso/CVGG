@@ -1,5 +1,5 @@
 # Release notes CVGG
-# Release 1.40 0 en 1.41
+# Release 1.40 en 1.41
 **Proefomgeving:** 24 September 2026
 **Productieomgeving:** 25 September 2026
  
