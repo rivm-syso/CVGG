@@ -1,4 +1,21 @@
 # Release notes CVGG
+# Release 1.40 0 en 1.41
+**Proefomgeving:** 24 September 2026
+**Productieomgeving:** 25 September 2026
+ 
+We hebben een aantal verbeteringen doorgevoerd waardoor een nieuwe functionaliteit beschikbaar is. De technische aanpassingen achter de schermen zorgen ervoor dat deze functionaliteit goed en betrouwbaar werkt.
+ 
+**Functionaliteit**
+- Richtlijn omgevingslawaai-bestanden: Bij het aanleveren van een RO-bestand moet de gebruiker voortaan per dataset aangeven voor welk jaar de gegevens worden opgeleverd.
+- Richtlijn omgevingslawaai-bestanden: Het foutenverslag is verduidelijkt, zodat gebruikers beter inzicht krijgen in de geconstateerde fouten en onnodige ruis wordt voorkomen.
+- Voortgangsrapportage: De voortgangsrapportage is uitgebreid met de nieuwe kolommen *‘Inwoners’* en *‘applicableSources’*.
+
+**Bugfixes:**
+Onderstaande bugfixes zijn opgelost
+- Tijdens het genereren van een bericht werd de knop *‘Plaats bericht’* onterecht als uitgeschakeld weergegeven.
+- Na het verwijderen van een machtiging werd de tabel niet automatisch vernieuwd. Hierdoor bleef de verwijderde machtiging zichtbaar totdat de pagina handmatig werd vernieuwd.
+- Op zowel de *publieke kaart* als de *controlekaart* werd de legenda niet correct weergegeven en waren enkele functionaliteiten niet beschikbaar.
+
 # Release 1.33 tot en met 1.39
 **Productieomgeving:** 17 September 2026
 
