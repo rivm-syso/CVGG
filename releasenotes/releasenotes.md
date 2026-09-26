@@ -88,6 +88,15 @@ Proefomgeving: 22 januari 2026
 **Overig**
 - Enkele performance/technische verbeteringen
 
+# Release 1.26
+Proefomgeving: 15 januari 2026
+
+Productieomgeving: -
+
+**Herstelde fouten**
+
+- Wijzigen bronhouder van opvolgberichten is niet meer mogelijk.
+
 # Release 1.25
 Productieomgeving: 22 januari 2026 (in release 1.27)
 
