@@ -29,7 +29,8 @@ Aanlever- en uitleverbestanden moeten voldoen aan de [Uitwisselstandaard CVGG](h
 
 Nadere toelichting over de inhoud van aanlever- en uitleverbestanden vind je in de toelichting op uitwisselen gegevens. Daar staat o.a beschreven welke onderdelen van IMGeluid je moet aanleveren per geluidbron en per type aanlevering.
 
-- [Toelichting op uitwisselen gegevens IMGeluid 3.1](https://github.com/rivm-syso/CVGG/blob/main/documenten/Toelichting%20op%20uitwisseling%20gegevens%20v0.5.pdf "Toelichting op uitwisselen gegevens")
+- [Toelichting op uitwisselen gegevens IMGeluid 3.1 en IMGeluid 4.0](https://github.com/rivm-syso/CVGG/blob/main/documenten/Toelichting%20op%20uitwisseling%20gegevens%20v0.5.pdf "Toelichting op uitwisselen gegevens")
+  
 
 #### Validatieregels
 Bij het aanleveren van bestanden valideert de CVGG of deze bestanden voldoen aan IMGeluid en de Uitwisselstandaard. Dat gebeurt grotendeels obv van het applicatieschema (xsd) dat als serviceproduct wordt meegeleverd bij het IMGeluid. Voor de validaties die niet via een dergelijke applicatieschema gevalideerd kunnen worden, maar wel onderdeel zijn van IMGeluid en de Uitwisselstaandaard, zijn extra validatieregels geimplementeerd. 
@@ -41,6 +42,7 @@ Per geluidbron en per type aan- of uitlevering zijn voorbeelden beschikbaar. Dat
 LET OP. Doel van de voorbeeldbestanden is om te laten zien hoe een GML-bestand er uit moet komen te zien volgens de structuur van het IMGeluid, en conform de uitwisselstandaard. De inhoud is dan ook **fictief**, en komt **NIET** overeen met de akoestische werkelijkheid.
 
 - [Voorbeeldbestanden aanleveren en uitleveren (IMGeluid 3.1)](https://github.com/rivm-syso/CVGG/tree/main/voorbeeldbestanden/IMgeluid%203.1 "Voorbeeldbestanden aanleveren (IMGeluid 3.1)")
+- [Voorbeeldbestanden aanleveren en uitleveren (IMGeluid 4.0)](https://github.com/rivm-syso/CVGG/tree/main/voorbeeldbestanden/IMgeluid%204.0 "Voorbeeldbestanden aanleveren (IMGeluid 4.0)")
 
 #### Feedback
 De voorbeeldbestanden zijn met zorg samengesteld. Mochten jullie nog fouten tegen komen, of suggesties tot verbetering horen we dat heel graag! Dan kunnen we dit verbeteren. Dat geldt voor zowel het IMgeluid, de uitwisselstaandaard, en de voorbeelbestanden. Jullie ervaringen en terugkoppeling zijn dan ook van harte welkom! Graag via cvgg@rivm.nl.
