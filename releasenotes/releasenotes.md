@@ -1,4 +1,20 @@
 # Release notes CVGG
+# Release 1.42
+**Productieomgeving:** 21 oktober 2026
+**Proefomgeving:** 20 oktober 2026
+
+In deze release is aandacht besteed aan het oplossen van diverse bugs in de frontend (FE). Hieronder een overzicht van de geconstateerde problemen en de bijbehorende oplossingen:
+
+**Fixes:**
+- Berichtgeving: Het filter werkte niet meer naar behoren. Dit is hersteld.
+- Tekstgrootte: De tekst ‘Kies eerst een bronhouder’ werd te klein weergegeven. De tekstgrootte is aangepast naar het juiste formaat.
+- Validatiemelding: De melding ‘Bestand wordt gevalideerd’ bleef terugkomen nadat deze was gesloten. Dit gedrag is verholpen.
+- Footer: De optie ‘Beheer’ werd op de homepage getoond wanneer de gebruiker niet was ingelogd. De weergave is aangepast, zodat deze optie alleen zichtbaar is wanneer dit hoort.
+- Tabelsortering richtlijn omgevingslawaai: De standaard sortering van tabellen werd niet weergegeven, waardoor onduidelijk was waarop de tabel was gesorteerd. De sortering wordt weer duidelijk weergegeven.
+- Deelfunctie: Onderaan pagina’s werden voorheen opties voor het delen van de betreffende pagina getoond. Deze opties zijn verwijderd.
+- Resultaattabel: In het overzicht van aangeleverde bestanden werd bij kolom ‘Resultaat’ het verkeerde sorteericoon getoond . Het juiste icoon word nu weergegeven.
+- Statusnavigatie: In het overzicht van aangeleverde bestanden leidde een klik op de kolom ‘Status’ niet tot navigatie naar de bijbehorende pagina. De navigatie werkt weer zoals bedoeld.
+
 # Release 1.40 en 1.41
 **Proefomgeving:** 24 September 2026
 **Productieomgeving:** 25 September 2026
