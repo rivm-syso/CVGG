@@ -1,7 +1,7 @@
 # Release notes CVGG
 # Release 1.42
-**Productieomgeving:** 20 oktober 2026
-**Proefomgeving:** 21 oktober 2026
+**Productieomgeving:** 21 oktober 2026
+**Proefomgeving:** 20 oktober 2026
 
 In deze release is aandacht besteed aan het oplossen van diverse bugs in de frontend (FE). Hieronder een overzicht van de geconstateerde problemen en de bijbehorende oplossingen:
 
