@@ -1,4 +1,29 @@
 # Release notes CVGG
+
+# Release 1.43 (IMG3.1) en 2.0 (IMG4.0)
+- **Productieomgeving 1.43:** xx november 2026
+- **Proefomgeving 2.0:** xx november 2026
+
+In deze release is IMGeluid 4.0 geimplementeerd, nieuwe fucntionalitiet voor de richtlijn omgevingslwaai toegevoegd, en zijn enkele bugs opgelost. Op de productie-omgeving blijven we werken met IMGeluid 3.1. De Oefenomgeving werkt vanaf nu met IMGeluid 4.0. Hieronder een overzicht van de aanpassingen in deze release. 
+
+**IMGeluid 4.0** (versie 2.0) 
+
+
+**Validatieregels** (versie 2.0 en 1.43) 
+
+
+**Richtlijn omgeveingslawaai**(versie 2.0 en 1.43) 
+
+
+**Bugfixes**(versie 2.0 en 1.43) 
+
+
+
+
+
+
+
+
 # Release 1.42
 **Productieomgeving:** 21 oktober 2026
 **Proefomgeving:** 20 oktober 2026
