@@ -16,14 +16,14 @@ In deze release is IMGeluid 4.0 geimplementeerd, zijn nieuwe validatieregels voo
 De volgende validatieregels zijn toegevoegd
 
 ****Versie 2.0 en 1.43****
-- CVGG-10120: Geluidcontour - Er mag maximaal maar één Geluidcontour per geluidniveau per GeluidcontourSet voorkomen. Attributen met eenzelfde geluidniveau waarde moeten aangeleverd worden als een multipolygoon.
+- CVGG-10120: Geluidcontour - Er mag maximaal maar één Geluidcontour per geluidniveau per GeluidcontourSet voorkomen. Attributen met eenzelfde geluidniveau waarde moeten aangeleverd worden als een multi-polygoon.
 - CVGG-11364: Geluidcontour - Een contourVlak van dezelfde contourSet mogen elkaar niet overlappen.
 
 ****Versie 2.0****
 
 In IMGeluid 4.0 moet er vanuit een basisgeluidemissie naar een verslagBGE verwezen worden. Naar aanleiding daarvan zijn volgende validatieregels aangepast.
 
-- CVGG135: Elke xlink in een aanlevering moet verwijzen naar een object in diezelfde aanlevering, behalve bij de verwijzing naar gpp-objecten vanuit monitoringresultaat. een gemonitordObject of een Terrein bij een aanlevering van het type monitoringresultaat of brongegevens monitoring
+- CVGG135: Elke xlink in een aanlevering moet verwijzen naar een object in diezelfde aanlevering, behalve bij de verwijzing naar gpp-objecten vanuit monitoringresultaat, een gemonitordObject of een Terrein bij een aanlevering van het type monitoringresultaat of brongegevens monitoring
 - CVGG116: Type feature: De relatierol verslagBGE moet verwijzen naar het Objecttype Documentverwijzing
 - CVGG136: Naar elk object in een aanlevering moet via een xlink worden verwezen, met uitzondering van de geluidgegevenscollectie. Daar hoeft geen verwijzing naar te bestaan.
 
@@ -32,7 +32,7 @@ In IMGeluid 4.0 moet er vanuit een basisgeluidemissie naar een verslagBGE verwez
 
 **Bugfixes** (versie 2.0 en 1.43) 
 - Bij het opvragen van details op de kaart werd bij windturbines de 'Hz' banden op alfabetische volgorde gesorteerd ipv laag naar hoog. Dat is nu aangepast.
-- Bij het opvragen van details op de kaart werden de monitoirngresulaten van meerdere jaren gesorteerd van oud naar nieuw. Dat is aangepast van nieuw naar oud. 
+- Bij het opvragen van details op de kaart werden de monitoringresulaten van meerdere jaren gesorteerd van oud naar nieuw. Dat is aangepast van nieuw naar oud. 
 
 
 
