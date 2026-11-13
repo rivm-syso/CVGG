@@ -2,7 +2,7 @@
 
 # Release 1.43 (IMG3.1) en 2.0 (IMG4.0)
 - **Productieomgeving 1.43:** 
-- **Proefomgeving 2.0:** 12 november 2026
+- **Proefomgeving 2.0:** 16 november 2026
 
 In deze release is IMGeluid 4.0 geimplementeerd, zijn nieuwe validatieregels voor de richtlijn omgevingslwaai toegevoegd, en zijn enkele bugs opgelost. 
 - De Oefenomgeving werkt vanaf nu met IMGeluid 4.0. Hieronder een overzicht van de aanpassingen in deze release.
