@@ -21,18 +21,18 @@ De volgende validatieregels zijn toegevoegd
 
 ****Versie 2.0****
 
-In IMGeluid 4.0 moet er vanuit een basisgeluidemissie naar een verslagBGE verwezen worden. Nav daarvan zijn de volgende validatieregels aangepast.
+In IMGeluid 4.0 moet er vanuit een basisgeluidemissie naar een verslagBGE verwezen worden. Naar aanleiding daarvan zijn volgende validatieregels aangepast.
 
 - CVGG135: Elke xlink in een aanlevering moet verwijzen naar een object in diezelfde aanlevering, behalve bij de verwijzing naar gpp-objecten vanuit monitoringresultaat. een gemonitordObject of een Terrein bij een aanlevering van het type monitoringresultaat of brongegevens monitoring
 - CVGG116: Type feature: De relatierol verslagBGE moet verwijzen naar het Objecttype Documentverwijzing
 - CVGG136: Naar elk object in een aanlevering moet via een xlink worden verwezen, met uitzondering van de geluidgegevenscollectie. Daar hoeft geen verwijzing naar te bestaan.
 
 **Richtlijn omgevingslawaai** (versie 2.0 en 1.43) 
-- Bij het aanleveren geluidbelastingkaart voor ronde 2027, worden nu extra validaties uitgevoerd, zoals: controle op de verwachte geluidbronnen (applicacleSources) per gemeente, zijn de geluidcontouren 'afgeknipt' op de bestuurlijke grenzen, klopt de estatUnitcode CBS-code en agglomeratie-id. 
+- Bij het aanleveren geluidbelastingkaart voor ronde 2027, worden nu extra validaties uitgevoerd, zoals: controle op de verwachte geluidbronnen (applicableSources) per gemeente; zijn de geluidcontouren 'afgeknipt' op de bestuurlijke grenzen; en klopt de estatUnitcode (CBS-code) en agglomerationIdIdentifier met de bronhouder die de gegevens aanlevert. 
 
 **Bugfixes** (versie 2.0 en 1.43) 
-- Bij het opvragen van details op de kaart werd bij windturbines de 'Hz' banden op alfabetische volgorde gesorteerd ipv laag naar hoor. Dat is nu aangepast.
-- Bij het opvragen van details op de kaart werden besluiten van meerdere jaren gesorteerd van oud naar nieuw. Dat is gepast van nieuw naar oud. 
+- Bij het opvragen van details op de kaart werd bij windturbines de 'Hz' banden op alfabetische volgorde gesorteerd ipv laag naar hoog. Dat is nu aangepast.
+- Bij het opvragen van details op de kaart werden de monitoirngresulaten van meerdere jaren gesorteerd van oud naar nieuw. Dat is aangepast van nieuw naar oud. 
 
 
 
