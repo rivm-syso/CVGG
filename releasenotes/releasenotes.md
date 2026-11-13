@@ -4,7 +4,7 @@
 - **Productieomgeving 1.43:** 
 - **Proefomgeving 2.0:** 16 november 2026
 
-In deze release is IMGeluid 4.0 geimplementeerd, zijn nieuwe validatieregels voor de richtlijn omgevingslwaai toegevoegd, en zijn enkele bugs opgelost. 
+In deze release is IMGeluid 4.0 geimplementeerd, zijn nieuwe validatieregels voor de richtlijn omgevingslawaai toegevoegd, en zijn enkele bugs opgelost. 
 - De Oefenomgeving werkt vanaf nu met IMGeluid 4.0. Hieronder een overzicht van de aanpassingen in deze release.
 - De Productie-omgeving blijft werken met IMGeluid 3.1, tot het moment dat alle gebruikers hun systemen hebben kunnen aanpassen op IMG4.0. In januari 2027 wordt de definitieve datum vastgesteld dat de Cvgg productie-omgeving met IMGeluid 4.0 zal werken.
 
