@@ -23,9 +23,9 @@ De volgende validatieregels zijn toegevoegd
 
 In IMGeluid 4.0 moet er vanuit een basisgeluidemissie naar een verslagBGE verwezen worden. Naar aanleiding daarvan zijn volgende validatieregels aangepast.
 
-- CVGG135a: Elke xlink in een aanlevering moet verwijzen naar een object in diezelfde aanlevering, behalve bij de verwijzing naar gpp-objecten vanuit monitoringresultaat, een gemonitordObject of een Terrein bij een aanlevering van het type monitoringresultaat of brongegevens monitoring. Het objecttype verslagBGE is toegevoegd ivm IMG4.0
-- CVGG116: Relaties: Valideren op kardinaliteit en type feature waarnaar verwezen wordt. Toegvoegd is dat de relatierol verslagBGE moet verwijzen naar het Objecttype Documentverwijzing. 
-- CVGG136a: Naar elk object in een aanlevering moet via een xlink worden verwezen, met uitzondering van de geluidgegevenscollectie. Daar hoeft geen verwijzing naar te bestaan. Het objecttype verslagBGE is toegevoegd ivm IMG4.0
+- CVGG135a: Validatieregel 135 is uitgebreid. Het objecttype verslagBGE is toegevoegd ivm IMG4.0
+- CVGG136a: Validatieregel 136 is uitgebreid. Het objecttype verslagBGE is toegevoegd ivm IMG4.0
+- CVGG116: Relaties: Valideren op kardinaliteit en type feature waarnaar verwezen wordt. Toegevoegd is dat de relatierol verslagBGE moet verwijzen naar het Objecttype Documentverwijzing. 
 
 **Richtlijn omgevingslawaai** (versie 2.00 en 1.43) 
 - Bij het aanleveren geluidbelastingkaart voor ronde 2027, worden nu extra validaties uitgevoerd, zoals: controle op de verwachte geluidbronnen (applicableSources) per gemeente; zijn de geluidcontouren 'afgeknipt' op de bestuurlijke grenzen; en klopt de estatUnitcode (CBS-code) en agglomerationIdIdentifier met de bronhouder die de gegevens aanlevert. 
