@@ -1,6 +1,6 @@
 # Release notes CVGG
 
-# Release 1.43 (IMG3.1) en 2.0 (IMG4.0)
+# Release 1.43 (IMG3.1) en 2.00 (IMG4.0)
 - **Productieomgeving 1.43:** 
 - **Proefomgeving 2.0:** 16 november 2026
 
@@ -8,33 +8,31 @@ In deze release is IMGeluid 4.0 geimplementeerd, zijn nieuwe validatieregels voo
 - De Oefenomgeving werkt vanaf nu met IMGeluid 4.0. Hieronder een overzicht van de aanpassingen in deze release.
 - De Productie-omgeving blijft werken met IMGeluid 3.1, tot het moment dat alle gebruikers hun systemen hebben kunnen aanpassen op IMG4.0. In januari 2027 wordt de definitieve datum vastgesteld dat de Cvgg productie-omgeving met IMGeluid 4.0 zal werken.
 
-**IMGeluid 4.0** (versie 2.0)
+**IMGeluid 4.0** (versie 2.00)
 - De Cvgg is nu aangepast dat het aanleveren en uitleveren van IMGeluid 4.0 bestanden mogelijk is. 
 
-**Validatieregels** (versie 2.0 en 1.43) 
+**Validatieregels** (versie 2.00 en 1.43) 
 
 De volgende validatieregels zijn toegevoegd
 
-****Versie 2.0 en 1.43****
-- CVGG-10120: Geluidcontour - Er mag maximaal maar één Geluidcontour per geluidniveau per GeluidcontourSet voorkomen. Attributen met eenzelfde geluidniveau waarde moeten aangeleverd worden als een multi-polygoon.
-- CVGG-11364: Geluidcontour - Een contourVlak van dezelfde contourSet mogen elkaar niet overlappen.
+****Versie 2.00 en 1.43****
+- CVGG191: Geluidcontour - Een GeluidcontourSet heeft maximaal één geluidcontour per geluidniveau.
+- CVGG192: Geluidcontour - Geluidcontourvlakken van één GeluidcontourSet mogen elkaar niet overlappen
 
-****Versie 2.0****
+****Versie 2.00****
 
 In IMGeluid 4.0 moet er vanuit een basisgeluidemissie naar een verslagBGE verwezen worden. Naar aanleiding daarvan zijn volgende validatieregels aangepast.
 
-- CVGG135: Elke xlink in een aanlevering moet verwijzen naar een object in diezelfde aanlevering, behalve bij de verwijzing naar gpp-objecten vanuit monitoringresultaat, een gemonitordObject of een Terrein bij een aanlevering van het type monitoringresultaat of brongegevens monitoring
-- CVGG116: Type feature: De relatierol verslagBGE moet verwijzen naar het Objecttype Documentverwijzing
-- CVGG136: Naar elk object in een aanlevering moet via een xlink worden verwezen, met uitzondering van de geluidgegevenscollectie. Daar hoeft geen verwijzing naar te bestaan.
+- CVGG135a: Elke xlink in een aanlevering moet verwijzen naar een object in diezelfde aanlevering, behalve bij de verwijzing naar gpp-objecten vanuit monitoringresultaat, een gemonitordObject of een Terrein bij een aanlevering van het type monitoringresultaat of brongegevens monitoring. Het objecttype verslagBGE is toegevoegd ivm IMG4.0
+- CVGG116: Relaties: Valideren op kardinaliteit en type feature waarnaar verwezen wordt. Toegvoegd is dat de relatierol verslagBGE moet verwijzen naar het Objecttype Documentverwijzing. 
+- CVGG136a: Naar elk object in een aanlevering moet via een xlink worden verwezen, met uitzondering van de geluidgegevenscollectie. Daar hoeft geen verwijzing naar te bestaan. Het objecttype verslagBGE is toegevoegd ivm IMG4.0
 
-**Richtlijn omgevingslawaai** (versie 2.0 en 1.43) 
+**Richtlijn omgevingslawaai** (versie 2.00 en 1.43) 
 - Bij het aanleveren geluidbelastingkaart voor ronde 2027, worden nu extra validaties uitgevoerd, zoals: controle op de verwachte geluidbronnen (applicableSources) per gemeente; zijn de geluidcontouren 'afgeknipt' op de bestuurlijke grenzen; en klopt de estatUnitcode (CBS-code) en agglomerationIdIdentifier met de bronhouder die de gegevens aanlevert. 
 
-**Bugfixes** (versie 2.0 en 1.43) 
+**Bugfixes** (versie 2.00 en 1.43) 
 - Bij het opvragen van details op de kaart werd bij windturbines de 'Hz' banden op alfabetische volgorde gesorteerd ipv laag naar hoog. Dat is nu aangepast.
 - Bij het opvragen van details op de kaart werden de monitoringresulaten van meerdere jaren gesorteerd van oud naar nieuw. Dat is aangepast van nieuw naar oud. 
-
-
 
 # Release 1.42
 - **Productieomgeving:** 21 oktober 2026
