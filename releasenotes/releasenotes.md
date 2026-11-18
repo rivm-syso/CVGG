@@ -1,7 +1,42 @@
 # Release notes CVGG
+
+# Release 1.43 (IMG3.1) en 2.00 (IMG4.0)
+- **Productieomgeving 1.43:** 
+- **Proefomgeving 2.0:** 16 november 2026
+
+In deze release is IMGeluid 4.0 geïmplementeerd, zijn nieuwe validatieregels voor de richtlijn omgevingslawaai toegevoegd, en zijn enkele bugs opgelost. 
+- De Oefenomgeving werkt vanaf nu met IMGeluid 4.0. Hieronder een overzicht van de aanpassingen in deze release.
+- De Productie-omgeving blijft werken met IMGeluid 3.1, tot het moment dat alle gebruikers hun systemen hebben kunnen aanpassen op IMG4.0. In januari 2027 wordt de definitieve datum vastgesteld dat de Cvgg productie-omgeving met IMGeluid 4.0 zal werken.
+
+**IMGeluid 4.0** (versie 2.00)
+- De Cvgg is nu aangepast dat het aanleveren en uitleveren van IMGeluid 4.0 bestanden mogelijk is. 
+
+**Validatieregels** (versie 2.00 en 1.43) 
+
+De volgende validatieregels zijn toegevoegd
+
+****Versie 2.00 en 1.43****
+- CVGG191: Geluidcontour - Een GeluidcontourSet heeft maximaal één geluidcontour per geluidniveau.
+- CVGG192: Geluidcontour - Geluidcontourvlakken van één GeluidcontourSet mogen elkaar niet overlappen
+
+****Versie 2.00****
+
+In IMGeluid 4.0 moet er vanuit een basisgeluidemissie naar een verslagBGE verwezen worden. Naar aanleiding daarvan zijn volgende validatieregels aangepast.
+
+- CVGG135a: Validatieregel 135 is uitgebreid. Het objecttype verslagBGE is toegevoegd ivm IMG4.0
+- CVGG136a: Validatieregel 136 is uitgebreid. Het objecttype verslagBGE is toegevoegd ivm IMG4.0
+- CVGG116: Relaties: Valideren op kardinaliteit en type feature waarnaar verwezen wordt. Toegevoegd is dat de relatierol verslagBGE moet verwijzen naar het Objecttype Documentverwijzing. 
+
+**Richtlijn omgevingslawaai** (versie 2.00 en 1.43) 
+- Bij het aanleveren geluidbelastingkaart voor ronde 2027, worden nu extra validaties uitgevoerd, zoals: controle op de verwachte geluidbronnen (applicableSources) per gemeente; zijn de geluidcontouren 'afgeknipt' op de bestuurlijke grenzen; en klopt de estatUnitcode (CBS-code) en agglomerationIdIdentifier met de bronhouder die de gegevens aanlevert. 
+
+**Bugfixes** (versie 2.00 en 1.43) 
+- Bij het opvragen van details op de kaart werd bij windturbines de 'Hz' banden op alfabetische volgorde gesorteerd ipv laag naar hoog. Dat is nu aangepast.
+- Bij het opvragen van details op de kaart werden de monitoringresultaten van meerdere jaren gesorteerd van oud naar nieuw. Dat is aangepast van nieuw naar oud. 
+
 # Release 1.42
-**Productieomgeving:** 21 oktober 2026
-**Proefomgeving:** 20 oktober 2026
+- **Productieomgeving:** 21 oktober 2026
+- **Proefomgeving:** 20 oktober 2026
 
 In deze release is aandacht besteed aan het oplossen van diverse bugs in de frontend (FE). Hieronder een overzicht van de geconstateerde problemen en de bijbehorende oplossingen:
 
@@ -33,7 +68,7 @@ Onderstaande bugfixes zijn opgelost
 - Op zowel de *publieke kaart* als de *controlekaart* werd de legenda niet correct weergegeven en waren enkele functionaliteiten niet beschikbaar.
 
 # Release 1.33 tot en met 1.39
-**Productieomgeving:** 17 September 2026
+- **Productieomgeving:** 17 September 2026
 
 Deze releases stonden voornamelijk in het teken van technische verbeteringen en stabiliteit. Achter de schermen zijn verschillende upgrades en optimalisaties doorgevoerd om de website betrouwbaarder, stabieler en beter beheersbaar te maken.
 
@@ -51,8 +86,8 @@ Deze releases stonden voornamelijk in het teken van technische verbeteringen en 
 Er wordt gewerkt aan nieuwe functionaliteiten rondom het aanleveren bij richtlijn omgevingslawaai. Dit heeft voornamelijk te maken met de validaties die zullen worden gedaan vanaf 2027. Op de achtergrond wordt hier al software voor ontwikkeld.
 
 # Release 1.32
-**Productieomgeving:** 25 juni 2026
-**Proefomgeving:** 25 juni 2026
+- **Productieomgeving:** 25 juni 2026
+- **Proefomgeving:** 25 juni 2026
 
 **Nieuwe functionaliteit**
 - RSS-feed beschikbaar die automatisch updates doorgeeft wanneer er iets verandert in het Geluidregister. Hiermee hoef je het register niet meer handmatig te controleren, maar ontvang je wijzigingen direct via je RSS-lezer. Het gaat hier in het bijzonder om nieuwe publicaties en wijzigingen in de status van bestaande publicaties.
@@ -61,8 +96,8 @@ Er wordt gewerkt aan nieuwe functionaliteiten rondom het aanleveren bij richtlij
 - Monitoringresultaat-features zonder monitoringwaarde-elementen worden nu goedgekeurd. Hierdoor kunnen bestanden met dergelijke features succesvol worden aangeleverd en verwerkt.
 
 # Release 1.31
-**Productieomgeving:** 16 juni 2026
-**Proefomgeving:** 22 juni 2026
+- **Productieomgeving:** 16 juni 2026
+- **Proefomgeving:** 22 juni 2026
 
 **Nieuwe functionaliteiten**
 Op de publieke kaart zijn detailgegevens van objecten nu direct inzichtelijk. Door op een object te klikken kunnen onze gebruikers alle beschikbare kenmerken en bijbehorende detailgegevens van het geselecteerde object bekijken. Hierdoor is meer informatie direct toegankelijk vanuit de kaartweergave, zonder aanvullende handelingen of navigatie.
