@@ -1,5 +1,8 @@
 # Release notes CVGG
 
+# Release 1.44
+- Het maken van (samengestelde) geluidregisterbestanden werd soms onverwacht afgebroken. Dat is in deze release verholpen.  
+
 # Release 1.43 (IMG3.1) en 2.00 (IMG4.0)
 - **Productieomgeving 1.43:** 
 - **Proefomgeving 2.0:** 16 november 2026
