@@ -2,6 +2,7 @@
 
 # Release 1.44
 - Het maken van (samengestelde) geluidregisterbestanden werd soms onverwacht afgebroken. Dat is in deze release verholpen.  
+- Bij het aanleveren van RO-bestanden kunnen er nu ook waarschuwingen in het validatierapport staat. Als er verder geen fouten geconstateerd zijn, is het bestand dan wel aangeleverd.
 
 # Release 1.43 (IMG3.1) en 2.00 (IMG4.0)
 - **Productieomgeving 1.43:** 
